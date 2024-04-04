@@ -234,7 +234,7 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
 ### 1.2. Solution Profile
 Codex busca el desarrollo de una plataforma web llamada “MusicTime”, que busca ofrecer una experiencia fluida y eficiente para la gestión de contratos de música. Los usuarios de esta plataforma podrán crear, almacenar, organizar y dar seguimiento a contratos de manera centralizada, eliminando la necesidad de procesos manuales y dispersos.
 Además de simplificar la gestión de contratos, MusicTime ofrece características avanzadas como notificaciones automatizadas, recordatorios de vencimiento, seguimiento de pagos y colaboración en tiempo real. Esto permite a los profesionales de la música mantenerse al tanto de sus compromisos contractuales de manera proactiva y eficaz.
-Con un enfoque en la usabilidad y la seguridad de los datos, ya sea un músico independiente, un manager de artistas o una discográfica multinacional, Codex es la herramienta ideal para optimizar la gestión de contratos y potenciar el éxito en la industria de la música. 
+Con un enfoque en la usabilidad y la seguridad de los datos, ya sea un músico independiente, un manager de artistas o una discográfica multinacional, Codex es la herramienta ideal para optimizar la gestión de contratos y potenciar el éxito en la industria de la música.
 #### 1.2.1 Antecedentes y problemática
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
