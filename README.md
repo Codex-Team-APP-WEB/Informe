@@ -201,6 +201,8 @@
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+Somos una startup innovadora llamada “Codex” que se especializa en el desarrollo de una plataforma web dedicada a la gestión de contratos de música. Nuestra misión es revolucionar la manera en que los profesionales de la industria musical administran y controlan sus acuerdos contractuales, proporcionando una solución tecnológica que sea integral y fácil de usar.
+Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscaremos las formas de desarrollar el producto para presentarlo en el trabajo final del curso de esta manera poder desarrollar experiencia en el desarrollo de soluciones tecnológicas.
 #### 1.1.2. Perfiles de integrantes del equipo
 
 <table style="border-collapse: collapse; width: 100%;">
@@ -218,9 +220,21 @@
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201b895</td>
   </tr>
+   <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://lh3.googleusercontent.com/pw/AP1GczN6qegoeIT4XDEmRB2qI_JmGeDB8q0sgkLHvpwmH-7c0yiTQYQuZ1PuhcUEYFA49HFVCHcvmtTVb-kTxNW5DnXx_NnOwRhlVDbnRdupMoYMPqKCji-XyXPfRNaS-9cyNxHEURKzv-zJs9N0_Ikc4IjqpeWcQXw_vdh7qQ6TC1tfkaauTS-dUD4ydEYLb825-JTs_SvGg5llJ2nKioly6htfJjID-rPgUxHpGlCLlOXZlgVzw2VxXt_FG9ImHtLwAGKpzEe1QWAVhOFXHFbg8MziP_EpRuOIcTKUg69RxDcvd3N04zzQ7pVW2uYCF8R6_6ywnayUoTznhL7leY4X0lEqXPbLgwOUOhYUBwEY4DqYENVnIdfazkV8YtIRCvQ3yZtBfzorlOKQEsTXU99NCbTfH5SmPr1Rm0LLH-uFyjY5zu3P-lsu5F3OHcLq4okJZmt7TUZFt4mWDmGcjyeurbrFgziq4U30V-T9dbNb7NO75WOSva_t7cUKu5I7iKA04eOXPFT2zTdM5leP9TWu0nlg3P7GTJKcg97cWdXFDfYBaFgbqtuRvfqQYzqjgBDCd2gnMiPfuNxksQuBmfHt4y6GHfB3_7Apg8ObzxOxYkNghh4Plmlev6_7AZkqSRBtw-2t8BwBsyCG455bBm4yPHjavj0IrVLfynpzpAhJl3w4BZkqF4bHJzteV14c17gSgM5816LYrfLp3uqzn_0ASM-e6MwnjaZ1Jg5iV231D2CiUhsatqvmWWY6p2g8nMSYSSp26LHACGkoEYXl8Uf37ISjQnx0JGtPPME56St4eQB6tK2DCvDVmJYyUQ7aW_FHe9ZuuHhsuog2VFh5INT0Nab3m4FnVe2O6AxO56Md08f0QJhU-wQgwpg9DfDtfnpSupKjrBaDzbZ9muAbH7P8tB8_ed4p3yaszm6cTuJ2XKqkhExcaMP9KCLjLJmD6bputITsXgkYARp39G6yCRBjweHpsF0kO3Zq9z-Q_Z1T-MbHjR2ie4TbpgXKeA7PTZp6D3uBUjeG080xrx8l-x_N3csarPQLyO8DFxSFFWLht6EBvtT30JYI7o57swyVxDhXFVdG4SE=w416-h500-s-no-gm?authuser=0" width="800" height="100" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Herrera Castillo, Victor Raul</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201e188</td>
+  </tr>
 </table>
 
 ### 1.2. Solution Profile
+Codex busca el desarrollo de una plataforma web llamada “MusicTime”, que busca ofrecer una experiencia fluida y eficiente para la gestión de contratos de música. Los usuarios de esta plataforma podrán crear, almacenar, organizar y dar seguimiento a contratos de manera centralizada, eliminando la necesidad de procesos manuales y dispersos.
+Además de simplificar la gestión de contratos, MusicTime ofrece características avanzadas como notificaciones automatizadas, recordatorios de vencimiento, seguimiento de pagos y colaboración en tiempo real. Esto permite a los profesionales de la música mantenerse al tanto de sus compromisos contractuales de manera proactiva y eficaz.
+Con un enfoque en la usabilidad y la seguridad de los datos, ya sea un músico independiente, un manager de artistas o una discográfica multinacional, Codex es la herramienta ideal para optimizar la gestión de contratos y potenciar el éxito en la industria de la música.
 #### 1.2.1 Antecedentes y problemática
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
