@@ -203,7 +203,22 @@
 #### 1.1.1. Descripción de la Startup
 #### 1.1.2. Perfiles de integrantes del equipo
 
-
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Foto</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miembro</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
+  </tr> 
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://cdn.discordapp.com/attachments/891176117204054068/1224808657422782484/pp.jfif?ex=661ed6f3&is=660c61f3&hm=7b81fee336888290bdf6c399c602bb01e0efcd56404f38080c518f8e46ffeccd&" width="800" height="100" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201b895</td>
+  </tr>
+</table>
 
 ### 1.2. Solution Profile
 #### 1.2.1 Antecedentes y problemática
