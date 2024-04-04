@@ -222,7 +222,7 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://drive.google.com/file/d/1nknGdiN3C5JNnFSbXcRD4Wrktgmj2uYi/view?usp=sharing" width="800" height="100" style="border-radius: 25%;">
+      <img src="https://photos.google.com/u/0/photo/AF1QipNLQ4N3fN-p--b7I7vZEC60Z2SS2WuJ4fdYVqhZ" width="800" height="100" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Herrera Castillo, Victor Raul</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
