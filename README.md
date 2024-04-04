@@ -29,18 +29,18 @@
 
 <table align="center">
     <tr>
-      <th>Criterio específico</th>
-      <th>Acciones Realizadas</th>
-      <th>Conclusiones</th>
+      <th>Version</th>
+      <th>Fecha</th>
+      <th>Autor/th>
+      <th>Descripcion de modificacion</th>
     </tr>
     <tr>
-        <td>Aca va el criterio </td>
-          <td><strong>Nombre</strong><br>
-          <strong>TB1:</strong><br> 
-          aca se escribeawdasdawdawd <br><br> 
-      <td><strong>TB1:</strong><br>
-        Para esta oportunidad, se logró concretar esta primera parte del trabajo .................<br><br>
+        <td><strong> 0.1 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
     </td>
+    </tr>
     </tr>
     
   </tr>
