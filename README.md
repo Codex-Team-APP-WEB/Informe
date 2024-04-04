@@ -20,12 +20,14 @@
 ## TF REPORT
 
 ### StartUp Name
+CODEX
 
 ### Team Members
 
 |   Members     |   User    |
 |:-------------:|:---------:|
 |Ballona Blas, Naggit German        |u20201b895|
+|Herrera Castillo Victor Raul       |u20201e188|
 
 # Índice
 
