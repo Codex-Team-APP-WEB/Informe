@@ -221,6 +221,8 @@
 </table>
 
 ### 1.2. Solution Profile
+Somos una startup innovadora llamada “Codex” que se especializa en el desarrollo de una plataforma web dedicada a la gestión de contratos de música. Nuestra misión es revolucionar la manera en que los profesionales de la industria musical administran y controlan sus acuerdos contractuales, proporcionando una solución tecnológica que sea integral y fácil de usar.
+Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscaremos las formas de desarrollar el producto para presentarlo en el trabajo final del curso de esta manera poder desarrollar experiencia en el desarrollo de soluciones tecnológicas.
 #### 1.2.1 Antecedentes y problemática
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
