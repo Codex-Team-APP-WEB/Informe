@@ -37,10 +37,8 @@
     <tr>
         <td><strong> 0.1 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul<br>
-        <br><br>
-      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.<br>
-        <br><br>
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
     </td>
     </tr>
     </tr>
