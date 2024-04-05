@@ -566,42 +566,34 @@ Solista:
 
 **Landing Page**
 
-Title:
-
+**Title:**
 *"Descubre Nuevas Bandas y Conciertos en línea | MiApp Musical"*
 
 Meta Tags:
 
-Description:
-
+**Description:**
 *"Descubre y explora nuevas bandas, solistas y eventos musicales en línea. Únete a la comunidad de MiApp Musical y encuentra tu próximo concierto favorito."*
 
-Keywords:
-
+**Keywords:**
 *"Música en vivo, Bandas musicales, Conciertos en línea, Eventos musicales, Descubrimiento de bandas"*
 
-Author:
-
+**Author:**
 "CODEX-MusicTime"
 
 **Página Principal (Web Application)**
 
-Title:
-
+**Title:**
 *"Explora Bandas y Eventos Musicales | MiApp Musical"*
 
 Meta Tags:
 
-Description:
-
+**Description:**
 *"Explora una amplia variedad de bandas musicales y eventos en MiApp Musical. Encuentra tu próxima experiencia musical favorita y compra boletos en línea fácilmente."*
 
-Keywords:
-
+**Keywords:**
 *"Explorar bandas, Eventos musicales, Compra de boletos, Descubrimiento de bandas, Música en vivo"*
 
-Author:
-
+**Author:**
 "CODEX-MusicTime"
 
 #### 4.2.4. Searching Systems.
