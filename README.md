@@ -399,10 +399,49 @@ Con todos estos terminos y sus definiciones se podra desarrollar la aplicacion w
 ### 4.2. Information Architecture.
 En esta sección se plantea las decisiones que se realizó dentro del startup para desarrollar la plataforma web, como la organización del sistema, como se navegara dentro del sistema y los sistemas de búsqueda aplicados a la plataforma para luego servir de guía al desarrollo de la plataforma web.
 #### 4.2.1. Organization Systems.
+
+En nuestra aplicación web para bandas y solistas musicales, hemos diseñado varios sistemas de organización de la información para garantizar una experiencia de usuario intuitiva y eficiente. A continuación, explicamos cómo se aplicarán estos sistemas:
+
+**Organización Visual del Contenido:**
+
+Hemos optado por una organización visual que combine elementos jerárquicos y secuenciales para garantizar la facilidad de navegación y comprensión. Por ejemplo:
+
+Jerárquica (Visual Hierarchy): En la página principal, las bandas más populares se destacarán visualmente, lo que permitirá a los usuarios identificarlas rápidamente.
+
+Secuencial (Step-by-Step): Durante el proceso de creación de un perfil de banda o la realización de un contrato, guiaremos a los usuarios a través de pasos secuenciales para simplificar el proceso y evitar confusiones.
+
+**Esquemas de Categorización de Contenido:**
+
+La información dentro de la aplicación se organizará en diferentes categorías para facilitar la búsqueda y la exploración. Aquí están los esquemas de categorización que utilizaremos:
+
+Alfabético: Las bandas estarán ordenadas alfabéticamente para que los usuarios puedan encontrarlas fácilmente por nombre.
+
+Por Tópicos: Categorizaremos las bandas por género musical, ubicación geográfica y popularidad para que los usuarios puedan descubrir nuevos talentos según sus preferencias.
+
+Según Audiencia (Grupos de Usuarios): Los diferentes tipos de usuarios, como músicos, promotores y fans, tendrán acceso a secciones específicas diseñadas para satisfacer sus necesidades particulares.
+
+![Esquema de organizacion](https://res.cloudinary.com/djia8bsvr/image/upload/v1712347338/Sistema_de_organizasion_iggeny.png)
+
+*Página Principal:*
+
+En la página principal, las bandas se presentarán en una disposición jerárquica, con las más populares destacadas en la parte superior, seguidas por bandas relevantes según las preferencias del usuario y la ubicación geográfica.
+
+Los eventos próximos se mostrarán secuencialmente en un calendario interactivo, lo que permitirá a los usuarios explorar y planificar su asistencia a conciertos y presentaciones.
+
+*Exploración de Bandas:*
+
+Los usuarios podrán explorar bandas por género musical, utilizando filtros de búsqueda que les permitirán refinar sus resultados según sus preferencias.
+
+Además, proporcionaremos una función de búsqueda alfabética para aquellos usuarios que conozcan el nombre de la banda que están buscando.
+
 #### 4.2.2. Labeling Systems.
+
 #### 4.2.3. SEO Tags and Meta Tags
+
 #### 4.2.4. Searching Systems.
+
 #### 4.2.5. Navigation Systems.
+
 ### 4.3. Landing Page UI Design.
 #### 4.3.1. Landing Page Wireframe.
 #### 4.3.2. Landing Page Mock-up. 
