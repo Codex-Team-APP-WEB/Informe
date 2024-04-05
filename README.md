@@ -31,11 +31,53 @@
     <tr>
       <th>Version</th>
       <th>Fecha</th>
-      <th>Autor/th>
+      <th>Autor</th>
       <th>Descripcion de modificacion</th>
     </tr>
     <tr>
         <td><strong> 0.1 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 0.2 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 0.3 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 0.4 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 0.5 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 0.6 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 0.7 </strong></td>
+          <td> 03/04/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 0.8 </strong></td>
           <td> 03/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
       <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
@@ -461,6 +503,77 @@ Los usuarios podrán explorar bandas por género musical, utilizando filtros de 
 Además, proporcionaremos una función de búsqueda alfabética para aquellos usuarios que conozcan el nombre de la banda que están buscando.
 
 #### 4.2.2. Labeling Systems.
+
+En nuestra aplicación web, es fundamental representar los datos de manera clara y concisa para evitar confusiones y facilitar la navegación de los usuarios. A continuación, detallamos cómo se etiquetarán los conjuntos de información y las asociaciones entre ellos:
+
+**Etiquetado de Conjuntos de Información:**
+
+Bandas y solistas: Utilizaremos etiquetas simples y descriptivas para identificar a las bandas. Por ejemplo:
+
+Nombre de la banda o solista
+Género musical
+Localización geográfica
+Eventos: Las etiquetas para los eventos incluirán información relevante como:
+
+Nombre del evento
+Fecha y hora
+Ubicación
+
+**Asociaciones entre Conjuntos de Información:**
+
+Relación Banda/Solista-Evento: Para asociar una banda con un evento, utilizaremos etiquetas que indiquen la participación de la banda en un evento específico. Por ejemplo:
+
+*Banda: [Nombre de la Banda]*
+*Solista: [Nombre del solista]*
+Evento: [Nombre del Evento]
+Contratos: Para los contratos entre bandas y promotores, usaremos etiquetas que identifiquen claramente las partes involucradas y los términos del contrato. Por ejemplo:
+
+*Banda: [Nombre de la Banda]*
+*Solista: [Nombre del solista]*
+Promotor: [Nombre del Promotor]
+Términos: [Descripción breve del contrato]
+
+**Ejemplos de Etiquetado:**
+
+Banda:
+
+Nombre: "The Rockers"
+Género: "Rock alternativo"
+Localización: "Los Angeles, CA"
+Evento:
+
+Nombre: "Concierto en el Parque"
+Fecha y Hora: "Sábado 15 de Mayo, 7:00 PM"
+Ubicación: "Parque Central"
+Relación Banda-Evento:
+
+Banda: "The Rockers"
+Evento: "Concierto en el Parque"
+Contrato: "Descripcion del contrato (Pago, horas de trabajo o clausulas legales.)
+
+Banda: "The Rockers"
+Promotor: "Live Music Productions"
+Términos: "Presentación en vivo el 15 de Mayo en el Parque Central"
+
+Solista:
+
+Nombre: "Max Castro"
+Género: "Latinoamericana"
+Localización: "Lima-Peru"
+Evento:
+
+Nombre: "Concierto dia de la madre"
+Fecha y Hora: "Sábado 20 de Mayo, 7:00 PM"
+Ubicación: "Parque Exposicion"
+Relación Solista-Evento:
+
+Solista: "Max Castro"
+Evento: "Concierto dia de la madre"
+Contrato: "Descripcion del contrato (Pago, horas de trabajo o clausulas legales.)
+
+Solista: "Max Castro"
+Promotor: "Live Music Productions"
+Términos: "Presentación en vivo el 15 de Mayo en el Parque exposicion por 2 horas de participacion"
 
 #### 4.2.3. SEO Tags and Meta Tags
 
