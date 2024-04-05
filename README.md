@@ -256,7 +256,7 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://cdn.discordapp.com/attachments/891176117204054068/1224808657422782484/pp.jfif?ex=661ed6f3&is=660c61f3&hm=7b81fee336888290bdf6c399c602bb01e0efcd56404f38080c518f8e46ffeccd&" width="800" height="100" style="border-radius: 25%;">
+      <img src="https://cdn.discordapp.com/attachments/891176117204054068/1225512452834197604/Imagen1.jpg?ex=66216669&is=660ef169&hm=af10eaab7331e1c0e46d3dc4635536a9f3cc19785a9353062cd5bbdd18c86899&" width="800" height="100" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
@@ -629,9 +629,23 @@ Meta Tags:
 ### 4.3. Landing Page UI Design.
 #### 4.3.1. Landing Page Wireframe.
 #### 4.3.2. Landing Page Mock-up. 
+
+<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915182253871135/image.png?ex=6622dd7b&is=6610687b&hm=262eaf2193a52141fb30476d8b93949ede39e0563db03420d2a2b0fc1b0be180&" width="800" height="250" style="border-radius: 0%;">
+
+<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915232086524004/image.png?ex=6622dd87&is=66106887&hm=89f302e9ef4ceef8e7f3b58c796a4d02cc007c4f6bb069e101dbf64b614adea8&" width="800" height="250" style="border-radius: 0%;">
+
+<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915268862054480/image.png?ex=6622dd90&is=66106890&hm=87710c595e57109db6ef90cc39b41d09e83ea1fecf12e0ca31980890138c8829&" width="800" height="250" style="border-radius: 0%;">
+
+<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915336507920587/image.png?ex=6622dda0&is=661068a0&hm=b759acd16af220daf701d77059d6898bc612c75a73609a2ba4c07a0689ce7db4&" width="800" height="250" style="border-radius: 0%;">
+
+<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915387040891030/image.png?ex=6622ddac&is=661068ac&hm=929737eb0ae505cbfa7458f9e79a7bda2cbb288f24bb5298fb9a78bf041dc6db&" width="800" height="250" style="border-radius: 0%;">
+
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
 #### 4.4.2. Web Applications Wireflow Diagrams.
+
+
+
 #### 4.4.2. Web Applications Mock-ups.
 #### 4.4.3. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
