@@ -222,7 +222,7 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
   </tr>
    <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://lh3.googleusercontent.com/pw/AP1GczN6qegoeIT4XDEmRB2qI_JmGeDB8q0sgkLHvpwmH-7c0yiTQYQuZ1PuhcUEYFA49HFVCHcvmtTVb-kTxNW5DnXx_NnOwRhlVDbnRdupMoYMPqKCji-XyXPfRNaS-9cyNxHEURKzv-zJs9N0_Ikc4IjqpeWcQXw_vdh7qQ6TC1tfkaauTS-dUD4ydEYLb825-JTs_SvGg5llJ2nKioly6htfJjID-rPgUxHpGlCLlOXZlgVzw2VxXt_FG9ImHtLwAGKpzEe1QWAVhOFXHFbg8MziP_EpRuOIcTKUg69RxDcvd3N04zzQ7pVW2uYCF8R6_6ywnayUoTznhL7leY4X0lEqXPbLgwOUOhYUBwEY4DqYENVnIdfazkV8YtIRCvQ3yZtBfzorlOKQEsTXU99NCbTfH5SmPr1Rm0LLH-uFyjY5zu3P-lsu5F3OHcLq4okJZmt7TUZFt4mWDmGcjyeurbrFgziq4U30V-T9dbNb7NO75WOSva_t7cUKu5I7iKA04eOXPFT2zTdM5leP9TWu0nlg3P7GTJKcg97cWdXFDfYBaFgbqtuRvfqQYzqjgBDCd2gnMiPfuNxksQuBmfHt4y6GHfB3_7Apg8ObzxOxYkNghh4Plmlev6_7AZkqSRBtw-2t8BwBsyCG455bBm4yPHjavj0IrVLfynpzpAhJl3w4BZkqF4bHJzteV14c17gSgM5816LYrfLp3uqzn_0ASM-e6MwnjaZ1Jg5iV231D2CiUhsatqvmWWY6p2g8nMSYSSp26LHACGkoEYXl8Uf37ISjQnx0JGtPPME56St4eQB6tK2DCvDVmJYyUQ7aW_FHe9ZuuHhsuog2VFh5INT0Nab3m4FnVe2O6AxO56Md08f0QJhU-wQgwpg9DfDtfnpSupKjrBaDzbZ9muAbH7P8tB8_ed4p3yaszm6cTuJ2XKqkhExcaMP9KCLjLJmD6bputITsXgkYARp39G6yCRBjweHpsF0kO3Zq9z-Q_Z1T-MbHjR2ie4TbpgXKeA7PTZp6D3uBUjeG080xrx8l-x_N3csarPQLyO8DFxSFFWLht6EBvtT30JYI7o57swyVxDhXFVdG4SE=w416-h500-s-no-gm?authuser=0" width="800" height="100" style="border-radius: 25%;">
+      <img src="https://ibb.co/dckR2NG" width="800" height="100" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Herrera Castillo, Victor Raul</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
@@ -281,6 +281,8 @@ Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha pr
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
+![AS-IS Cliente 1](https://ibb.co/X2MWP1s)
+Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
 ### 2.4. Ubiquitous Language.
 
 <br>
