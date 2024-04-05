@@ -337,7 +337,7 @@ Luego de realizar las entrevistas al público objetivo y de acuerdo a las respue
 ![AS-IS Solista 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/6_qepvdt.jpg)
 Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: la preparacion del solista para un evento, la presentacion que tiene este en un evento y los resultados de dicha presentacion como el pago por el contrato y la opinion del publico.
 ### 2.4. Ubiquitous Language.
-Tras la entrevista de los segmentos de usuarios el grupo realizo una investigacion sobre los terminos que son muy comunes en la industria de la musica ya sea para bandas o solistas de esta forma poder utilizar dichos terminos o estableces la plataforma para estos sectores.
+Tras la entrevista de los segmentos de usuarios el grupo realizo una investigacion sobre los terminos que son muy comunes en la industria de la musica ya sea para bandas o solistas de esta forma poder utilizar dichos terminos o definiciones en la plataforma para estos usuarios.
 1. *Contrato discográfico*: Acuerdo entre una banda musical y una discográfica que establece los términos de la relación comercial, incluyendo derechos de grabación, distribución y regalías.
 
 2. *Regalías*: Pagos periódicos que recibe una banda musical por el uso de su música, ya sea en ventas de álbumes, transmisiones en línea, o licencias para uso en películas, comerciales, etc.
