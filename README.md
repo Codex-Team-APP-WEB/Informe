@@ -291,7 +291,13 @@ Por otro lado, en este segmento se encuentran empresarios y organizadores de eve
 #### 2.2.1. Diseño de entrevistas.
 #### 2.2.2. Registro de entrevistas.
 #### 2.2.3. Análisis de entrevistas.
+
 ### 2.3. Needfinding.
+
+<div align='justify'>
+En esta sección se presentan los procesos de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin,  y As-Is Scenario Mapping. 
+</div>
+
 #### 2.3.1. User Personas.
 #### 2.3.2. User Task Matrix.
 #### 2.3.3. User Journey Mapping.
