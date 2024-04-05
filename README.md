@@ -222,7 +222,7 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
   </tr>
    <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1712333792/Name_pacjmt.jpg" alt="Name" border="0"></a>
+      <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1712333792/Name_pacjmt.jpg" alt="Foto-Victor" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Herrera Castillo, Victor Raul</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
@@ -281,7 +281,7 @@ Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha pr
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
-![AS-IS Cliente 1](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333792/Name_pacjmt.jpg)
+![AS-IS Cliente 1](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
 Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
 ### 2.4. Ubiquitous Language.
 
