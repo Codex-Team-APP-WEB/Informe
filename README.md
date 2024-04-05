@@ -44,43 +44,43 @@
         <td><strong> 0.2 </strong></td>
           <td> 03/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
-      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+      <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
     </td>
     <tr>
         <td><strong> 0.3 </strong></td>
           <td> 03/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
-      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+      <td>Analisis de la problematica y los antecendentes que tiene para el proyecto.
     </td>
     <tr>
         <td><strong> 0.4 </strong></td>
           <td> 03/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
-      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+      <td>Desarrollo de la metodologia UX como Problem Statements y Assumptions.
     </td>
     <tr>
         <td><strong> 0.5 </strong></td>
           <td> 03/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
-      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+      <td>Aporte al Lean UX con los Hypothesis statement para la problematica y desarrollo de la plataforma.
     </td>
     <tr>
         <td><strong> 0.6 </strong></td>
           <td> 03/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
-      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+      <td>Creacion del canvas para la problematica y analisis para el segmento objetivo.
     </td>
     <tr>
         <td><strong> 0.7 </strong></td>
           <td> 03/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
-      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+      <td>Analisis de los competidores entre la identificacion y las ventajas y desventajas que tenemos frente a estas.
     </td>
     <tr>
         <td><strong> 0.8 </strong></td>
           <td> 03/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
-      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+      <td>Analisis de las entrevistas y las estrategias elaboradas frente a los competidores que se tiene a la solucion planteada.
     </td>
     </tr>
     </tr>
@@ -508,15 +508,21 @@ En nuestra aplicación web, es fundamental representar los datos de manera clara
 
 **Etiquetado de Conjuntos de Información:**
 
-Bandas y solistas: Utilizaremos etiquetas simples y descriptivas para identificar a las bandas. Por ejemplo:
+**Bandas y solistas:** Utilizaremos etiquetas simples y descriptivas para identificar a las bandas. Por ejemplo:
 
 Nombre de la banda o solista
+
 Género musical
+
 Localización geográfica
-Eventos: Las etiquetas para los eventos incluirán información relevante como:
+
+**Eventos:**
+Las etiquetas para los eventos incluirán información relevante como:
 
 Nombre del evento
+
 Fecha y hora
+
 Ubicación
 
 **Asociaciones entre Conjuntos de Información:**
@@ -524,56 +530,63 @@ Ubicación
 Relación Banda/Solista-Evento: Para asociar una banda con un evento, utilizaremos etiquetas que indiquen la participación de la banda en un evento específico. Por ejemplo:
 
 *Banda: [Nombre de la Banda]*
+
 *Solista: [Nombre del solista]*
+
 Evento: [Nombre del Evento]
-Contratos: Para los contratos entre bandas y promotores, usaremos etiquetas que identifiquen claramente las partes involucradas y los términos del contrato. Por ejemplo:
+
+Contratos: Para los contratos entre bandas y promotores, usaremos etiquetas que identifiquen claramente las partes involucradas y los términos del contrato. 
 
 *Banda: [Nombre de la Banda]*
+
 *Solista: [Nombre del solista]*
+
 Promotor: [Nombre del Promotor]
+
 Términos: [Descripción breve del contrato]
 
 **Ejemplos de Etiquetado:**
 
-Banda:
+  Banda:
 
-Nombre: "The Rockers"
-Género: "Rock alternativo"
-Localización: "Los Angeles, CA"
-Evento:
+    Nombre: "The Rockers"
+    Género: "Rock alternativo"
+    Localización: "Los Angeles, CA"
 
-Nombre: "Concierto en el Parque"
-Fecha y Hora: "Sábado 15 de Mayo, 7:00 PM"
-Ubicación: "Parque Central"
-Relación Banda-Evento:
+    Evento:
+    Nombre: "Concierto en el Parque"
+    Fecha y Hora: "Sábado 15 de Mayo, 7:00 PM"
+    Ubicación: "Parque Central"
 
-Banda: "The Rockers"
-Evento: "Concierto en el Parque"
-Contrato: "Descripcion del contrato (Pago, horas de trabajo o clausulas legales.)
+    Relación Banda-Evento:
 
-Banda: "The Rockers"
-Promotor: "Live Music Productions"
-Términos: "Presentación en vivo el 15 de Mayo en el Parque Central"
+    Banda: "The Rockers"
+    Evento: "Concierto en el Parque"
+    Contrato: "Descripcion del contrato (Pago, horas de trabajo o clausulas legales.)
+
+    Banda: "The Rockers"
+    Promotor: "Live Music Productions"
+    Términos: "Presentación en vivo el 15 de Mayo en el Parque Central"
 
 Solista:
 
-Nombre: "Max Castro"
-Género: "Latinoamericana"
-Localización: "Lima-Peru"
-Evento:
+    Nombre: "Max Castro"
+    Género: "Latinoamericana"
+    Localización: "Lima-Peru"
 
-Nombre: "Concierto dia de la madre"
-Fecha y Hora: "Sábado 20 de Mayo, 7:00 PM"
-Ubicación: "Parque Exposicion"
-Relación Solista-Evento:
+    Evento:
+    Nombre: "Concierto dia de la madre"
+    Fecha y Hora: "Sábado 20 de Mayo, 7:00 PM"
+    Ubicación: "Parque Exposicion"
 
-Solista: "Max Castro"
-Evento: "Concierto dia de la madre"
-Contrato: "Descripcion del contrato (Pago, horas de trabajo o clausulas legales.)
+    Relación Solista-Evento:
+    Solista: "Max Castro"
+    Evento: "Concierto dia de la madre"
+    Contrato: "Descripcion del contrato (Pago, horas de trabajo o clausulas legales.)
 
-Solista: "Max Castro"
-Promotor: "Live Music Productions"
-Términos: "Presentación en vivo el 15 de Mayo en el Parque exposicion por 2 horas de participacion"
+    Solista: "Max Castro"
+    Promotor: "Live Music Productions"
+    Términos: "Presentación en vivo el 15 de Mayo en el Parque exposicion por 2 horas de participacion"
 
 #### 4.2.3. SEO Tags and Meta Tags
 
