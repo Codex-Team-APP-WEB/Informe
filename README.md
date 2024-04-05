@@ -268,9 +268,13 @@ Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad
 ### 1.3. Segmentos objetivo.
 **Bandas Musicales de Distintos Géneros:** <br>
 Aquí se encuentran grupos de músicos que se dedican a interpretar y producir música en diversos géneros. Pueden ser bandas consolidadas con una base de seguidores establecida o bandas emergentes buscando oportunidades para crecer y expandir su audiencia. Su principal interés es promover su música y obtener oportunidades para presentarse en conciertos y eventos.
-<br> **Músicos Independientes:** <br>
+<br>
+
+**Músicos Independientes:** <br>
 En este segmento están los artistas individuales que trabajan de manera independiente sin pertenecer a una banda o sello discográfico específico. Suelen componer, grabar y producir su propia música, y buscan oportunidades para difundir su trabajo, obtener reconocimiento y establecer colaboraciones con otros músicos y profesionales de la industria. La gestión eficiente de contratos y acuerdos es crucial para su carrera y crecimiento en la industria musical.
-<br> **Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:** <br>
+<br>
+
+**Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:**<br>
 Por otro lado, en este segmento se encuentran empresarios y organizadores de eventos que se encargan de planificar, promover y ejecutar conciertos, festivales, eventos musicales y discotecas. Contratan a músicos y bandas para sus eventos, gestionan contratos, acuerdos financieros y logísticos, y buscan maximizar la experiencia de entretenimiento para su público objetivo. La eficiencia en la gestión contractual y la colaboración con artistas son aspectos clave de su negocio.
 
 <br>
@@ -299,6 +303,10 @@ En esta sección se presentan los procesos de análisis de la información recop
 </div>
 
 #### 2.3.1. User Personas.
+
+En esta sección presentaremos dos fichas de User Persona segun nuestro publico objetivo, el cual se enfoca en las bandas musicales y/o musicos independientes y las empresas y/o persons naturales. Estas fichas están basadas en las principales características y necesidades identificadas
+en el análisis de entrevistas y de la competencia.
+
 #### 2.3.2. User Task Matrix.
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
