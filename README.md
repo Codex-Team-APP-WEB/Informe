@@ -253,23 +253,23 @@ Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha pr
 #### 1.2.2.1. Lean UX Problem Statements. 
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Hipótesis 1:
+**Hipótesis 1:** <br>
 Declaración de hipótesis: Creemos que al ofrecer una plataforma web intuitiva y fácil de usar para la gestión de contratos de música, los profesionales de la industria musical adoptarán MusicTime como su herramienta principal.
 Razón: Basamos esta hipótesis en la necesidad evidente de simplificar y centralizar la gestión de contratos en la industria musical, lo que debería motivar a los usuarios a buscar soluciones tecnológicas más eficientes.
-Hipótesis 2:
+**Hipótesis 2:** <br>
 Declaración de hipótesis: Creemos que al proporcionar características avanzadas como notificaciones automatizadas, recordatorios de vencimiento y seguimiento de pagos, MusicTime aumentará la eficacia y la proactividad en la gestión contractual de los usuarios.
 Razón: Esta hipótesis se basa en la idea de que las herramientas automatizadas y de recordatorio son elementos clave para mejorar la productividad y el seguimiento en la gestión de contratos.
-Hipótesis 3:
+**Hipótesis 3:** <br>
 Declaración de hipótesis: Creemos que al garantizar la seguridad de los datos y ofrecer una experiencia de usuario intuitiva, MusicTime generará confianza entre los usuarios y fomentará la adopción continua de la plataforma.
 Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad de los datos y la facilidad de uso para la retención de usuarios y la satisfacción del cliente.
 #### 1.2.2.4. Lean UX Canvas.
 ### 1.3. Segmentos objetivo.
 1.3. Segmentos Objetivos
-Bandas Musicales de Distintos Géneros:
+**Bandas Musicales de Distintos Géneros:**
 Aquí se encuentran grupos de músicos que se dedican a interpretar y producir música en diversos géneros. Pueden ser bandas consolidadas con una base de seguidores establecida o bandas emergentes buscando oportunidades para crecer y expandir su audiencia. Su principal interés es promover su música y obtener oportunidades para presentarse en conciertos y eventos.
-Músicos Independientes:
+**Músicos Independientes:**
 En este segmento están los artistas individuales que trabajan de manera independiente sin pertenecer a una banda o sello discográfico específico. Suelen componer, grabar y producir su propia música, y buscan oportunidades para difundir su trabajo, obtener reconocimiento y establecer colaboraciones con otros músicos y profesionales de la industria. La gestión eficiente de contratos y acuerdos es crucial para su carrera y crecimiento en la industria musical.
-Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:
+**Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:**
 Por otro lado, en este segmento se encuentran empresarios y organizadores de eventos que se encargan de planificar, promover y ejecutar conciertos, festivales, eventos musicales y discotecas. Contratan a músicos y bandas para sus eventos, gestionan contratos, acuerdos financieros y logísticos, y buscan maximizar la experiencia de entretenimiento para su público objetivo. La eficiencia en la gestión contractual y la colaboración con artistas son aspectos clave de su negocio.
 
 <br>
