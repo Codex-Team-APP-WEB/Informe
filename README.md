@@ -281,8 +281,47 @@ Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha pr
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
+Se desarrollo 3 analisis usando el formato AS-IS en los 3 sectores de publico que se identifico en el proyecto usando de base las entrevistas realizadas para hacer analisis de 3 aspectos que son: Que hace, Que siente y Que piensa de esta manera poder lograr entender mejor el contexto en la cual se desarrolla la plataforma.
+
+<center>
+
+**AS-IS cliente**
+
+</center>
+
+
 ![AS-IS Cliente 1](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
 Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
+![AS-IS Cliente 2](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/8_mi3ofs.jpg)
+Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que buscan el cliente en una presentacion de una banda musical o solista, tanto para doing, thinking y feeling.
+![AS-IS Cliente 3](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/9_tsn4us.jpg)
+Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: Buscar una banda, dar el evento con la banda que contrataron y culiminar el evento con esto dando cumplimiento al contrato que se realizo.
+
+<center>
+
+**AS-IS bandas musicales**
+
+</center>
+
+![AS-IS Banda 4](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
+Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios para el sector de bandas musicales. 
+![AS-IS Banda 5](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334257/2_dmhvtx.jpg)
+Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que busca la banda musical en el proceso de un contrato con un cliente, tanto para doing, thinking y feeling.
+![AS-IS Banda 6](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334257/3_dzhun7.jpg)
+Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: Prepararse para un evento, gestionar el proceso del contrato y evaluar el desarrollo del grupo al terminar el evento evidentemente tambien se hara la culminacion del contrato con el pago.
+
+<center>
+
+**AS-IS solistas musicales**
+
+</center>
+
+![AS-IS Solista 7](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
+Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios para el sector de solitas o personas que tocan de manera individual. 
+![AS-IS Solista 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/5_bkyusq.jpg)
+Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que busca un solista en el proceso de un contrato con un cliente, tanto para doing, thinking y feeling.
+![AS-IS Solista 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/6_qepvdt.jpg)
+Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: la preparacion del solista para un evento, la presentacion que tiene este en un evento y los resultados de dicha presentacion como el pago por el contrato y la opinion del publico.
 ### 2.4. Ubiquitous Language.
 
 <br>
