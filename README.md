@@ -12,7 +12,7 @@
 ### Angel Augusto Velasquez Nuñez
 ### "Informe de Trabajo Final"
 ### StartUp Name: CODEX
-### Product Name: 
+### Product Name: MusicTime
 ### Team Members
 
 |   Members     |   User    |
