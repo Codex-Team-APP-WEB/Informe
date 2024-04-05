@@ -72,13 +72,13 @@
     </td>
     <tr>
         <td><strong> 0.7 </strong></td>
-          <td> 03/04/2024 <br> 
+          <td> 04/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
       <td>Analisis de los competidores entre la identificacion y las ventajas y desventajas que tenemos frente a estas.
     </td>
     <tr>
         <td><strong> 0.8 </strong></td>
-          <td> 03/04/2024 <br> 
+          <td> 04/04/2024 <br> 
       <td>Herrera Castillo Victor Raul
       <td>Analisis de las entrevistas y las estrategias elaboradas frente a los competidores que se tiene a la solucion planteada.
     </td>
@@ -563,6 +563,46 @@ Solista:
     Términos: "Presentación en vivo el 15 de Mayo en el Parque exposicion por 2 horas de participacion"
 
 #### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page**
+
+Title:
+
+*"Descubre Nuevas Bandas y Conciertos en línea | MiApp Musical"*
+
+Meta Tags:
+
+Description:
+
+*"Descubre y explora nuevas bandas, solistas y eventos musicales en línea. Únete a la comunidad de MiApp Musical y encuentra tu próximo concierto favorito."*
+
+Keywords:
+
+*"Música en vivo, Bandas musicales, Conciertos en línea, Eventos musicales, Descubrimiento de bandas"*
+
+Author:
+
+"CODEX-MusicTime"
+
+**Página Principal (Web Application)**
+
+Title:
+
+*"Explora Bandas y Eventos Musicales | MiApp Musical"*
+
+Meta Tags:
+
+Description:
+
+*"Explora una amplia variedad de bandas musicales y eventos en MiApp Musical. Encuentra tu próxima experiencia musical favorita y compra boletos en línea fácilmente."*
+
+Keywords:
+
+*"Explorar bandas, Eventos musicales, Compra de boletos, Descubrimiento de bandas, Música en vivo"*
+
+Author:
+
+"CODEX-MusicTime"
 
 #### 4.2.4. Searching Systems.
 
