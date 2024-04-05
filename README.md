@@ -18,7 +18,10 @@
 |   Members     |   User    |
 |:-------------:|:---------:|
 |Ballona Blas, Naggit German        |u20201b895|
-|Herrera Castillo Victor Raul       |u20201e188|
+|Herrera Castillo, Victor Raul      |u20201e188|
+|Cabrera Camizan, Jeferson Smith    |u20211c211|
+|Muñoz Salcedo, Piero Jhoynner      |u202224446|
+|Manco Cuellar Anthony Ramon        |u201810954|
 
  ## 2024-1
 </center>
