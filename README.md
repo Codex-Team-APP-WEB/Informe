@@ -281,7 +281,7 @@ Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha pr
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
-Se desarrollo 3 analisis usando el formato AS-IS en los 3 sectores de publico que se identifico en el proyecto usando de base las entrevistas realizadas para hacer analisis de 3 aspectos que son: Que hace, Que siente y Que piensa de esta manera poder lograr entender mejor el contexto en la cual se desarrolla la plataforma.
+Se desarrollo 3 cuadros usando el formato AS-IS en los 3 sectores de usuarios que se identifico en el proyecto usando de base las entrevistas realizadas para hacer analisis de 3 aspectos que son: Que hace, Que siente y Que piensa de esta manera poder lograr entender mejor el contexto en la cual se desarrolla la plataforma.
 
 <center>
 
@@ -323,6 +323,48 @@ Luego de realizar las entrevistas al público objetivo y de acuerdo a las respue
 ![AS-IS Solista 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/6_qepvdt.jpg)
 Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: la preparacion del solista para un evento, la presentacion que tiene este en un evento y los resultados de dicha presentacion como el pago por el contrato y la opinion del publico.
 ### 2.4. Ubiquitous Language.
+Tras la entrevista de los segmentos de usuarios el grupo realizo una investigacion sobre los terminos que son muy comunes en la industria de la musica ya sea para bandas o solistas de esta forma poder utilizar dichos terminos o estableces la plataforma para estos sectores.
+1. *Contrato discográfico*: Acuerdo entre una banda musical y una discográfica que establece los términos de la relación comercial, incluyendo derechos de grabación, distribución y regalías.
+
+2. *Regalías*: Pagos periódicos que recibe una banda musical por el uso de su música, ya sea en ventas de álbumes, transmisiones en línea, o licencias para uso en películas, comerciales, etc.
+
+3. *Merchandising*: Productos relacionados con la banda, como camisetas, pósters, gorras, que se venden para promocionar la marca y generar ingresos adicionales.
+
+4. *Gira de conciertos*: Serie de presentaciones en vivo que realiza una banda en diferentes ciudades o países, con el fin de promocionar su música y generar ingresos por la venta de entradas y productos relacionados.
+
+5. *Manager o representante*: Persona encargada de gestionar los asuntos comerciales y la carrera de la banda, incluyendo la negociación de contratos, la organización de giras y la promoción de la marca.
+
+6. *Streaming*: Distribución digital de música a través de plataformas en línea como Spotify, Apple Music o YouTube, donde las bandas pueden generar ingresos por reproducciones de sus canciones.
+
+7. *Booking*: Proceso de contratación de conciertos y festivales para que la banda se presente en vivo, gestionado por un agente de booking o por el manager de la banda.
+
+8. *Patrocinio*: Acuerdo comercial en el que una empresa paga a la banda para promocionar su marca durante conciertos, giras u otros eventos.
+
+9. *Publishing*: Derechos de autor y regalías generadas por la composición de canciones, que pueden ser administradas por la propia banda o por una editorial musical.
+
+10. *Crowdfunding*: Método de financiamiento colectivo donde los fans de la banda contribuyen económicamente para apoyar la producción de un álbum, una gira u otros proyectos.
+
+11. *Advance*: Pago inicial que una discográfica hace a la banda antes de la producción de un álbum, que luego se deduce de las regalías futuras.
+
+12. *Endorsement*: Acuerdo comercial en el que los músicos reciben productos gratuitos o pagos a cambio de promocionarlos públicamente.
+
+13. *Royalty Pool*: Fondo de regalías creado para distribuir los ingresos generados por la música entre los miembros de la banda y otros contribuyentes, como compositores y productores.
+
+14. *Sync Licensing*: Licencia otorgada a terceros para utilizar la música de la banda en películas, programas de televisión, videojuegos u otros medios, a cambio de un pago.
+
+15. *Rider*: Lista de requerimientos técnicos y logísticos que la banda exige que se cumplan en los conciertos, incluyendo equipo de sonido, catering, alojamiento, etc.
+
+16. *Escrow Account*: Cuenta bancaria donde se depositan las regalías generadas por la música, que luego se distribuyen entre los miembros de la banda y otros titulares de derechos.
+
+17. *One Sheet*: Resumen ejecutivo que presenta información clave sobre la banda y su música, utilizado para promocionarla ante discográficas, agentes de booking y otros profesionales de la industria.
+
+18. *Cross-promotion*: Estrategia de marketing en la que la banda se asocia con otras marcas, artistas o eventos para promocionarse mutuamente y ampliar su alcance.
+
+19. *Sponsorship Activation*: Actividades promocionales realizadas por la banda en colaboración con sus patrocinadores, como eventos exclusivos para clientes o activaciones de marca durante las giras.
+
+20. *Clearance*: Proceso de obtención de autorización legal para el uso de muestras musicales, fragmentos de canciones u otros elementos protegidos por derechos de autor en la música de la banda.
+
+Con todos estos terminos y sus definiciones se podra desarrollar la aplicacion web de manera mas dinamica y entendible para este sector de negocio en la cual entablamos el proyecto que es la musica.
 
 <br>
 
