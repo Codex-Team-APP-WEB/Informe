@@ -423,6 +423,7 @@ Con todos estos terminos y sus definiciones se podra desarrollar la aplicacion w
 #### 4.1.1. General Style Guidelines.
 #### 4.1.2. Web Style Guidelines.
 ### 4.2. Information Architecture.
+En esta sección se plantea las decisiones que se realizó dentro del startup para desarrollar la plataforma web, como la organización del sistema, como se navegara dentro del sistema y los sistemas de búsqueda aplicados a la plataforma para luego servir de guía al desarrollo de la plataforma web.
 #### 4.2.1. Organization Systems.
 #### 4.2.2. Labeling Systems.
 #### 4.2.3. SEO Tags and Meta Tags
@@ -452,7 +453,9 @@ Con todos estos terminos y sus definiciones se podra desarrollar la aplicacion w
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
 ### 5.1. Software Configuration Management.
+En esta sección se establece las convenciones en las cuales el grupo organizara el desarrollo del producto como también la descripción de algunas herramientas que usara el startup para la gestión del avance del proyecto y todo su ciclo de vida.
 #### 5.1.1. Software Development Environment Configuration.
+La configuración del entorno de software que usamos en el trabajo es el editor de código Webstorm perteneciente a JetBrains, apoyado del IDE visual estudio para los commits del Readme.md con la cual podemos manejar lenguajes de programación como java principalmente para elaborar los módulos y clases del proyecto, y como sistema para control de versiones usamos el Git así mismo usamos distintos plugin dentro del editor de código para la corrección y lograr algunos atajos al desarrollar el código, para el diseño de las funciones de la plataforma se usó herramientas digitales como Figma o Lucichat para detallar el orden de las clases del código presente y tener una vista del prototipo del producto final. teniendo en cuenta que las licencias que se usó en algunas herramientas son educativas que se nos brindó por la universidad.
 #### 5.1.2. Source Code Management.
 #### 5.1.3. Source Code Style Guide & Conventions.
 #### 5.1.4. Software Deployment Configuration.
