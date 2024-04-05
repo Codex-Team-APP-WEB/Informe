@@ -231,7 +231,7 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
   </tr>
      <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1712333792/Name_pacjmt.jpg" alt="Foto-Victor" border="0"></a>
+      <a href="https://res.cloudinary.com/dzcg3isnr/image/upload/t_FotoPiero/wnam0ir6cr8z407ck6em.jpg" alt="Foto-Victor" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Muñoz Salcedo Piero Jhoynner</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.
