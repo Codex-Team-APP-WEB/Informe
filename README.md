@@ -281,7 +281,7 @@ Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha pr
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
-![AS-IS Cliente 1](https://ibb.co/X2MWP1s)
+![AS-IS Cliente 1](https://i.ibb.co/1vj0N1q/A-adir-un-subt-tulo.jpg)
 Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
 ### 2.4. Ubiquitous Language.
 
