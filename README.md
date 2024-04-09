@@ -307,6 +307,9 @@ Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha pr
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
+**Problem Statement 1:** <br>
+Nuestra startup se propuso simplificar y centralizar la gestión de contratos en la industria musical con MusicTime. Sin embargo, observamos que la plataforma no está logrando la adopción esperada por parte de los profesionales de la industria, lo que conlleva una falta de eficiencia en la gestión contractual y una pérdida de oportunidades de negocio. 
+¿Qué estrategias podemos implementar para que los usuarios adopten la plataforma como su herramienta principal, centrándonos en la facilidad de uso y la intuición de la interfaz de usuario?
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Hipótesis 1:** <br>
