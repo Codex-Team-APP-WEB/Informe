@@ -297,13 +297,13 @@ Tras el análisis sobre diversas oportunidades de negocio que fueron planteadas 
 Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha problematica.
 | Who (Quién)| What (Qué)| When (Cuándo)| Where (Dónde)| Why (Por qué)|
 |--------------------------|-----------------------------------------------------------------|--------------------------|-----------------------------------------------------------------|--------------------------|
-| ¿Quiénes son los miembros de la banda o artistas involucrados en la gestión de contratos? | ¿Qué tipo de contratos suelen firmar las bandas musicales?| ¿Cuándo suelen firmar las bandas musicales contratos con sellos discográficos o agencias de gestión? | ¿Dónde se llevan a cabo las negociaciones y la firma de contratos para las bandas musicales? | ¿Por qué es importante para las bandas musicales tener contratos bien gestionados? |
-| ¿Quienes desempeñan los representantes, agentes o managers en la negociación y firma de contratos? | ¿Qué elementos clave se incluyen en estos contratos?|¿Cuándo comienzan a regir estos contratos y cuál es su duración típica?|¿En qué negocios operan las bandas y dónde se aplican los contratos?| ¿Por qué pueden surgir problemas si los contratos no están claros o equitativos para todas las partes involucradas? |
+| Who are the band members or artists involved in contract management? | What types of contracts do musical bands usually sign?| When do bands usually sign contracts with record labels or management agencies? | Where do negotiations and signing of contracts for musical bands take place? | Why is it important for music bands to have well-managed contracts?|
+| Who do the representatives, agents or managers play in the negotiation and signing of contracts? | What key elements are included in these contracts?|When do these contracts come into force and what is their typical duration?|Where businesses do the gangs operate in and where do contracts apply?| Why can problems arise if contracts are not clear or equitable for all parties involved? |
 
 | How (Cómo)| How much (Cuánto)|
 |----------------------------|--------------------------|
-| ¿Cómo se lleva a cabo el proceso de negociación de contratos para las bandas musicales? | ¿Cuánto dinero suelen implicar los contratos para las bandas musicales?|
-| ¿Cómo se redactan y revisan los contratos para asegurar que reflejen los intereses y derechos de la banda? | ¿Cuántos contratos suelen firmar las bandas en el transcurso de sus carreras y en qué frecuencia? |
+| How is the contract negotiation process for musical bands carried out? | How much money do contracts for musical bands usually involve?|
+| How are contracts drafted and reviewed to ensure they reflect the interests and rights of the band? | How many contracts do bands typically sign over the course of their careers and at what frequency? |
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
@@ -714,9 +714,90 @@ Meta Tags:
 "CODEX-MusicTime"
 
 #### 4.2.4. Searching Systems.
+Las opciones de búsqueda que se plantean para el desarrollo son los siguientes para poder ayudar a los usuarios a encontrar fácilmente bandas y solistas musicales que se ajusten a sus necesidades y preferencias, evitando que se sientan abrumados por el volumen de información disponible en el producto digital.
+
+**Barra de Búsqueda:**
+
+Se incluirá una barra de búsqueda prominente en la página principal y en todas las páginas relevantes del sitio web y la aplicación.
+Los usuarios podrán buscar bandas y solistas ingresando palabras clave como nombres de artistas, géneros musicales, ubicaciones, etc.
+
+***Filtros de Búsqueda:***
+
+**Género Musical:** Los usuarios podrán filtrar los resultados de búsqueda por género musical para encontrar bandas y solistas que se ajusten a sus preferencias musicales.
+
+**Ubicación:** Se proporcionará un filtro para permitir a los usuarios buscar bandas y solistas por ubicación geográfica, lo que puede ser importante para eventos locales.
+
+**Disponibilidad de Fechas:** Los usuarios podrán filtrar los resultados según la disponibilidad de las bandas y solistas para eventos específicos.
+
+**Popularidad:** Se incluirá un filtro para ordenar los resultados por popularidad, basado en interacciones y valoraciones de otros usuarios.
+
+***Resultados de Búsqueda:***
+
+**Lista de Resultados:** Después de realizar una búsqueda, se mostrará una lista de bandas y solistas relevantes que coincidan con los criterios de búsqueda del usuario.
+
+**Vista de Perfiles Resumidos:** Cada resultado de búsqueda incluirá una vista de perfil resumido que mostrará información básica como el nombre del artista, género musical, ubicación y calificación promedio.
+
+**Enlaces a Perfiles Detallados:** Los usuarios podrán hacer clic en los resultados de búsqueda para acceder a perfiles detallados de las bandas y solistas, donde encontrarán información más completa sobre cada artista.
+
+***Opciones de Visualización:***
+
+**Cuadrícula y Lista:** Se proporcionarán opciones de visualización en forma de cuadrícula y lista para que los usuarios puedan elegir la presentación de los resultados que les resulte más conveniente.
+
+**Miniaturas de Imágenes:** Las miniaturas de imágenes de las bandas y solistas ayudarán a los usuarios a identificar rápidamente los resultados de búsqueda relevantes.
 
 #### 4.2.5. Navigation Systems.
+**Sistema de navegacion del LandingPage:**
 
+Dentro del landingpage se tiene las siguientes secciones de organizacion para la navegacion del usuario:
+
+**Inicio:** Con frase motivadora y atractiva para los 3 segmentos con botos de registro y texto que anime a los futuros usuarios la plataforma, ***"Explora y encuentra nuevas bandas y solistas para tus eventos musicales en línea. Únete a la comunidad de MusicTime y encuentra tu próximo concierto."***
+
+**Servicios:** Se mostrara 4 caracteristicas relevantes de la plataforma y sus funcionalidades, como: Que es rapido y organizado, que los contratos son sencillos, que existe una variedad enorme de grupos para elegir y que puede encontrar nuevo grupos no tan conocidos.
+
+**Planes:** En esta seccion se explicara los planes disponibles, que son las basic, enterprice y musicbusiness con las cuales se podran obtener funciones mejores en la plataforma y generar ganacias por el desarrollo.
+
+**Para el desarrollo de la plataforma web se esta organizando de la la siguiente manera:**
+
+***Menú de Navegación Principal:***
+
+**Página de Inicio:** Proporciona una visión general del servicio y destaca las características principales del sitio.
+
+**Catálogo de Bandas y Solistas:** Permite a los usuarios explorar las diferentes opciones disponibles, filtrando por género musical, ubicación, disponibilidad, etc.
+
+**Gestión de Contratos:** Facilita a los usuarios la búsqueda y solicitud de contratos con bandas y solistas, incluyendo herramientas de reserva y confirmación.
+
+**Perfil de Usuario:** Permite a los usuarios gestionar su información personal, historial de contratos, preferencias de búsqueda, etc.
+
+***Navegación por Categorías:***
+
+**Género Musical:** Permite a los usuarios explorar bandas y solistas según el tipo de música que ofrecen, como rock, pop, jazz, etc.
+
+**Ubicación:** Facilita la búsqueda de artistas según su ubicación geográfica, lo que puede ser importante para eventos locales.
+
+**Popularidad:** Permite a los usuarios ver las bandas y solistas más populares según las interacciones y valoraciones de otros usuarios.
+
+***Búsqueda Avanzada:***
+
+**Filtros Personalizables:** Permite a los usuarios refinar su búsqueda utilizando filtros avanzados como el rango de precios, disponibilidad de fechas, reseñas de usuarios, etc.
+
+**Búsqueda por Nombre:** Permite a los usuarios buscar bandas o solistas específicos utilizando la función de búsqueda por nombre.
+
+***Visualización de Perfiles:***
+
+**Páginas de Perfiles Detallados:** Proporciona información detallada sobre cada banda o solista, incluyendo biografía, muestras de música, vídeos, reseñas de usuarios anteriores, etc.
+
+**Calendario de Disponibilidad:** Permite a los usuarios verificar la disponibilidad de las bandas o solistas para fechas específicas.
+
+***Proceso de Contratación:***
+
+**Formulario de Solicitud de Contrato:** Facilita a los usuarios la presentación de solicitudes de contratos, incluyendo detalles sobre el evento, fechas, requisitos técnicos, etc.
+
+**Confirmación y Pago:** Proporciona un proceso claro y seguro para confirmar contratos y realizar pagos, integrando métodos de pago seguros y opciones de contrato electrónico.
+Interacción y Comunicación:
+
+**Chat en Vivo:** Permite a los usuarios comunicarse en tiempo real con representantes de servicio al cliente para obtener ayuda y aclaraciones.
+
+**Comentarios y Valoraciones:** Permite a los usuarios dejar comentarios y valoraciones sobre las bandas y solistas con las que han trabajado, proporcionando retroalimentación útil para otros usuarios.
 ### 4.3. Landing Page UI Design.
 #### 4.3.1. Landing Page Wireframe.
 #### 4.3.2. Landing Page Mock-up. 
