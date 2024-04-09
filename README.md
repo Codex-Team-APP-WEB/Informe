@@ -557,7 +557,42 @@ Con todos estos terminos y sus definiciones se podra desarrollar la aplicacion w
 
 ### 4.1. Style Guidelines.
 #### 4.1.1. General Style Guidelines.
+<br>
+Color principal: Azul Claro (#99D9F2)<br>
+Representa la frescura y claridad asociadas con la industria musical en la aplicación. Este color debe utilizarse para elementos importantes que necesitan destacarse, como el logo de la plataforma y los botones de llamada a la acción.
+<br>
+<br>
+Botones de unirse, suscribete y planes: Azul Medio (#4A90E2) y Azul Oscuro (#0073B1)
+Estos tonos de azul transmiten acción y facilitan la navegación, invitando a los usuarios a interactuar con la plataforma desde el primer momento.
+<br>
+<br>
+Texto: Blanco (#F1F9FF) y Negro (#0F0F0F)<br>
+Los colores blanco y negro se usa para textos generales y de navegación debido a su alta legibilidad y contraste con el fondo, garantizando una experiencia de lectura cómoda.
+<br>
+<br>
+Recuadros Destacados: Azul Claro Cielo (#C9E7FC)<br>
+Este color se reserva para resaltar información importante o características destacadas de la aplicación, como ofertas clave y noticias relevantes.
+<br>
+<br>
+Pie de Página: Azul Oscuro Marino (#333333)<br>
+Agrega un toque de elegancia y profesionalismo al pie de página, donde se encuentran enlaces útiles, información de contacto y otros elementos relacionados con la navegación y la empresa.
+<br>
+<br>
+Color Adicional: Azul Claro (#F1F9FF)<br>
+Este color se puede utilizar para resaltar aspectos relacionados con la seguridad de los datos y la privacidad del usuario, reforzando la confianza en la plataforma.
+<br>
 #### 4.1.2. Web Style Guidelines.
+Tipografía:<br>
+Se recomienda utilizar Linelcons para la tipografía, ya que refleja la naturaleza musical de la plataforma de manera creativa y atractiva.
+<br>
+<br>
+Imágenes y Gráficos:<br>
+Las imágenes y gráficos deben ser de alta calidad y estar relacionados con la música y la gestión de contratos. Esto puede incluir ilustraciones de instrumentos musicales, artistas en acción o gráficos que representen visualmente el proceso de gestión de contratos.
+<br>
+<br>
+Espacios y Diseño:<br>
+El diseño de la plataforma debe ser limpio, organizado y fácil de navegar. Se deben utilizar espacios adecuados entre elementos para mejorar la legibilidad y la interacción del usuario. Los elementos de diseño deben estar alineados con la identidad visual de la aplicación para mantener una experiencia coherente en toda la plataforma.
+<br>
 ### 4.2. Information Architecture.
 En esta sección se plantea las decisiones que se realizó dentro del startup para desarrollar la plataforma web, como la organización del sistema, como se navegara dentro del sistema y los sistemas de búsqueda aplicados a la plataforma para luego servir de guía al desarrollo de la plataforma web.
 #### 4.2.1. Organization Systems.
