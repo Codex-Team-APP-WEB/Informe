@@ -259,7 +259,7 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
   </tr> 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://cdn.discordapp.com/attachments/891176117204054068/1225512452834197604/Imagen1.jpg?ex=66216669&is=660ef169&hm=af10eaab7331e1c0e46d3dc4635536a9f3cc19785a9353062cd5bbdd18c86899&" width="800" height="100" style="border-radius: 25%;">
+      <a href="https://ibb.co/55MPLJC"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1225512452834197604/Imagen1.jpg?ex=66216669&is=660ef169&hm=af10eaab7331e1c0e46d3dc4635536a9f3cc19785a9353062cd5bbdd18c86899&" alt="Foto-Naggit" border="0"></a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
@@ -276,7 +276,8 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
   </tr>
      <tr>
      <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://res.cloudinary.com/dzcg3isnr/image/upload/t_FotoPiero/wnam0ir6cr8z407ck6em.jpg" width="800" height="250" style="border-radius: 25%;">
+     <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/dzcg3isnr/image/upload/t_FotoPiero/wnam0ir6cr8z407ck6em.jpg" alt="Foto-Piero" border="0">
+     </a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Muñoz Salcedo Piero Jhoynner</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.
@@ -464,9 +465,9 @@ Se desarrollo 3 cuadros usando el formato AS-IS en los 3 sectores de usuarios qu
 
 ![AS-IS Cliente 1](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
 Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
-![AS-IS Cliente 2](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/8_mi3ofs.jpg)
+![AS-IS Cliente 2](https://res.cloudinary.com/djia8bsvr/image/upload/v1712633842/8_kq0jj3.jpg)
 Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que buscan el cliente en una presentacion de una banda musical o solista, tanto para doing, thinking y feeling.
-![AS-IS Cliente 3](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/9_tsn4us.jpg)
+![AS-IS Cliente 3](https://res.cloudinary.com/djia8bsvr/image/upload/v1712633842/9_spfjxn.jpg)
 Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: Buscar una banda, dar el evento con la banda que contrataron y culiminar el evento con esto dando cumplimiento al contrato que se realizo.
 
 <center>
@@ -477,9 +478,9 @@ Por último, Organizamos e identificamos las ideas realizadas anteriormente seg�
 
 ![AS-IS Banda 4](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
 Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios para el sector de bandas musicales. 
-![AS-IS Banda 5](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334257/2_dmhvtx.jpg)
+![AS-IS Banda 5](https://res.cloudinary.com/djia8bsvr/image/upload/v1712633842/2_qhm3um.jpg)
 Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que busca la banda musical en el proceso de un contrato con un cliente, tanto para doing, thinking y feeling.
-![AS-IS Banda 6](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334257/3_dzhun7.jpg)
+![AS-IS Banda 6](https://res.cloudinary.com/djia8bsvr/image/upload/v1712633842/3_snmojt.jpg)
 Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: Prepararse para un evento, gestionar el proceso del contrato y evaluar el desarrollo del grupo al terminar el evento evidentemente tambien se hara la culminacion del contrato con el pago.
 
 <center>
@@ -490,9 +491,9 @@ Por último, Organizamos e identificamos las ideas realizadas anteriormente seg�
 
 ![AS-IS Solista 7](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
 Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios para el sector de solitas o personas que tocan de manera individual. 
-![AS-IS Solista 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/5_bkyusq.jpg)
+![AS-IS Solista 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1712633842/5_epwuzf.jpg)
 Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que busca un solista en el proceso de un contrato con un cliente, tanto para doing, thinking y feeling.
-![AS-IS Solista 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1712334253/6_qepvdt.jpg)
+![AS-IS Solista 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1712633842/6_imt5k4.jpg)
 Por último, Organizamos e identificamos las ideas realizadas anteriormente según las fases propuestas en el cuadro, tales como: la preparacion del solista para un evento, la presentacion que tiene este en un evento y los resultados de dicha presentacion como el pago por el contrato y la opinion del publico.
 ### 2.4. Ubiquitous Language.
 Tras la entrevista de los segmentos de usuarios el grupo realizo una investigacion sobre los terminos que son muy comunes en la industria de la musica ya sea para bandas o solistas de esta forma poder utilizar dichos terminos o definiciones en la plataforma para estos usuarios.
