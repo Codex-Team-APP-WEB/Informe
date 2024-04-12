@@ -479,6 +479,14 @@ En esta sección se presentan los procesos de análisis de la información recop
 En esta sección presentaremos dos fichas de User Persona segun nuestro publico objetivo, el cual se enfoca en las bandas musicales y/o musicos independientes y las empresas y/o persons naturales. Estas fichas están basadas en las principales características y necesidades identificadas
 en el análisis de entrevistas y de la competencia.
 
+**Users**
+---
+
+<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1228329280568688720/image.png?ex=662ba5c9&is=661930c9&hm=b093edc4496d00c1b2eb625a271c93e3c3ea0e3298066ad9d1fd3fc18f33b3ec&" border="0"></a>
+
+**Solista**
+---
+
 #### 2.3.2. User Task Matrix.
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
