@@ -488,6 +488,47 @@ en el análisis de entrevistas y de la competencia.
 ---
 
 #### 2.3.2. User Task Matrix.
+
+Esta sección llamada User Task Matrix es una herramienta que nos sirve para
+poder entender las tareas y objetivos que cada User Persona desea lograr a la
+hora de utilizar nuestro producto. En esta sección, se presentarán las matrices de
+tareas para los User Personas previamente definidos.
+
+#### Users: 
+---
+
+| Tarea / Aspecto | Frecuencia | Importancia |
+|-----------------|------------|-------------|
+| 1. Búsqueda de Solistas/Bandas musicales | Often | High |
+| 2. Registrarse en algun plan | Always | High |
+| 4. Soporte y Ayuda | Often | Medium |
+| 5. Experiencia en el Sitio Web | Always | High |
+| 6. Exploración artistas nuevos | Often | High |
+| 7. Interacción Social | Often | Low |
+| 8. Reservas de artistas | Rarely | High |
+| 9. Recopilación de Experiencias | Often | Low |
+| 10. Exploración de Promociones | Often | Low |
+| 11. Métodos de Pago | Rarely | High |
+| 12. Personalización de Notificaciones | Rarely | High | 
+
+#### Musicians:
+
+| Tarea / Aspecto | Frecuencia | Importancia |
+|-----------------|------------|-------------|
+| Estrategias de Promoción mediante descuentos | Always | High |
+| Uso de Digital Marketing | Often | High |
+| Subir clips de tu contenido | Sometimes | High | 
+| Subir tus datos de contacto| Sometimes | High | 
+| Promoción de Ofertas y Fechas Especiales | Often | High |
+| Gestión de Promociones | Often | High | 
+| Opinión sobre el Startup | - | - |
+| Registro y Promociones para Clientes Nuevos | Sometimes | High |  
+| Sugerencias para el Sitio Web | - | - |
+| Facilidad de Uso del Sistema de Gestión de Inventarios | - | - |
+| Accesibilidad Multiplataforma del Sitio Web | - | - |
+| Soporte y Resolución de Problemas | - | - |
+
+
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
