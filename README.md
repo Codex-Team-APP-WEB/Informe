@@ -673,9 +673,9 @@ Con todos estos terminos y sus definiciones se podra desarrollar la aplicacion w
 ### 3.2. User Stories.
 ### 3.3. Impact Mapping.
 En este segmento se presentarán el user goal tanto como para los musicos como para el organizador de eventos.
-<br>
+<br><br>
 En primer lugar tenemos el user goal 1: Lograr una tasa de contratación de músicos del 80% en eventos organizados en la plataforma en un plazo de 8 meses.<br>
-User persona 1: Organizador de eventos.
+User persona 1: Organizador de eventos.<br>
 <br>
 Por otro lado, tenemos el user goal 2: Incrementar el número de perfiles de músicos en la plataforma un 30% cada trimestre.<br>
 User persona 2: Banda o Músico independiente.
