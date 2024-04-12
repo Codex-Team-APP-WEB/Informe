@@ -458,6 +458,16 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b
 
 #### 2.2.3. Análisis de entrevistas.
 
+**Entrevista 1**
+
+Perfil de Katherine: Katherine es una joven de 23 años que está estudiando Administración de Empresas y realizando prácticas en una discoteca. Su participación en la organización de eventos musicales le proporciona una perspectiva práctica sobre la industria del entretenimiento.
+
+Proceso de selección de artistas: La discoteca donde trabaja Katherine organiza eventos musicales semanalmente y selecciona artistas basándose en su trayectoria, precios y popularidad. 
+
+Desafíos en la contratación de artistas: Katherine identifica la dificultad principal en la contratación de artistas como la obtención de contactos de representantes y la comprensión de sus tarifas. Esto resalta la importancia de tener acceso a información confiable y transparente sobre los artistas y sus representantes.
+
+Importancia de una plataforma de música: Katherine enfatiza la necesidad de una plataforma que facilite la búsqueda y contratación de artistas, proporcionando información detallada sobre precios y números de contacto confiables. Además, sugiere la posibilidad de clasificar a los artistas por géneros musicales para una búsqueda más eficiente.
+
 ### 2.3. Needfinding.
 
 <div align='justify'>
