@@ -322,8 +322,9 @@ Razón: Esta hipótesis se basa en la idea de que las herramientas automatizadas
 Declaración de hipótesis: Creemos que al garantizar la seguridad de los datos y ofrecer una experiencia de usuario intuitiva, MusicTime generará confianza entre los usuarios y fomentará la adopción continua de la plataforma.
 Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad de los datos y la facilidad de uso para la retención de usuarios y la satisfacción del cliente.
 #### 1.2.2.4. Lean UX Canvas.
-![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_LEANUXCAMVAS/qolsclshop3hlc07hbth.jpg)
-
+![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_leanux/ymzi4kye5hryjiyxngnv.jpg)
+<br>
+Al analizar el Lean UX Canvas, se observa la importancia de nuestra plataforma para abordar los desafíos de gestión de contratos en la industria musical. Nos enfocamos en crear una experiencia fluida y segura, que atraigan tanto a músicos independientes como a discográficas. Ademas, se confirma nuestro objetivo inicial, el cual es lograr que los profesionales de la musica adopten MusicTime como su herramienta principal, mientras generamos confianza continua entre todos nuestros usuarios. Para validar nuestras ideas, nos apoyaremos en la recopilación de datos y la retroalimentación directa de los usuarios, el cual nos permitirá ajustar y mejorar constantemente nuestra estrategia. 
 ### 1.3. Segmentos objetivo.
 **Bandas Musicales de Distintos Géneros:** <br>
 Aquí se encuentran grupos de músicos que se dedican a interpretar y producir música en diversos géneros. Pueden ser bandas consolidadas con una base de seguidores establecida o bandas emergentes buscando oportunidades para crecer y expandir su audiencia. Su principal interés es promover su música y obtener oportunidades para presentarse en conciertos y eventos.
