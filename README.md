@@ -313,13 +313,13 @@ Nuestra startup se propuso simplificar y centralizar la gestión de contratos en
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Hipótesis 1:** <br>
-Declaración de hipótesis: Creemos que al ofrecer una plataforma web intuitiva y fácil de usar para la gestión de contratos de música, los profesionales de la industria musical adoptarán MusicTime como su herramienta principal.
+Declaración de hipótesis: Creemos que al ofrecer una plataforma web intuitiva y fácil de usar para la gestión de contratos de música, los profesionales de la industria musical adoptarán MusicTime como su herramienta principal.<br>
 Razón: Basamos esta hipótesis en la necesidad evidente de simplificar y centralizar la gestión de contratos en la industria musical, lo que debería motivar a los usuarios a buscar soluciones tecnológicas más eficientes.
 <br> **Hipótesis 2:** <br>
-Declaración de hipótesis: Creemos que al proporcionar características avanzadas como notificaciones automatizadas, recordatorios de vencimiento y seguimiento de pagos, MusicTime aumentará la eficacia y la proactividad en la gestión contractual de los usuarios.
+Declaración de hipótesis: Creemos que al proporcionar características avanzadas como notificaciones automatizadas, recordatorios de vencimiento y seguimiento de pagos, MusicTime aumentará la eficacia y la proactividad en la gestión contractual de los usuarios.<br>
 Razón: Esta hipótesis se basa en la idea de que las herramientas automatizadas y de recordatorio son elementos clave para mejorar la productividad y el seguimiento en la gestión de contratos.
 <br> **Hipótesis 3:** <br>
-Declaración de hipótesis: Creemos que al garantizar la seguridad de los datos y ofrecer una experiencia de usuario intuitiva, MusicTime generará confianza entre los usuarios y fomentará la adopción continua de la plataforma.
+Declaración de hipótesis: Creemos que al garantizar la seguridad de los datos y ofrecer una experiencia de usuario intuitiva, MusicTime generará confianza entre los usuarios y fomentará la adopción continua de la plataforma.<br>
 Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad de los datos y la facilidad de uso para la retención de usuarios y la satisfacción del cliente.
 #### 1.2.2.4. Lean UX Canvas.
 ![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_leanux/ymzi4kye5hryjiyxngnv.jpg)
