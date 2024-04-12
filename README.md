@@ -441,6 +441,26 @@ Preguntas relacionadas al proyecto:
 * En una escala del 1 al 10, ¿qué calificación le darían a la experiencia general de uso de la plataforma y por qué?
 
 #### 2.2.2. Registro de entrevistas.
+
+---
+ **Entrevista #1:**
+
+<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1227948320513851492/image.png?ex=662a42fd&is=6617cdfd&hm=373e3829b0f26bfd477bfc1e864c12b4a2c24af98c3d9ad9c775340bc7b564c9&" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+
+- Nombre y apellidos: Khaterine Melissa Bautista Cruz
+- Edad:  23
+- Ubicación: Lima - Callao
+- Duración de la entrevista: 5.24 minutos
+- Breve descripción: <br><br>
+	 Katherine de 23 años está estudiando Administración de Empresas, ella está haciendo prácticas en una discoteca. Esta Discoteca organiza eventos musicales una vez a la semana. Seleccionan artistas basándose en su trayectoria, precios y popularidad.Ella cuenta que la dificultad principal radica en conseguir contactos de representantes y conocer sus tarifas. Considera crucial en una plataforma de música conocer los precios y tener números de contacto confiables. Sugiere una plataforma que facilite la búsqueda y contratación de artistas, separándolos por géneros musicales.<br><br>
+
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b895_upc_edu_pe/EZaekU0vZglKvGg-7Fy7DPsBPRSxYERim-jPBeiFZMHcqw?e=mlph9e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+---
+
+
+
 #### 2.2.3. Análisis de entrevistas.
 
 ### 2.3. Needfinding.
