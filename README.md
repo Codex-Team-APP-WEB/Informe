@@ -326,16 +326,11 @@ Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad
 <br>
 Al analizar el Lean UX Canvas, se observa la importancia de nuestra plataforma para abordar los desafíos de gestión de contratos en la industria musical. Nos enfocamos en crear una experiencia fluida y segura, que atraigan tanto a músicos independientes como a discográficas. Ademas, se confirma nuestro objetivo inicial, el cual es lograr que los profesionales de la musica adopten MusicTime como su herramienta principal, mientras generamos confianza continua entre todos nuestros usuarios. Para validar nuestras ideas, nos apoyaremos en la recopilación de datos y la retroalimentación directa de los usuarios, el cual nos permitirá ajustar y mejorar constantemente nuestra estrategia. 
 ### 1.3. Segmentos objetivo.
-**Bandas Musicales de Distintos Géneros:** <br>
-Aquí se encuentran grupos de músicos que se dedican a interpretar y producir música en diversos géneros. Pueden ser bandas consolidadas con una base de seguidores establecida o bandas emergentes buscando oportunidades para crecer y expandir su audiencia. Su principal interés es promover su música y obtener oportunidades para presentarse en conciertos y eventos.
-<br>
+**Bandas Musicales de Distintos Géneros y Músicos Independientes:** <br>
+Incluye grupos de músicos, tanto bandas como artistas individuales, que buscan oportunidades para promover su música, obtener oportunidades para presentarse en conciertos y eventos, obtener reconocimiento y gestionar eficientemente contratos y acuerdos en la industria musical.
 
-**Músicos Independientes:** <br>
-En este segmento están los artistas individuales que trabajan de manera independiente sin pertenecer a una banda o sello discográfico específico. Suelen componer, grabar y producir su propia música, y buscan oportunidades para difundir su trabajo, obtener reconocimiento y establecer colaboraciones con otros músicos y profesionales de la industria. La gestión eficiente de contratos y acuerdos es crucial para su carrera y crecimiento en la industria musical.
-<br>
-
-**Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:**<br>
-Por otro lado, en este segmento se encuentran empresarios y organizadores de eventos que se encargan de planificar, promover y ejecutar conciertos, festivales, eventos musicales y discotecas. Contratan a músicos y bandas para sus eventos, gestionan contratos, acuerdos financieros y logísticos, y buscan maximizar la experiencia de entretenimiento para su público objetivo. La eficiencia en la gestión contractual y la colaboración con artistas son aspectos clave de su negocio.
+**Empresarios Dueños de Conciertos, Eventos o Discotecas y personas en general:** <br>
+Por otro lado, en este segmento se encuentran empresarios y organizadores de eventos que se encargan de planificar, promover y ejecutar conciertos, eventos musicales y discotecas. Contratan a músicos y bandas para sus eventos, gestionan contratos, acuerdos financieros y logísticos, y buscan maximizar la experiencia de entretenimiento para su público objetivo. 
 
 <br>
 
