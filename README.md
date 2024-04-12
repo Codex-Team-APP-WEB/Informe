@@ -321,7 +321,43 @@ Con eso en mente se planteo la técnica de 5W y 2H para comprender mejor dicha p
 **Problem Statement 1:** <br>
 Nuestra startup se propuso simplificar y centralizar la gestión de contratos en la industria musical con MusicTime. Sin embargo, observamos que la plataforma no está logrando la adopción esperada por parte de los profesionales de la industria, lo que conlleva una falta de eficiencia en la gestión contractual y una pérdida de oportunidades de negocio. 
 ¿Qué estrategias podemos implementar para que los usuarios adopten la plataforma como su herramienta principal, centrándonos en la facilidad de uso y la intuición de la interfaz de usuario?
+
+**Problem Statement 2:** <br>
+La misión de nuestra startup era aumentar la eficacia y proactividad en la gestión contractual a través de MusicTime. Sin embargo, hemos notado que la plataforma no está cumpliendo con proporcionar las características avanzadas necesarias, como notificaciones automatizadas y seguimiento de pagos, lo que resulta en una falta de seguimiento adecuado de los contratos y una disminución en la productividad. 
+¿Qué acciones podemos tomar para que los usuarios logren más éxito en la gestión contractual, mediante la implementación de características avanzadas y relevantes?
+
+**Problem Statement 3:** <br>
+Nuestro objetivo con esta startup era generar confianza entre los usuarios y fomentar la adopción continua de la plataforma con MusicTime. Sin embargo, hemos observado que la plataforma no está cumpliendo con garantizar la seguridad de los datos ni ofrecer una experiencia de usuario intuitiva, lo que genera una falta de confianza y reticencia por parte de los usuarios a utilizar la plataforma de manera continua.
+
+
+
 #### 1.2.2.2. Lean UX Assumptions.
+1. Los profesionales de la industria musical están buscando una solución tecnológica integral y fácil de usar para gestionar sus contratos de música de manera más eficiente.
+2. Existe una demanda en el mercado de la industria musical para una plataforma web que centralice y simplifique la gestión de contratos, eliminando procesos manuales y dispersos.
+3. Los usuarios de MusicTime valorarán las características avanzadas como notificaciones automatizadas, recordatorios de vencimiento, seguimiento de pagos y colaboración en tiempo real para mejorar su eficacia en la gestión contractual.
+4. La usabilidad y la seguridad de los datos son aspectos críticos para los profesionales de la música al elegir una herramienta de gestión de contratos.
+5. MusicTime será percibido como una solución innovadora y necesaria para optimizar la gestión de contratos en la industria de la música, independientemente del tamaño de la empresa o del rol del usuario.
+
+<br> **Business Outcome:** <br>
+* Buscamos la optimización de la gestión de contratos de música para profesionales de la industria musical.
+* Mejoramos la eficiencia en el seguimiento y control de acuerdos contractuales.
+* Queremos incrementar la productividad al eliminar procesos * manuales y dispersos.
+Buscamos la potenciación del éxito y la colaboración en la industria de la música.
+
+<br> **Users:** <br>
+* Músicos independientes.
+* Representantes de bandas musicales.
+* Discográficas multinacionales.
+* Personas en general.
+* Personas que se dedican al negocio de discotecas.
+
+<br> **Features:** <br>
+* Notificaciones automatizadas
+* Recordatorios de vencimiento
+* Seguimiento de pagos
+* Colaboración en tiempo real
+* Almacenamiento centralizado de contratos
+* Interfaz fácil de usar y segura
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Hipótesis 1:** <br>
 Declaración de hipótesis: Creemos que al ofrecer una plataforma web intuitiva y fácil de usar para la gestión de contratos de música, los profesionales de la industria musical adoptarán MusicTime como su herramienta principal.<br>
