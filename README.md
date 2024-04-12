@@ -46,25 +46,25 @@
     <tr>
         <td><strong> 0.2 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Manco Cuellar Anthony Ramon 
       <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
     </td>
     <tr>
         <td><strong> 0.3 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Muñoz Salcedo, Piero Jhoynner 
       <td>Analisis de la problematica y los antecendentes que tiene para el proyecto.
     </td>
     <tr>
         <td><strong> 0.4 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Ballona Blas, Naggit German 
       <td>Desarrollo de la metodologia UX como Problem Statements y Assumptions.
     </td>
     <tr>
         <td><strong> 0.5 </strong></td>
           <td> 03/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Cabrera Camizan, Jeferson Smith   
       <td>Aporte al Lean UX con los Hypothesis statement para la problematica y desarrollo de la plataforma.
     </td>
     <tr>
@@ -76,13 +76,13 @@
     <tr>
         <td><strong> 0.7 </strong></td>
           <td> 04/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Ballona Blas, Naggit German 
       <td>Analisis de los competidores entre la identificacion y las ventajas y desventajas que tenemos frente a estas.
     </td>
     <tr>
         <td><strong> 0.8 </strong></td>
           <td> 04/04/2024 <br> 
-      <td>Herrera Castillo Victor Raul
+      <td>Muñoz Salcedo, Piero Jhoynner 
       <td>Analisis de las entrevistas y las estrategias elaboradas frente a los competidores que se tiene a la solucion planteada.
     </td>
     </tr>
@@ -301,16 +301,20 @@ Con un enfoque en la usabilidad y la seguridad de los datos, ya sea un músico i
 #### 1.2.1 Antecedentes y problemática.
 Tras el desarrollo de la música y la creación de bandas musicales, el negocio en contratos de estos servicios creció enormemente en los últimos años, en nuestro proyecto buscamos documentar el desarrollo de un producto que permita agilizar y brindar una asistencia a los proveedores de estos servicios musicales y sus contratos para eventos sean privados o de público abierto.
 Tras el análisis sobre diversas oportunidades de negocio que fueron planteadas por los integrantes de nuestra startup definimos que MusicTime tendría un gran alcance, pues se observó como problemática presente que las bandas musicales o solistas tienen una dificultad al realizar sus presentaciones sobre el contrato que realizan y como ubicar nuevos clientes, es así como nosotros planteamos una plataforma web en donde podremos agilizar este proceso y que así solo se concentren en dar sus conciertos mientras nosotros gestionamos el proceso del contrato de forma segura y confiable para los músicos. En parte también apoyar al usuario a poder ubicar mejor un grupo o solista que pueda presentarse a su evento de manera sencilla y rápida viendo la información y videoclips de dicho grupo para conseguir más clientes a estos grupos.
-Con eso en mente se planteo la tecnica de 5W y 2H para comprender mejor dicha problematica.
+Con eso en mente se planteo la técnica de 5W y 2H para comprender mejor dicha problemática.
 | Who (Quién)| What (Qué)| When (Cuándo)| Where (Dónde)| Why (Por qué)|
 |--------------------------|-----------------------------------------------------------------|--------------------------|-----------------------------------------------------------------|--------------------------|
 | Who are the band members or artists involved in contract management? | What types of contracts do musical bands usually sign?| When do bands usually sign contracts with record labels or management agencies? | Where do negotiations and signing of contracts for musical bands take place? | Why is it important for music bands to have well-managed contracts?|
+| Usualmente cuando son bandas pequeñas el que gestiona los contratos es el líder o guía de la banda que igualmente toca en el grupo, si son cantantes grandes o bandas muy conocidas contratan a un manager para hacer ese proceso. | Pueden hacer contratos por evento o por horas de trabajo que hacen en un evento. | Antes del evento o presentación para establecer los pagos y al culminar se realiza el pago incluso se puede hacer adelantos para confirmar la presentación. | Se llevan de manera presencial con un representante de la banda o el cantante donde se da detalles del evento al cual va participar y como sera el proceso de su pago. | Para no tener dificultades al realizar la presentación y tener bien en claro como se va realizar dicho evento y el proceso de pago.|
 | Who do the representatives, agents or managers play in the negotiation and signing of contracts? | What key elements are included in these contracts?|When do these contracts come into force and what is their typical duration?|Where businesses do the gangs operate in and where do contracts apply?| Why can problems arise if contracts are not clear or equitable for all parties involved? |
+| Puede ser el mismo cantante o alguna empresa que este gestionando el proceso de contratos del grupo o cantante. | Lugar del evento, pago por la presentación, tiempo de la presentación, que elementos adicionales se le brinda como viáticos o que recursos necesita la presentación como luces o estrado.|Dependiendo del evento si es un evento corto se espera que la duración del cumplimiento del contrato sea corto, si es un evento grande como giras o festivales la culminación del contrato puede demorar mucho tiempo.|Operan de manera presencial ya sea teniendo una oficina donde pueda acercarse el cliente, o de manera digital como las redes sociales.| Mala gestión en los eventos o una mala presentación del grupo, como también problemas al recibir el pago si no se queda bien el monto y como pagarlo.|
 
 | How (Cómo)| How much (Cuánto)|
 |----------------------------|--------------------------|
 | How is the contract negotiation process for musical bands carried out? | How much money do contracts for musical bands usually involve?|
+| Se lleva de forma de manera tradicional de manera presencial entre cliente y músico, aunque con el avance tecnológico se hace el contacto mediante redes sociales | Es dependiente del publico y al evento que va el músico o banda musical, si son muy conocidos en precio sera alto si están iniciando el precio sera bajo|
 | How are contracts drafted and reviewed to ensure they reflect the interests and rights of the band? | How many contracts do bands typically sign over the course of their careers and at what frequency? |
+| Se redactan de acuerdo a las políticas que tenga el músico o banda musical, viendo el precio y el entorno donde se dará la presentación evidentemente con una reunion con el cliente.| Si son bandas muy conocidas estimamos que pueden recibir mas de 20 contratos al año, para diversos eventos si son poco conocido podría ser de 5 a 10 eventos.|
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
