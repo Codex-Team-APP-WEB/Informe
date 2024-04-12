@@ -284,6 +284,13 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202224446</td>
   </tr>
+   <td style="border: 1px solid #dddddd; padding: 8px;">
+      <a href="[https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/dveil4prg/image/upload/AnthonyManco.jpg" alt="Foto-Anthony" border="0"></a>
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Manco Cuellar, Anthony Ramon</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software. Soy una persona responsable y empática. Me gusta investigar acerca de las novedades tecnológicas. Las tecnologías que maneja son C++, python, HTML, CSS y SQL.
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u201810954</td>
   
 </table>
 
