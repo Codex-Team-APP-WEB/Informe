@@ -357,6 +357,7 @@ Por otro lado, en este segmento se encuentran empresarios y organizadores de eve
 </center> 
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
+Nuestra estrategia para captar a los músicos y bandas primerizos es brindarles pruebas gratuitas con todas las funcionalidades por un tiempo limitado. También el optar por el caso de ofrecer descuentos para los usuarios que terminen su prueba gratuita. Para los dueños de establecimientos se les dara las mismas alternativas con la diferencia que ellos podran optar por membresias más largas.
 ### 2.2. Entrevistas.
 Para el desarrollo de metodologias que permitan comprender el entorno del proyecto se desarrollo preguntas para realizar entrevistas a los segmentos que se a identificado dentro del proyecto, las preguntas se dividen entre todos los segmentos como los clientes regulares o usuales las cuales requieren nuestro servicios para conseguir un grupo o cantante musical, las bandas musicales y los solitas que se promocionan en la plataforma.
 #### 2.2.1. Diseño de entrevistas.
