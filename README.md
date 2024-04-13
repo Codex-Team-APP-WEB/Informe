@@ -802,9 +802,8 @@ Agrega un toque de elegancia y profesionalismo al pie de página, donde se encue
 <br>
 <br>
 Color Adicional: Azul Claro (#F1F9FF)<br>
-Este color se utilizará para resaltar aspectos relacionados con la seguridad de los datos y la privacidad del usuario, reforzando la confianza en la plataforma.
-![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_impact2/xhh31t5uj5xwbjcdjjd7.jpg](https://res.cloudinary.com/dvvm2chfg/image/upload/t_colors/scsd96dbghvrwxtmadmz.jpg
-)
+Este color se utilizará para resaltar aspectos relacionados con la seguridad de los datos y la privacidad del usuario, reforzando la confianza en la plataforma.<br>
+![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_colors/scsd96dbghvrwxtmadmz.jpg)
 #### 4.1.2. Web Style Guidelines.
 Tipografía:<br>
 Se utilizará Linelcons para la tipografía, ya que refleja la naturaleza musical de la plataforma de manera creativa y atractiva.
