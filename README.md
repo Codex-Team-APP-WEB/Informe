@@ -358,6 +358,7 @@ Buscamos la potenciación del éxito y la colaboración en la industria de la m�
 * Colaboración en tiempo real
 * Almacenamiento centralizado de contratos
 * Interfaz fácil de usar y segura
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Hipótesis 1:** <br>
 Declaración de hipótesis: Creemos que al ofrecer una plataforma web intuitiva y fácil de usar para la gestión de contratos de música, los profesionales de la industria musical adoptarán MusicTime como su herramienta principal.<br>
@@ -368,6 +369,7 @@ Razón: Esta hipótesis se basa en la idea de que las herramientas automatizadas
 <br> **Hipótesis 3:** <br>
 Declaración de hipótesis: Creemos que al garantizar la seguridad de los datos y ofrecer una experiencia de usuario intuitiva, MusicTime generará confianza entre los usuarios y fomentará la adopción continua de la plataforma.<br>
 Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad de los datos y la facilidad de uso para la retención de usuarios y la satisfacción del cliente.
+
 #### 1.2.2.4. Lean UX Canvas.
 ![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_leanux/ymzi4kye5hryjiyxngnv.jpg)
 <br>
@@ -502,6 +504,21 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b
 
 ---
 
+ **Entrevista #2:**
+
+<a href="https://imgbb.com/"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png" alt="Captura-de-pantalla-2024-04-09-003920" border="0"></a>
+
+- Nombre y apellidos: Gabriel Yheferson Quispe Saraza
+- Edad:  22
+- Ubicación: Arequipa
+- Duración de la entrevista: 12.38 minutos
+- Breve descripción: <br><br>
+	 Gabriel tiene 22 años, es conocido por ser cantante y musico en instrumentos de viento para diversos grupos de la region de Puno, no pertenece a un grupo en especifico trabaja de manera independiente ya que tambien estudia en la ciudad de arequipa, el piensa que la plataforma seria de gran apoyo al sector de musicos que no disponen del tiempo suficiente para buscar eventos o conseguir un contratista de esta manera se le haría mas fácil conseguir mas presentaciones.<br><br>
+
+
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e188_upc_edu_pe/EZHXITo8gAZMhGiPcQX6OK0BDCibVr-yCBQC47pWhlnFpg?e=3aGvga&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+---
 
 
 #### 2.2.3. Análisis de entrevistas.
