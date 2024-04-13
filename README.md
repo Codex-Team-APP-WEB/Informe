@@ -1194,16 +1194,24 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 #### 4.7.1. Class Diagrams.
 
 **Diagrama de clase de bounded context "Identity and Access Management"**
+
 ![DC-IAM](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+
 **Diagrama de clase de bounded context "Suscripcion and payment"**
+
 ![DC-SP](https://res.cloudinary.com/djia8bsvr/image/upload/v1713051544/WhatsApp_Image_2024-04-13_at_12.58.39_AM_zclpbg.jpg)
-Se realizo el diagrama de clase del bounded context de suscripciones y pagos en donde se observa el proceso en la cual se relaciona estas clases dentro del proyecto.
+Se realizo el diagrama de clase del bounded context de suscripciones y pagos en donde se observa el proceso en la cual se relaciona estas clases dentro del proyecto, como el banco y la solicitud de pago dentro de la autorizacion de suscripcion y la politica de autorisar o activar esas funciones en la cuenta del usuario.
 
 **Diagrama de clase de bounded context "Social Interaction and Feedback"**
+
 ![DC-SIF](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+
 **Diagrama de clase de bounded context "Managment of musician profiles"**
+
 ![DC-MMP](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+
 **Diagrama de clase de bounded context "Contract Managment"**
+
 ![DC-CM](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
 
 #### 4.7.2. Class Dictionary.
