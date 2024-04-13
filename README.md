@@ -1034,17 +1034,37 @@ Interacción y Comunicación:
 **Comentarios y Valoraciones:** Permite a los usuarios dejar comentarios y valoraciones sobre las bandas y solistas con las que han trabajado, proporcionando retroalimentación útil para otros usuarios.
 ### 4.3. Landing Page UI Design.
 #### 4.3.1. Landing Page Wireframe.
+
+Sección de Únete!, que se usará en el desarrollo del Landing Page.
+![wireframe 1](https://res.cloudinary.com/drkelnilg/image/upload/v1712994811/betis6k49eude4ewip4g.png)
+
+Sección de servicios, que se usará en el desarrollo del Landing Page, donde el usuario podra observar todos los servicios.
+![wireframe 2](https://res.cloudinary.com/drkelnilg/image/upload/v1712995019/w67umr9ruib8exbrx1u6.png)
+
+Seccion de planes, que se usara en el desarrollo del Landing Page.
+
+![wireframe 3](https://res.cloudinary.com/drkelnilg/image/upload/v1712995041/dc8w1f1e6ma6yrj2rl0a.png)
+
+Y por ultimo la seccion de contacto, donde el usuario podra contactarse con nosostros mediante correo electronico.
+
+![wireframe 4](https://res.cloudinary.com/drkelnilg/image/upload/v1712995059/i3oky5f4bs6dplcuv9ea.png)
+
+
 #### 4.3.2. Landing Page Mock-up. 
+Sección de Únete!, como vista final en Landing Page.
+![Page 1](https://res.cloudinary.com/drkelnilg/image/upload/v1712995673/eeaef1be19rfujm08ttn.png)
 
-<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915182253871135/image.png?ex=6622dd7b&is=6610687b&hm=262eaf2193a52141fb30476d8b93949ede39e0563db03420d2a2b0fc1b0be180&" width="800" height="250" style="border-radius: 0%;">
+Sección de servicios, como vista final en Landing Page, donde el usuario podra ver todo lo que le ofrecemos en nuestra plataforma
+![Page 2](https://res.cloudinary.com/drkelnilg/image/upload/v1712995708/d4aka8ftsfznzvyko0o2.png)
 
-<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915232086524004/image.png?ex=6622dd87&is=66106887&hm=89f302e9ef4ceef8e7f3b58c796a4d02cc007c4f6bb069e101dbf64b614adea8&" width="800" height="250" style="border-radius: 0%;">
+Sección de planes, como vista final en Landing Page, ofreceme tres planes, dos de paga y uno gratuito para los usa¿uarios.
+![Page 3](https://res.cloudinary.com/drkelnilg/image/upload/v1712995720/xbktfpagscygllkcfb1w.png)
 
-<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915268862054480/image.png?ex=6622dd90&is=66106890&hm=87710c595e57109db6ef90cc39b41d09e83ea1fecf12e0ca31980890138c8829&" width="800" height="250" style="border-radius: 0%;">
 
-<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915336507920587/image.png?ex=6622dda0&is=661068a0&hm=b759acd16af220daf701d77059d6898bc612c75a73609a2ba4c07a0689ce7db4&" width="800" height="250" style="border-radius: 0%;">
+![Page 4](https://res.cloudinary.com/drkelnilg/image/upload/v1712995747/vd7kv4uqj3j6o8ejrjnl.png)
 
-<img src= "https://cdn.discordapp.com/attachments/891176117204054068/1225915387040891030/image.png?ex=6622ddac&is=661068ac&hm=929737eb0ae505cbfa7458f9e79a7bda2cbb288f24bb5298fb9a78bf041dc6db&" width="800" height="250" style="border-radius: 0%;">
+Sección Uneté, como vista final en Landing Page.
+![Page 5](https://res.cloudinary.com/drkelnilg/image/upload/v1712995750/sqmd0ygoi4vlyy43eovj.png)
 
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
