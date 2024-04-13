@@ -363,12 +363,21 @@ Buscamos la potenciación del éxito y la colaboración en la industria de la m�
 **Hipótesis 1:** <br>
 Declaración de hipótesis: Creemos que al ofrecer una plataforma web intuitiva y fácil de usar para la gestión de contratos de música, los profesionales de la industria musical adoptarán MusicTime como su herramienta principal.<br>
 Razón: Basamos esta hipótesis en la necesidad evidente de simplificar y centralizar la gestión de contratos en la industria musical, lo que debería motivar a los usuarios a buscar soluciones tecnológicas más eficientes.
+<br>
+Declaración de hipótesis: Creemos que al ofrecer una versión móvil de MusicTime con funcionalidades optimizadas para dispositivos móviles, aumentaremos la adopción de la plataforma, ya que los usuarios podrán gestionar contratos de manera eficiente desde cualquier lugar.<br>
+Razón: Basamos esta hipótesis en la tendencia actual de uso de dispositivos móviles para tareas laborales y en la conveniencia que representa para los usuarios poder acceder y utilizar la plataforma desde sus dispositivos móviles.
 <br> **Hipótesis 2:** <br>
 Declaración de hipótesis: Creemos que al proporcionar características avanzadas como notificaciones automatizadas, recordatorios de vencimiento y seguimiento de pagos, MusicTime aumentará la eficacia y la proactividad en la gestión contractual de los usuarios.<br>
 Razón: Esta hipótesis se basa en la idea de que las herramientas automatizadas y de recordatorio son elementos clave para mejorar la productividad y el seguimiento en la gestión de contratos.
+<br>
+Declaración de hipótesis: Creemos que al integrar un sistema de inteligencia artificial en MusicTime para analizar patrones de uso y ofrecer recomendaciones personalizadas, mejoraremos la eficacia en la gestión contractual al brindar a los usuarios herramientas predictivas y proactivas.<br>
+Razón: Esta hipótesis se basa en la idea de que la inteligencia artificial puede mejorar la experiencia del usuario al anticipar sus necesidades y proporcionar soluciones anticipadas.
 <br> **Hipótesis 3:** <br>
 Declaración de hipótesis: Creemos que al garantizar la seguridad de los datos y ofrecer una experiencia de usuario intuitiva, MusicTime generará confianza entre los usuarios y fomentará la adopción continua de la plataforma.<br>
-Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad de los datos y la facilidad de uso para la retención de usuarios y la satisfacción del cliente.
+Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad de los datos y la facilidad de uso para la retención de usuarios y la satisfacción del cliente.añade uno mas mas problem.  
+<br>
+Declaración de hipótesis:Declaración de hipótesis: Creemos que al ofrecer un programa de capacitación y soporte personalizado para los usuarios de MusicTime, aumentaremos la confianza y la adopción continua de la plataforma al proporcionarles las habilidades y conocimientos necesarios para utilizarla de manera efectiva.<br>
+Razón: Esta hipótesis se basa en la idea de que la capacitación y el soporte personalizado pueden mejorar la experiencia del usuario y aumentar su confianza en la plataforma.
 
 #### 1.2.2.4. Lean UX Canvas.
 ![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_leanux/ymzi4kye5hryjiyxngnv.jpg)
@@ -763,7 +772,9 @@ Por otro lado, tenemos el user goal 2: Incrementar el número de perfiles de mú
 User persona 2: Banda o Músico independiente.
 ![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_InpactMapping/jktmz1sfvz0vq0muqxsf.jpg)
 ### 3.4. Product Backlog.
-
+El siguiente product backlog se basa en integrar todos los requisitos funcionales y no funcionales. En su contenido se refleja todo el trabajo que nuestro equipo de desarrollo tiene por hacer.
+![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_product/lcmwkgbby24misie6lip.jpg)
+![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_impact2/xhh31t5uj5xwbjcdjjd7.jpg)
 <br>
 
 ## CAPÍTULO 4: PRODUCT DESIGN
