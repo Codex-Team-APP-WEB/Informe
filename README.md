@@ -714,6 +714,7 @@ Este color se utilizará para resaltar aspectos relacionados con la seguridad de
 #### 4.1.2. Web Style Guidelines.
 Tipografía:<br>
 Se utilizará Linelcons para la tipografía, ya que refleja la naturaleza musical de la plataforma de manera creativa y atractiva.
+![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/e_saturation:-1/l5o6kml6glmqnertgxgf.jpg)
 <br>
 <br>
 Imágenes y Gráficos:<br>
