@@ -578,7 +578,25 @@ tareas para los User Personas previamente definidos.
 
 
 #### 2.3.3. User Journey Mapping.
+
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712963393/ztmya4i9i54zhdft9wzc.png" border="0"></a>
+
 #### 2.3.4. Empathy Mapping.
+
+**Organizador:**
+
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712963418/gmvwpyxerj8nctf7w56h.png" border="0"></a>
+
+**Musico o banda:**
+
+<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712964235/kzunrdwgxdhsxiyuygtq.png
+" border="0"></a>
+
+
+Mediante el desarrollo del Empathy Mapping, hemos explorado en profundidad cómo piensan, sienten, ven y escuchan los usuarios de nuestra plataforma. Este ejercicio nos ha permitido comprender mejor las necesidades, deseos y desafíos de nuestros usuarios, lo que nos capacita para diseñar soluciones más efectivas y centradas en ellos.
+
+
+
 #### 2.3.5. As-is Scenario Mapping.
 Se desarrollo 3 cuadros usando el formato AS-IS en los 3 sectores de usuarios que se identifico en el proyecto usando de base las entrevistas realizadas para hacer analisis de 3 aspectos que son: Que hace, Que siente y Que piensa de esta manera poder lograr entender mejor el contexto en la cual se desarrolla la plataforma.
 
