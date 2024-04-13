@@ -772,7 +772,7 @@ Por otro lado, tenemos el user goal 2: Incrementar el número de perfiles de mú
 User persona 2: Banda o Músico independiente.
 ![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_InpactMapping/jktmz1sfvz0vq0muqxsf.jpg)
 ### 3.4. Product Backlog.
-El siguiente product backlog se basa en integrar todos los requisitos funcionales y no funcionales. En su contenido se refleja todo el trabajo que nuestro equipo de desarrollo tiene por hacer.
+El siguiente product backlog se basa en integrar todos los requisitos funcionales y no funcionales. En su contenido se refleja todo el trabajo que nuestro equipo de desarrollo tiene por hacer.<br>
 ![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_product/lcmwkgbby24misie6lip.jpg)
 ![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_impact2/xhh31t5uj5xwbjcdjjd7.jpg)
 <br>
