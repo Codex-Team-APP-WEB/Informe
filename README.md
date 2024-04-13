@@ -506,15 +506,26 @@ Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b
 
 #### 2.2.3. Análisis de entrevistas.
 
-**Entrevista 1**
+Despues de acontecer y describir los registros de los entrevistados, en esta sección, se desarrollará una estrategia conjunta que permitirá al equipo identificar ciertos aspectos y/o puntos en commún que se tuvo como respuesta ante cada pregunta realizada al entrevistado. Esto mismo, nos sirve a nosotros para tener una visión más analítica y concreta acerca de como se deberá desarrollar la aplicación.
 
-Perfil de Katherine: Katherine es una joven de 23 años que está estudiando Administración de Empresas y realizando prácticas en una discoteca. Su participación en la organización de eventos musicales le proporciona una perspectiva práctica sobre la industria del entretenimiento.
+**Segmento 1: Evento del User**
+ 
+* ¿Qué tipo de eventos suelen realizar con más frecuencia nuestros usuarios?
 
-Proceso de selección de artistas: La discoteca donde trabaja Katherine organiza eventos musicales semanalmente y selecciona artistas basándose en su trayectoria, precios y popularidad. 
+Según el 80% de empresarios nuestros entrevistados suelen realizar eventos con regularidad. Estos pueden incluir presentaciones en discotecas, festivales de música, eventos corporativos, bodas y otros eventos privados.  
 
-Desafíos en la contratación de artistas: Katherine identifica la dificultad principal en la contratación de artistas como la obtención de contactos de representantes y la comprensión de sus tarifas. Esto resalta la importancia de tener acceso a información confiable y transparente sobre los artistas y sus representantes.
+* ¿Qué características valoran más en una plataforma de contratación de eventos para nuestros Users?
 
-Importancia de una plataforma de música: Katherine enfatiza la necesidad de una plataforma que facilite la búsqueda y contratación de artistas, proporcionando información detallada sobre precios y números de contacto confiables. Además, sugiere la posibilidad de clasificar a los artistas por géneros musicales para una búsqueda más eficiente.
+Segun el 90%, nuestros users valoran mas una plataforma de contratación de eventos en la que se encuentre una facilidad de uso, la transparencia en la información, la seguridad en las transacciones financieras y la posibilidad de conectar con una amplia gama de artistas.
+
+* ¿Cómo gestionan actualmente la promoción de sus eventos ?(User dueños)
+
+El 60% de nuestros users gestionar la promoción de sus eventos y conciertos a través de redes sociales, plataformas de streaming de música, sitios web personales y colaboraciones con otros artistas o marcas. 
+
+* ¿Qué herramientas o funciones les gustaría ver a nuestros Users en una plataforma para simplificar la gestión de contratos y eventos?
+
+El 100% de nuestros users apreciarían herramientas y funciones en una plataforma que simplifiquen la gestión de contratos y eventos, como la automatización de procesos, la firma electrónica de contratos, la gestión de calendarios y la integración con sistemas de pago seguro. 
+
 
 ### 2.3. Needfinding.
 
