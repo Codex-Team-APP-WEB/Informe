@@ -1068,6 +1068,75 @@ Sección Uneté, como vista final en Landing Page.
 
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
+
+**Organizadores:**
+Segmento de registro e inicio de sesion para los organizadores.
+![web 1](https://res.cloudinary.com/drkelnilg/image/upload/v1712997434/lkdthrrokotlhx3snx5y.png)
+
+![web 2](https://res.cloudinary.com/drkelnilg/image/upload/v1712997459/cfg822djdc0gofbdqssv.png)
+
+Al iniciar sesión en la primera pantalla se muestra una lista de artistas que puede contactar, ademas de un menu y una barra de busqueda.
+
+![web 3](https://res.cloudinary.com/drkelnilg/image/upload/v1712997489/wcfjtsdykkrcilserob9.png)
+
+Aqui puede ver la descripcion de cada artista y sus precios, ademas de que puede contactarlo mediante un chat.
+
+![web 4](https://res.cloudinary.com/drkelnilg/image/upload/v1712997495/yllibiwogpqeyi39bxwi.png)
+
+![web 5](https://res.cloudinary.com/drkelnilg/image/upload/v1712997512/ighlqiost5lqaxwukurx.png)
+
+
+Aqui se mostrata la lista de solicicitudes en caso haya tratado de contratar a algunos artistas.
+
+![web 6](https://res.cloudinary.com/drkelnilg/image/upload/v1712997529/qq2zrboytohd9fmz4554.png)
+
+Tambien puede hacer una busqueda por filtros y leer las reseñs que dejan.
+
+![web 7](https://res.cloudinary.com/drkelnilg/image/upload/v1712997569/n8eeol4eqqvitq23bxqr.png)
+
+![web 8](https://res.cloudinary.com/drkelnilg/image/upload/v1712997574/ufnwirtjvhshnwxpvy1a.png)
+
+Aqui se mostrata la confirmacion, cuando haya contratado a un artista.
+
+![web 9](https://res.cloudinary.com/drkelnilg/image/upload/v1712997591/brmyr8potn0kvgaamp6i.png)
+
+
+
+**Artistas:**
+Segemento de registro e inicio de sesión para ek artista, para poder registrarse tiene que comprar un plan y activar su cuenta.
+
+![web 10](https://res.cloudinary.com/drkelnilg/image/upload/v1712998600/fdfvb2z5hvoldsxqcfiq.png)
+
+![web 11](https://res.cloudinary.com/drkelnilg/image/upload/v1712998659/fnno1ver0buitxef4xkh.png)
+
+![web 12](https://res.cloudinary.com/drkelnilg/image/upload/v1712998678/ptsbew0xbv1gqddeygba.png)
+
+![web 13](https://res.cloudinary.com/drkelnilg/image/upload/v1712998722/fv80zzc7s5gs4yu9jnu6.png)
+
+![web 14](https://res.cloudinary.com/drkelnilg/image/upload/v1712998726/ahuorofmgsag2i7yfx3x.png)
+
+Cuando Ingrese a su cuenta, al inicio se le mostrar una lista de eventos a los que puede postular.
+
+![web 15](https://res.cloudinary.com/drkelnilg/image/upload/v1712998754/fzrm3xq5gkzcnklvzest.png)
+
+Aqui se le mostraran las solicitudes de eventos y decidira cual de todos acepta.
+
+![web 16](https://res.cloudinary.com/drkelnilg/image/upload/v1712998768/jvw6z5rjydm7qxldf2xl.png)
+
+Podra subir algunas de sus canciones o albunes al igual que clips de sus videos.
+
+![web 17](https://res.cloudinary.com/drkelnilg/image/upload/v1712998785/rabxmgtutottvmfkmbvo.png)
+
+Podra comunicarse por chat con el organizador de eventos.
+![web 18](https://res.cloudinary.com/drkelnilg/image/upload/v1712998802/zqmcyhwf9gdtjovedsfg.png)
+
+Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaje de confirmacion para su contrato con el organizador.
+
+![web 19](https://res.cloudinary.com/drkelnilg/image/upload/v1712998820/mcv1voezdq8r1bkjjlpw.png)
+
+![web 20](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+
+
 #### 4.4.2. Web Applications Wireflow Diagrams.
 
 
