@@ -1330,36 +1330,51 @@ En esta sección se mostrarán las diferentes pautas para poder mostrar nuestras
 **Conevenciones de codificación**
 * Se han aplicado sangrías de 2 espacios para mejorar la legibilidad del código.
 <br>
+
 * Se han empleado nombres descriptivos para identificar variables y funciones de manera más clara.
 <br>
+
 * Se sigue la convención camelCase para nombrar variables y funciones (por ejemplo, "analyzePhoto" en lugar de "analyze_photo").
 <br>
+
 * Se ha incorporado documentación mediante comentarios para explicar secciones del código que podrían no ser evidentes de inmediato.
 <br>
+
 * Se han agrupado funciones relacionadas y se han utilizado comentarios para dividir el código en secciones lógicas.
 <br>
+
 * Se ha procurado mantener la longitud de las líneas de código dentro de límites razonables (generalmente entre 80 y 100 caracteres por línea) para mejorar la legibilidad y evitar la necesidad de desplazamientos horizontales.
 <br>
+
 **Comentarios:**
 
 * Hemos agregado comentarios claros y concisos para explicar el propósito de las funciones, métodos y secciones de código.
 <br>
+
 * Documentamos las funciones y métodos utilizando JSDoc o una convención similar.
 <br>
+
 **Pruebas:**
 
 * Se han ejecutado pruebas unitarias para validar el funcionamiento correcto de las funciones y componentes clave de la página web.
 <br>
+
 * Se han empleado herramientas específicas durante el desarrollo del código y para llevar a cabo pruebas adecuadas utilizando los lenguajes de programación JavaScript, CSS y HTML.
 <br>
+
 **Control de versiones:**
+
 * Se ha empleado un sistema de control de versiones, como Git, para registrar y gestionar los cambios en el código.
 <br>
+
 * Se han seguido las convenciones de nomenclatura para ramas y etiquetas.
 <br>
+
 * Se realizan confirmaciones de código significativas y bien documentadas para mantener un historial claro y comprensible de los cambios realizados.
 <br>
+
 **Compatibilidad y Rendimiento:**
+
 * Aseguramos que el sitio web sea compatible con los navegadores más populares y se cargue de manera eficiente.
 
 
