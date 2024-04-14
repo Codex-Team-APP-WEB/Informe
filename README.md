@@ -1184,7 +1184,9 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 
 **Diagrama de clase de bounded context "Identity and Access Management"**
 
-![DC-IAM](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+![DC-IAM](https://res.cloudinary.com/djia8bsvr/image/upload/v1713059291/IAM-MusicTime_i7ocxm.png)
+
+Se elaboro el diagrama de clase sobre el IAM "Identity and Access Management en la cual podemos gestionar el registro de usuarios y clientes dentro de la plataforma de esta manera identificar y separa quienes pertenecen a clientes normales a empresas que realizan contratos continuos habilitando con el plan esas funciones.
 
 **Diagrama de clase de bounded context "Suscripcion and payment"**
 
