@@ -1407,10 +1407,7 @@ En este segmento se implementó a la plataforma de inicio los servicios, planes 
 
 #### 5.2.1.2. Sprint Backlog 1.
 Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera versión 
-del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
-#### 5.2.1.3. Development Evidence for Sprint Review.
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-#### 5.2.1.5. Execution Evidence for Sprint Review.
+del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance. 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
