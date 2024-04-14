@@ -1260,7 +1260,11 @@ Link prototype: https://www.figma.com/proto/fVIVvymYYINDCZhaVsfjmP/Styles-%26-UI
 <img src="https://i.ibb.co/BN4F9Jz/structurizr-90691-Context.png" alt="structurizr-90691-Context" border="0">
 
 #### 4.6.2. Software Architecture Container Diagrams.
+![CD](https://res.cloudinary.com/dveil4prg/image/upload/v1713069021/Untitled_x1j7ly.png) 
+
 #### 4.6.3. Software Architecture Components Diagrams.
+![SACD](https://res.cloudinary.com/dveil4prg/image/upload/v1713069840/Untitled_1_rzpcpf.png)
+
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
 
