@@ -407,7 +407,7 @@ Por otro lado, en este segmento se encuentran empresarios y organizadores de eve
 
 <center>
   
-  
+ <img src="https://i.ibb.co/31cdL8x/image-1.png" alt="image-1" border="0">
 
 </center> 
 
@@ -1252,6 +1252,7 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
+<img src="https://i.ibb.co/BN4F9Jz/structurizr-90691-Context.png" alt="structurizr-90691-Context" border="0">
 #### 4.6.2. Software Architecture Container Diagrams.
 #### 4.6.3. Software Architecture Components Diagrams.
 ### 4.7. Software Object-Oriented Design.
@@ -1270,20 +1271,23 @@ Se realizo el diagrama de clase del bounded context de suscripciones y pagos en 
 
 **Diagrama de clase de bounded context "Social Interaction and Feedback"**
 
-![DC-SIF](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+<img src="https://i.ibb.co/BtKTr5Y/Social-Interaction.png" alt="Social-Interaction" border="0">
+Se realizo el diagrama de clase del bounded context de interacción social donde vemos la interaccion de los usuarios con las publicaciones, comentarios y calificaciones hacia los artistas.
 
 **Diagrama de clase de bounded context "Managment of musician profiles"**
 
-![DC-MMP](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+<img src="https://i.ibb.co/DLTJWrn/Serviciodemusico.png" alt="Serviciodemusico" border="0">
+Se realizo el diagrama de clase del bounded context de el manejo de perfil, donde los usurios pueden editar la información de su perfil público.
 
 **Diagrama de clase de bounded context "Contract Managment"**
 
-![DC-CM](https://res.cloudinary.com/drkelnilg/image/upload/v1712998825/a0rrum5vni3yxg85onk3.png)
+<img src="https://i.ibb.co/JkVtn9z/contrato.png" alt="contrato" border="0">
+Se realizo el diagrama de clase del bounded context de el proceso de contrato de las partes del músico y los usuarios dentro de la aplicación.
 
 #### 4.7.2. Class Dictionary.
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
-
+<img src="https://i.ibb.co/3yqXZhw/Music-Time-2024-04-13-21-27.png" alt="Music-Time-2024-04-13-21-27" border="0">
 <br>
 
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
