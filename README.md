@@ -406,8 +406,8 @@ Por otro lado, en este segmento se encuentran empresarios y organizadores de eve
 #### 2.1.1. Análisis competitivo.
 
 <center>
-  
- <img src="https://i.ibb.co/31cdL8x/image-1.png" alt="image-1" border="0">
+	
+![Competidores](https://res.cloudinary.com/dveil4prg/image/upload/v1713064030/image_1_qdyckt.png)
 
 </center> 
 
@@ -1271,23 +1271,23 @@ Se realizo el diagrama de clase del bounded context de suscripciones y pagos en 
 
 **Diagrama de clase de bounded context "Social Interaction and Feedback"**
 
-<img src="https://i.ibb.co/BtKTr5Y/Social-Interaction.png" alt="Social-Interaction" border="0">
+![DC-SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1713064605/SocialInteraction_mdlu1v.png)
 Se realizo el diagrama de clase del bounded context de interacción social donde vemos la interaccion de los usuarios con las publicaciones, comentarios y calificaciones hacia los artistas.
 
 **Diagrama de clase de bounded context "Managment of musician profiles"**
 
-<img src="https://i.ibb.co/DLTJWrn/Serviciodemusico.png" alt="Serviciodemusico" border="0">
+![DC-MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/Serviciodemusico_ra78fg.png)
 Se realizo el diagrama de clase del bounded context de el manejo de perfil, donde los usurios pueden editar la información de su perfil público.
 
 **Diagrama de clase de bounded context "Contract Managment"**
 
-<img src="https://i.ibb.co/JkVtn9z/contrato.png" alt="contrato" border="0">
+![DC-CM](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/contrato_peld68.png)
 Se realizo el diagrama de clase del bounded context de el proceso de contrato de las partes del músico y los usuarios dentro de la aplicación.
 
 #### 4.7.2. Class Dictionary.
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
-<img src="https://i.ibb.co/3yqXZhw/Music-Time-2024-04-13-21-27.png" alt="Music-Time-2024-04-13-21-27" border="0">
+![DC-SP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064030/MusicTime-2024-04-13_21-27_twem3q.png)
 <br>
 
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
