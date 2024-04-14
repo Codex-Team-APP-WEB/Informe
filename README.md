@@ -669,6 +669,7 @@ Se desarrollo 3 cuadros usando el formato AS-IS en los 3 sectores de usuarios qu
 
 
 ![AS-IS Cliente 1](https://res.cloudinary.com/djia8bsvr/image/upload/v1712333973/A%C3%B1adir_un_subt%C3%ADtulo_ydffjm.jpg)
+
 Se plantea el cuadro y se separa de acuerdo al contenido que necesitamos: Fases, Hacer, Pensar y Sentir para asi poder realizar la lluvia de ideas con esos criterios. 
 ![AS-IS Cliente 2](https://res.cloudinary.com/djia8bsvr/image/upload/v1712633842/8_kq0jj3.jpg)
 Luego de realizar las entrevistas al público objetivo y de acuerdo a las respuestas obtenidas, formulamos una lluvia de ideas de acuerdo a que es lo que buscan el cliente en una presentacion de una banda musical o solista, tanto para doing, thinking y feeling.
@@ -1252,10 +1253,15 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
-<img src="https://i.ibb.co/BN4F9Jz/structurizr-90691-Context.png" alt="structurizr-90691-Context" border="0">
+
+![Contex Diagram](https://i.ibb.co/BN4F9Jz/structurizr-90691-Context.png)
+
 #### 4.6.2. Software Architecture Container Diagrams.
+
 #### 4.6.3. Software Architecture Components Diagrams.
+
 ### 4.7. Software Object-Oriented Design.
+
 #### 4.7.1. Class Diagrams.
 
 **Diagrama de clase de bounded context "Identity and Access Management"**
@@ -1267,16 +1273,19 @@ Se elaboro el diagrama de clase sobre el IAM "Identity and Access Management en 
 **Diagrama de clase de bounded context "Suscripcion and payment"**
 
 ![DC-SP](https://res.cloudinary.com/djia8bsvr/image/upload/v1713051544/WhatsApp_Image_2024-04-13_at_12.58.39_AM_zclpbg.jpg)
+
 Se realizo el diagrama de clase del bounded context de suscripciones y pagos en donde se observa el proceso en la cual se relaciona estas clases dentro del proyecto, como el banco y la solicitud de pago dentro de la autorizacion de suscripcion y la politica de autorisar o activar esas funciones en la cuenta del usuario.
 
 **Diagrama de clase de bounded context "Social Interaction and Feedback"**
 
 <img src="https://i.ibb.co/BtKTr5Y/Social-Interaction.png" alt="Social-Interaction" border="0">
+
 Se realizo el diagrama de clase del bounded context de interacción social donde vemos la interaccion de los usuarios con las publicaciones, comentarios y calificaciones hacia los artistas.
 
 **Diagrama de clase de bounded context "Managment of musician profiles"**
 
 <img src="https://i.ibb.co/DLTJWrn/Serviciodemusico.png" alt="Serviciodemusico" border="0">
+
 Se realizo el diagrama de clase del bounded context de el manejo de perfil, donde los usurios pueden editar la información de su perfil público.
 
 **Diagrama de clase de bounded context "Contract Managment"**
@@ -1287,6 +1296,7 @@ Se realizo el diagrama de clase del bounded context de el proceso de contrato de
 #### 4.7.2. Class Dictionary.
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
+
 <img src="https://i.ibb.co/3yqXZhw/Music-Time-2024-04-13-21-27.png" alt="Music-Time-2024-04-13-21-27" border="0">
 <br>
 
