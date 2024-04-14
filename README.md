@@ -1419,8 +1419,16 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 ## Conclusiones
 
-### Conclusiones y recomendaciones.
-### Video About-the-Team.
+Consideramos que el proyecto que realizamos va dar un gran aporte a nuestro prefil profesional por el estilo en que ponemos nuestros conocimientos para hacer soluciones tecnologicas.
+
+Desarrollar un proyecto de catálogo de música implica varios pasos importantes. Primero, debemos entender qué es lo que los usuarios necesitan y qué queremos lograr con el proyecto. Esto implica identificar las funcionalidades clave, como la búsqueda de canciones, artistas y álbumes, así como la reproducción de muestras de música.
+
+Después de seleccionar nuestras herramientas, es importante diseñar la estructura de la base de datos. Esto implica decidir cómo vamos a organizar la información sobre canciones, artistas, álbumes y otros datos relacionados. 
+
+Des esta manera afrontamos diversos desafios para terminar el TF. aun siendo el primer entregable esperamos mejorar el trabajo hasta el maximo para que sea una solucion de entorno real.
+
+
+
 
 <br>
 
@@ -1453,4 +1461,4 @@ Links videos del trabajo.
 | LandingPage    | Link     | 
 | Diagramas C4    | Link     |
 | Servicios   | Link     | 
-| Proyecto     | Link     |
+| Proyecto     | https://github.com/NaggitBallona/Codex/tree/main    |
