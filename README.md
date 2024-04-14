@@ -839,7 +839,7 @@ El siguiente product backlog se basa en integrar todos los requisitos funcionale
 
 ### 4.1. Style Guidelines.
 #### 4.1.1. General Style Guidelines.
-![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_colors/scsd96dbghvrwxtmadmz.jpg)
+![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_colors/scsd96dbghvrwxtmadmz.jpg)<br>
 Color Principal: Azul Claro (#99D9F2)<br>
 Este color representa la frescura y claridad asociadas con la industria musical en la aplicación, se utilizará para elementos importantes que necesitan destacarse, como el logo de la plataforma y los botones de llamada a la acción.
 <br>
@@ -864,7 +864,7 @@ Color Adicional: Azul Claro (#F1F9FF)<br>
 Este color se utilizará para resaltar aspectos relacionados con la seguridad de los datos y la privacidad del usuario, reforzando la confianza en la plataforma.<br>
 #### 4.1.2. Web Style Guidelines.
 Tipografía:<br>
-![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/e_saturation:-1/l5o6kml6glmqnertgxgf.jpg)
+![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/e_saturation:-1/l5o6kml6glmqnertgxgf.jpg)<br>
 Se utilizará Linelcons para la tipografía, ya que refleja la naturaleza musical de la plataforma de manera creativa y atractiva.
 <br>
 <br>
