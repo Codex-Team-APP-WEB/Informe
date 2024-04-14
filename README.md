@@ -1365,8 +1365,17 @@ En esta sección se mostrarán las diferentes pautas para poder mostrar nuestras
 
 #### 5.1.4. Software Deployment Configuration.
 
+Nuestro proyecto está alojado en un repositorio de GitHub  y para el despliegue de nuestro landing page se a usado el GithubPages, ya que es una excelente manera de mostrar tu sitio web de forma gratuita y accesible en línea
+![pages1](https://res.cloudinary.com/drkelnilg/image/upload/v1713064230/zv2jeg1xbm5twf8emqnh.png)
+<br>
+Se  a subido todos los archivos que conforman en landign Page, tanto como los archivos HTML, CSS y JS.
+![pages](https://res.cloudinary.com/drkelnilg/image/upload/v1713064241/ey3c3oahikcbpdspj3mh.png)
 
+Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se encuentra nuestro landing Page.
+![pages2](https://res.cloudinary.com/drkelnilg/image/upload/v1713064253/ziqqlwlsxh5cnxp468wm.png)
 
+**Enlace del landing Page**
+https://github.com/VictorHerrera10/FinanCar-LandingPage/tree/gh-pages
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 #### 5.2.1. Sprint n
