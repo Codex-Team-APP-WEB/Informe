@@ -1214,7 +1214,7 @@ Se realizo el diagrama de clase del bounded context de suscripciones y pagos en 
 ### 5.1. Software Configuration Management.
 En esta sección se establece las convenciones en las cuales el grupo organizara el desarrollo del producto como también la descripción de algunas herramientas que usara el startup para la gestión del avance del proyecto y todo su ciclo de vida.
 #### 5.1.1. Software Development Environment Configuration.
-La configuración del entorno de software que usamos en el trabajo es el editor de código Webstorm perteneciente a JetBrains, apoyado del IDE visual estudio para los commits del Readme.md con la cual podemos manejar lenguajes de programación como java principalmente para elaborar los módulos y clases del proyecto, y como sistema para control de versiones usamos el Git así mismo usamos distintos plugin dentro del editor de código para la corrección y lograr algunos atajos al desarrollar el código, para el diseño de las funciones de la plataforma se usó herramientas digitales como Figma o Lucichat para detallar el orden de las clases del código presente y tener una vista del prototipo del producto final. teniendo en cuenta que las licencias que se usó en algunas herramientas son educativas que se nos brindó por la universidad.
+La configuración del entorno de software que usamos en el trabajo es el editor de código Webstorm perteneciente a JetBrains, apoyado del IDE visual estudio para los commits del Readme.md con la cual podemos manejar lenguajes de programación como C shap principalmente para elaborar los módulos y clases del proyecto, y como sistema para control de versiones usamos el Git así mismo usamos distintos plugin dentro del editor de código para la corrección y lograr algunos atajos al desarrollar el código, para el diseño de las funciones de la plataforma se usó herramientas digitales como Figma o Lucichat para detallar el orden de las clases del código presente y tener una vista del prototipo del producto final. teniendo en cuenta que las licencias que se usó en algunas herramientas son educativas que se nos brindó por la universidad.
 #### 5.1.2. Source Code Management.
 #### 5.1.3. Source Code Style Guide & Conventions.
 #### 5.1.4. Software Deployment Configuration.
@@ -1240,7 +1240,31 @@ La configuración del entorno de software que usamos en el trabajo es el editor 
 
 ## Bibliografía
 
+1. Design thinking activities and tools - Enterprise Design Thinking. (s/f-a). Ibm.com. Recuperado el 4 de mayo de 2023, de https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+2. Design thinking activities and tools - Enterprise Design Thinking. (s/f-b). Ibm.com. Recuperado el 4 de mayo de 2023, de https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
 <br>
 
 ## Anexos
- 
+Links videos del trabajo.
+
+ |Exposiciones del trabajo|Link de video|
+|---------|---------|
+| TB1     | Link     | 
+| TP      | Link     |
+| TB2     | Link     | 
+| TF      | Link     |
+
+<center>
+
+**REPOSITORIOS GIT HUB**
+
+</center>
+
+ |Segmento del trabajo|Link de repositorio|
+|---------|---------|
+| LandingPage    | Link     | 
+| Diagramas C4    | Link     |
+| Servicios   | Link     | 
+| Proyecto     | Link     |
