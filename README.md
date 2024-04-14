@@ -276,7 +276,7 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
   </tr>
      <tr>
      <td style="border: 1px solid #dddddd; padding: 8px;">
-     <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/dzcg3isnr/image/upload/t_FotoPiero/wnam0ir6cr8z407ck6em.jpg" alt="Foto-Piero" border="0">
+     <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/dzcg3isnr/image/upload/t_piero/gtvy5ay53vjfzyu40m5r.jpg" alt="Foto-Piero" border="0">
      </a>
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Muñoz Salcedo Piero Jhoynner</td>
