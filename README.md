@@ -1461,7 +1461,7 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 ## Anexos
 Links videos del trabajo.
 
- |Exposiciones del trabajo|Link de video|
+ |Exposiciones del trabajo||
 |---------|---------|
 | TB1     | Link     | 
 | TP      | Link     |
@@ -1474,9 +1474,11 @@ Links videos del trabajo.
 
 </center>
 
- |Segmento del trabajo|Link de repositorio|
+ |Segmento del trabajo|Link de repositorio: https://github.com/NaggitBallona/Codex|
 |---------|---------|
-| LandingPage    | Link     | 
+| LandingPage    | Link    https://victorherrera10.github.io/MusicTime-LandingPage/ | 
 | Diagramas C4    | Link     |
 | Servicios   | Link     | 
 | Proyecto     | Link     |
+|Figma| Link  https://www.figma.com/file/1hjHtZs3A8vRyrcncRGeie/Untitled?type=design&node-id=0-1&mode=design&t=2MU4kr8c6FFQnMrV-0|
+|Figma| Link  https://www.figma.com/file/fVIVvymYYINDCZhaVsfjmP/Styles-%26-UI-(Copy)-(Copy)-(Copy)?type=design&node-id=45348-1263&mode=design&t=ex4VNwMnAMAS8axi-0|
