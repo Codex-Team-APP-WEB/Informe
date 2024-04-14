@@ -1247,8 +1247,16 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 
 
 
-#### 4.4.2. Web Applications Mock-ups.
-#### 4.4.3. Web Applications User Flow Diagrams.
+#### 4.4.3. Web Applications Mock-ups.
+
+![web](https://cdn.discordapp.com/attachments/891176117204054068/1228919975192952847/image.png?ex=662dcbea&is=661b56ea&hm=be2262ff02494e8b35be5bfd02dc466083adaf04c8ef0683ddc3f594293a8edd&)
+![web](https://cdn.discordapp.com/attachments/891176117204054068/1228920007774310551/image.png?ex=662dcbf2&is=661b56f2&hm=3023ed55d714ce0648d86faa69a59e1250489a3bf651f6e9c36a97cf18440a95&)
+![web](https://cdn.discordapp.com/attachments/891176117204054068/1228920150439231488/image.png?ex=662dcc14&is=661b5714&hm=78861cee43180e8dadbf9f97184606d1ea225b38ba375f004b2642be4f65601e&)
+![web](https://cdn.discordapp.com/attachments/891176117204054068/1228920299043426344/image.png?ex=662dcc37&is=661b5737&hm=477d73b6fe91aa288772b9cff7288def93eaf07fc09cfbfde0c236c8a27cfcc7&)
+![web](https://cdn.discordapp.com/attachments/891176117204054068/1228920416081412208/image.png?ex=662dcc53&is=661b5753&hm=1b8e59cbbc6ae592602f0e955865fd48913a1c5d97803114a080c6fdbf1d76b5&)
+![web](https://cdn.discordapp.com/attachments/891176117204054068/1228920542632087742/image.png?ex=662dcc71&is=661b5771&hm=772d965e5a71b4c7b60afe757a4ad77916008ea7c640d834e7d3e25371d71d46&)
+
+#### 4.4.4. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
 
 
