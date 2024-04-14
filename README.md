@@ -586,6 +586,8 @@ en el análisis de entrevistas y de la competencia.
 **Solista**
 ---
 
+<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1228864309044445294/image.png?ex=662d9812&is=661b2312&hm=ce826099a3f7ba339808e4e251289e3b159418ba87c8c5fce8e6011b02665406&" border="0"></a>
+
 #### 2.3.2. User Task Matrix.
 
 Esta sección llamada User Task Matrix es una herramienta que nos sirve para
