@@ -1399,8 +1399,12 @@ Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se enc
 https://github.com/VictorHerrera10/FinanCar-LandingPage/tree/gh-pages
 
 ### 5.2. Landing Page, Services & Applications Implementation.
+En este segmento se implementó a la plataforma de inicio los servicios, planes y aplicaciones que ofrece “MusicTime”.
 #### 5.2.1. Sprint n
 #### 5.2.1.1. Sprint Planning n.
+![pages2](https://res.cloudinary.com/dzcg3isnr/image/upload/t_sprint1/mku7psichkyaqmiwlmuj.jpg)
+![pages2](https://res.cloudinary.com/dzcg3isnr/image/upload/t_sprint/erpny5ru3pu3pc1ulqmt.jpg)
+
 #### 5.2.1.2. Sprint Backlog n.
 #### 5.2.1.3. Development Evidence for Sprint Review.
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
