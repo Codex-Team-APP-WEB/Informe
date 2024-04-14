@@ -1327,7 +1327,7 @@ Commits de evidencia del trabajo
 
 En esta sección se mostrarán las diferentes pautas para poder mostrar nuestras convenciones, estilos y principios que utilizaremos para cada uno de los lenguajes que se emplearán en la creación de nuestra aplicación.
 
-**Conevenciones de codificación**
+**Convenciones de codificación**
 * Se han aplicado sangrías de 2 espacios para mejorar la legibilidad del código.
 <br>
 
