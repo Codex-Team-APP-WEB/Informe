@@ -3,17 +3,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"width="150" height="150">
     </div>
 </tr>
-<center>
+ <h1 align="center">Universidad Peruana de Ciencias Aplicadas
+ </h1>
+ <h2 align="center">  Ingeniería de Software
+  <br><br> App web 
+  <br><br> WS53
+  <br><br>Angel Augusto Velasquez Nuñez
+  <br><br>"Informe de Trabajo Final"
+  <br><br>StartUp Name: CODEX
+  <br><br>  Product Name: MusicTime
+  <br><br>Team Members
+ </h2>    
 
-# Universidad Peruana de Ciencias Aplicadas.
-### Ingeniería de Software.
-### App web 
-### WS53
-### Angel Augusto Velasquez Nuñez
-### "Informe de Trabajo Final"
-### StartUp Name: CODEX
-### Product Name: MusicTime
-### Team Members
+<p align="center">
 
 |   Members     |   User    |
 |:-------------:|:---------:|
@@ -23,8 +25,9 @@
 |Muñoz Salcedo, Piero Jhoynner      |u202224446|
 |Manco Cuellar Anthony Ramon        |u201810954|
 
- ## 2024-1
-</center>
+</p>
+ <h2 align="center">  2024 </h2>
+  <br> <br> 
 
  # Registros de versiones del Informe
 
@@ -832,14 +835,6 @@ Para finalizar, organizamos e identificamos las ideas formuladas anteriormente s
 | US24 | Visualización de Estadísticas de Audiencia | Como solista, quiero acceder a estadísticas detalladas sobre el rendimiento de mis actuaciones y presentaciones en la plataforma. | **Escenario 1:** Visualización de Estadísticas Exitosa.<br> Dado que un solista desea evaluar el rendimiento de sus actuaciones, Cuando accede a estadísticas detalladas en la plataforma, Entonces puede ver métricas como audiencia, interacción y feedback recibido. Y asi obtiene información valiosa para mejorar su trabajo y promoción. <br> **Escenario 2:** Problemas con las Estadísticas.<br> Dado que un solista intenta acceder a estadísticas de audiencia en la plataforma, Cuando las métricas no se cargan correctamente o no son precisas, Entonces el solista no puede evaluar adecuadamente su rendimiento. Y lo limita las oportunidades de mejora. |
 | US25 | Participación en Redes de Colaboración | Como solista, quiero unirme a redes de colaboración en la plataforma para conectar con otros músicos y explorar nuevas oportunidades creativas. | **Escenario 1:** Participación en Redes de Colaboración Exitosa.<br> Dado que un solista desea colaborar con otros músicos, Cuando solicita unirse a redes de colaboración en la plataforma, Entonces recibe acceso a nuevas oportunidades creativas y conexiones con otros artistas. Y,el puede ampliar su red profesional y explorar proyectos colaborativos. <br> **Escenario 2:** Problemas con la Participación en Redes.<br> Dado que un solista intenta unirse a redes de colaboración en la plataforma, Cuando encuentra dificultades técnicas o su solicitud no es procesada correctamente, Entonces el solista no puede acceder a nuevas oportunidades de colaboración. |
 
-
-
-
-
-
-
-
-
 ### 3.3. Impact Mapping.
 En este segmento se presentarán el user goal tanto como para los musicos como para el organizador de eventos.
 <br><br>
@@ -1244,8 +1239,6 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
-
-
 
 #### 4.4.2. Web Applications Mock-ups.
 #### 4.4.3. Web Applications User Flow Diagrams.
