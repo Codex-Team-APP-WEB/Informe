@@ -24,7 +24,9 @@
 |Cabrera Camizan, Jeferson Smith    |u20211c211|
 |Muñoz Salcedo, Piero Jhoynner      |u202224446|
 |Manco Cuellar Anthony Ramon        |u201810954|
+
 </p>
+ <h2 align="center">  2024 </h2>
   <br> <br> 
 
  # Registros de versiones del Informe
