@@ -1287,7 +1287,146 @@ Se realizo el diagrama de clase del bounded context de el manejo de perfil, dond
 ![DC-CM](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/contrato_peld68.png)
 Se realizo el diagrama de clase del bounded context de el proceso de contrato de las partes del músico y los usuarios dentro de la aplicación.
 
-#### 4.7.2. Class Dictionary.
+#### 4.7.2. Class Dictionary. 
+---
+
+| Name | Description |
+|-----------------|------------|
+-- User -- 
+| 1.  UserID |   Identificador único para cada usuario en el sistema. |
+| 2.  Name  |  El nombre del usuario. |
+| 4.  email |  La dirección de correo electrónico del usuario. |
+| 5.  Birthdate | La fecha de nacimiento del usuario  | 
+| 6.  Phone Number |  El número de teléfono del usuario.  | 
+-- Musican --
+| 7.  MusicianID | Identificador único para cada músico en el sistema.  |
+-- Contract --  
+| 8.  contractID | Identificador único para cada contrato en el sistema.  |
+| 9.  startDate | La fecha de inicio del contrato.  |
+| 10. endDate |  : La fecha de finalización del contrato. |
+| 11. amount |  El monto financiero asociado al contrato. | 
+| 12. description |  Una breve descripción del contrato. | 
+| 13. creationDate |  La fecha en que se creó el contrato. | 
+-- Band --
+| 14. BandID  |  Identificador único para cada banda en el sistema.  | 
+| 15. GroupName  | El nombre del grupo musical.  | 
+-- Costumer --
+| 16.  cotumerID |  Identificador único para cada cliente en el sistema. | 
+| 17.  type |  El tipo de cliente (por ejemplo, empresario, dueño de discoteca, organizador de eventos). | 
+| 18.  runc |  El número de Registro Único de Contribuyentes (RUC) del cliente.  |
+-- Profile -- 
+| 19.  profileID |   Identificador único para cada perfil en el sistema. | 
+-- ProfileMusician
+| 20. profileMusician  | El perfil asociado a un músico.  | 
+-- ProfileBand --
+| 21. profileBand |  El perfil asociado a una banda musical | 
+-- ProfileCustomer --
+| 22. profileCustomer  | El perfil asociado a un cliente.  | 
+-- Publication --
+| 27. publicationID  | Identificador único para cada publicación en el sistema.  |  
+-- Comment --
+| 23.  commentiD | Identificador único para cada comentario en el sistema.  | 
+| 24. content  |  El contenido del comentario. | 
+| 25. musician  |  El músico asociado al comentario.  | 
+| 26. band  | La banda asociada al comentario.  | 
+-- Qualification --
+| 31. qualificationID  |  Identificador único para cada calificación en el sistema | 
+| 32. punctuation  |   La puntuación asignada en la calificación. | 
+| 33. costumer  |  El cliente que realiza la calificación. | 
+-- Members --
+| 34.  id | Identificador único para cada miembro en el sistema.  | 
+| 35.  name |  El nombre del miembro. | 
+| 36.  email |  La dirección de correo electrónico del miembro. | 
+| 37.  cellphone |  El número de teléfono del miembro. | 
+-- Login --
+| 38. user  | El nombre de usuario para iniciar sesión.  | 
+| 39. password  | La contraseña asociada al nombre de usuario.  |  
+-- Accounts --
+| 40. id  |  Identificador único para cada cuenta en el sistema. | 
+| 41.  member |  El miembro asociado a la cuenta.  |
+-- payments --
+| 42. id  | Identificador único para cada pago en el sistema.  |  
+| 43. account  |   La cuenta asociada al pago. | 
+| 44. amount |El monto del pago   |  
+-- payment_methods --
+| 45. id  |  Identificador único para cada método de pago en el sistema  | 
+| 46.  name |  El nombre del método de pago. |  
+| 47.  descripcion | Una descripción del método de pago.  | 
+-- banking_transactions --
+| 48.  id |  Identificador único para cada transacción bancaria en el sistema. |
+-- banks --
+| 49. id  | Identificador único para cada banco en el sistema.  | 
+| 50. name  | El nombre del banco.  |  
+| 51. descripcion | Una descripción del banco.  | 
+-- subscriptions --
+| 52. id  | Identificador único para cada suscripción en el sistema.  |  
+| 53. account  | La cuenta asociada a la suscripción.  | 
+-- plans --
+| 54.  id |  Identificador único para cada plan en el sistema. |  
+| 55.  name |  El nombre del plan. | 
+| 56.  descripcion | Una descripción del plan.  |
+-- customers -- 
+| 57. id  | Identificador único para cada cliente en el sistema.  |  
+| 58.  costumer | El cliente registrado en el sistema  | 
+| 59.  location |  La ubicación del cliente.  |  
+| 60.  status | El estado del cliente (activo, inactivo, etc.).  | 
+-- companies --
+| 61.  id |  Identificador único para cada empresa en el sistema.  |  
+| 62.  nameCompany |  El nombre de la empresa. |  
+| 63.  location |  La ubicación de la empresa.  | 
+| 64. status  | El estado de la empresa.  |
+-- accounts --   
+| 65. username  | El nombre de usuario de la cuenta.  | 
+| 66.  creaciondate |  La fecha de creación de la cuenta. |  
+-- notifications --
+| 67.  user |   El usuario asociado a la notificación. |  
+| 68.  name | El nombre asociado a la notificación.  | 
+| 69.  email | El correo electrónico asociado a la notificación.  |  
+--  access_managements --
+| 70.  registeredUser | El usuario registrado en el sistema. | 
+| 71.  invalidUser | El usuario no válido en el sistema.  |  
+-- payments --
+| 72. id  | Identificador único para cada pago en el sistema.  |  
+| 73. account  | La cuenta asociada al pago.  | 
+| 74.  amount | El monto del pago realizado.  |  
+-- registers --
+| 75.  id | Identificador único para cada registro en el sistema.  | 
+| 76.  email |  La dirección de correo electrónico asociada al registro.  |  
+| 77.  password | La contraseña asociada al registro.  |  
+-- permissions --
+| 78.  id |   Identificador único para cada permiso en el sistema. | 
+| 79.  password | La contraseña asociada al permiso.
+  |  
+-- contracts --
+| 80.  id |  Identificador único para cada contrato en el sistema. | 
+| 81.  nameEvent |  El nombre del evento asociado al contrato.  |  
+| 82.  nameArtist | El nombre del artista asociado al contrato.
+  |  
+| 83.  nameLocation | El nombre de la ubicación asociada al contrato.  | 
+| 84.  mount | El monto financiero asociado al contrato.  |  
+-- features --
+| 85.  id |   Identificador único para cada característica en el sistema. | 
+| 86.  name |  El nombre de la característica. |  
+| 87.  descripcion |  Una descripción de la característica. | 
+-- music_reservation --
+| 88. id  |  Identificador único para cada reserva de música en el sistema. |  
+| 89.  dateReservacion |  La fecha de reserva de música. | 
+-- event_managments --
+| 90.  id | Identificador único para cada gestión de evento en el sistema.  |  
+-- events --
+| 91.  id |  Identificador único para cada evento en el sistema.  | 
+| 92.  name |  El nombre del evento. |  
+| 93.  descripcion |Una descripción del evento.   | 
+| 94.  price | El precio del evento.  |  
+-- locations --
+| 95.  id | Identificador único para cada ubicación en el sistema.  | 
+| 96.  name | El nombre de la ubicación.  |  
+| 97.  descripcion | Una descripción de la ubicación.  | 
+-- dates --
+| 98.  id |  Identificador único para cada fecha en el sistema. |  
+| 99.  StartDate | La fecha de inicio.   | 
+| 100.  endDate | La fecha de finalización.  |   
+
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
 ![DC-SP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064030/MusicTime-2024-04-13_21-27_twem3q.png)
