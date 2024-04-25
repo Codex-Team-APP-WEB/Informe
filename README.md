@@ -836,12 +836,12 @@ Para finalizar, organizamos e identificamos las ideas formuladas anteriormente s
 | US25 | Participación en Redes de Colaboración | Como solista, quiero unirme a redes de colaboración en la plataforma para conectar con otros músicos y explorar nuevas oportunidades creativas. | **Escenario 1:** Participación en Redes de Colaboración Exitosa.<br> Dado que un solista desea colaborar con otros músicos, Cuando solicita unirse a redes de colaboración en la plataforma, Entonces recibe acceso a nuevas oportunidades creativas y conexiones con otros artistas. Y,el puede ampliar su red profesional y explorar proyectos colaborativos. <br> **Escenario 2:** Problemas con la Participación en Redes.<br> Dado que un solista intenta unirse a redes de colaboración en la plataforma, Cuando encuentra dificultades técnicas o su solicitud no es procesada correctamente, Entonces el solista no puede acceder a nuevas oportunidades de colaboración. |
 
 ### 3.3. Impact Mapping.
-En este segmento se presentarán el user goal tanto como para los musicos como para el organizador de eventos.
+En este segmento se presentarán el business goal tanto como para los musicos como para el solista.
 <br><br>
-En primer lugar tenemos el user goal 1: Lograr una tasa de contratación de músicos del 80% en eventos organizados en la plataforma en un plazo de 8 meses.<br>
+En primer lugar tenemos el business goal 1: Lograr una tasa de contratación de músicos del 80% en eventos organizados en la plataforma en un plazo de 8 meses.<br>
 User persona 1: Organizador de eventos.<br>
 <br>
-Por otro lado, tenemos el user goal 2: Incrementar el número de perfiles de músicos en la plataforma un 30% cada trimestre.<br>
+Por otro lado, tenemos el business goal 2: Incrementar el número de perfiles de músicos en la plataforma un 30% cada trimestre.<br>
 User persona 2: Banda o Músico independiente.
 ![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_InpactMapping/jktmz1sfvz0vq0muqxsf.jpg)
 ### 3.4. Product Backlog.
