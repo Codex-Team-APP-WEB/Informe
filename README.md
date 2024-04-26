@@ -1290,7 +1290,7 @@ Sección de Únete!, como vista final en Landing Page.
 Sección de servicios, como vista final en Landing Page, donde el usuario podra ver todo lo que le ofrecemos en nuestra plataforma
 ![Page 2](https://res.cloudinary.com/drkelnilg/image/upload/v1712995708/d4aka8ftsfznzvyko0o2.png)
 
-Sección de planes, como vista final en Landing Page, ofreceme tres planes, dos de paga y uno gratuito para los usa¿uarios.
+Sección de planes, como vista final en Landing Page, ofreceme tres planes, dos de paga y uno gratuito para los usuarios.
 ![Page 3](https://res.cloudinary.com/drkelnilg/image/upload/v1712995720/xbktfpagscygllkcfb1w.png)
 
 
