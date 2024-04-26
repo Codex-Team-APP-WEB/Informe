@@ -1341,52 +1341,65 @@ Link prototype: https://www.figma.com/proto/fVIVvymYYINDCZhaVsfjmP/Styles-%26-UI
 
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
+
 ![CD](https://res.cloudinary.com/dveil4prg/image/upload/v1714163814/structurizr-90691-Context_goryk6.png)
 
 #### 4.6.2. Software Architecture Container Diagrams.
+
 ![CD](https://res.cloudinary.com/dveil4prg/image/upload/v1714163809/structurizr-90691-Containers_imjtmy.png) 
 
 #### 4.6.3. Software Architecture Components Diagrams.
 **Component Diagram "Identity and Access Management"**
-![IM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_1_l9sl1l.png)
-**Component Diagram "Suscripcion and payment"**
-![SP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_3_cei7ti.png)
-**Component Diagram "Social Interaction and Feedback"**
-![SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_2_fgjq3w.png)
-**Component Diagram "Managment of musician profiles"**
-![MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_4_dlmzsv.png)
-**Component Diagram "Contract Managment"**
-![CM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163809/structurizr-90691-Component_microservice_5_esmbki.png)
 
+![IM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_1_l9sl1l.png)
+
+**Component Diagram "Suscripcion and payment"**
+
+![SP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_3_cei7ti.png)
+
+**Component Diagram "Social Interaction and Feedback"**
+
+![SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_2_fgjq3w.png)
+
+**Component Diagram "Managment of musician profiles"**
+
+![MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_4_dlmzsv.png)
+
+**Component Diagram "Contract Managment"**
+
+![CM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163809/structurizr-90691-Component_microservice_5_esmbki.png)
 
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
 
 **Diagrama de clase de bounded context "Identity and Access Management"**
-
-![DC-IAM](https://res.cloudinary.com/djia8bsvr/image/upload/v1713059291/IAM-MusicTime_i7ocxm.png)
-
 Se elaboro el diagrama de clase sobre el IAM "Identity and Access Management en la cual podemos gestionar el registro de usuarios y clientes dentro de la plataforma de esta manera identificar y separa quienes pertenecen a clientes normales a empresas que realizan contratos continuos habilitando con el plan esas funciones.
 
-**Diagrama de clase de bounded context "Suscripcion and payment"**
+![DC-IAM](https://res.cloudinary.com/dveil4prg/image/upload/v1714169342/IAM-MusicTime_hp0tx6.png)
 
-![DC-SP](https://res.cloudinary.com/djia8bsvr/image/upload/v1713051544/WhatsApp_Image_2024-04-13_at_12.58.39_AM_zclpbg.jpg)
+**Diagrama de clase de bounded context "Suscripcion and payment"**
 Se realizo el diagrama de clase del bounded context de suscripciones y pagos en donde se observa el proceso en la cual se relaciona estas clases dentro del proyecto, como el banco y la solicitud de pago dentro de la autorizacion de suscripcion y la politica de autorisar o activar esas funciones en la cuenta del usuario.
+
+![DC-SP](https://res.cloudinary.com/dveil4prg/image/upload/v1714169341/Suscripcion-MusicTime_b4wvir.png)
+
 
 **Diagrama de clase de bounded context "Social Interaction and Feedback"**
 
-![DC-SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1713064605/SocialInteraction_mdlu1v.png)
 Se realizo el diagrama de clase del bounded context de interacción social donde vemos la interaccion de los usuarios con las publicaciones, comentarios y calificaciones hacia los artistas.
 
-**Diagrama de clase de bounded context "Managment of musician profiles"**
+![DC-SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1713064605/SocialInteraction_mdlu1v.png)
 
-![DC-MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/Serviciodemusico_ra78fg.png)
+
+**Diagrama de clase de bounded context "Managment of musician profiles"**
 Se realizo el diagrama de clase del bounded context de el manejo de perfil, donde los usurios pueden editar la información de su perfil público.
 
+![DC-MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/Serviciodemusico_ra78fg.png)
+
+
 **Diagrama de clase de bounded context "Contract Managment"**
+Se realizo el diagrama de clase del bounded context de el proceso de contrato de las partes del músico y los usuarios dentro de la aplicación.
 
 ![DC-CM](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/contrato_peld68.png)
-Se realizo el diagrama de clase del bounded context de el proceso de contrato de las partes del músico y los usuarios dentro de la aplicación.
 
 #### 4.7.2. Class Dictionary. 
 ---
