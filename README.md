@@ -1639,7 +1639,7 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1229112091697217689/Imagen_de_WhatsApp_2024-04-14_a_las_11.52.21_f29c949f.jpg?ex=662e7ed6&is=661c09d6&hm=3eb483f3b63578dca272820acc5a0c2982eb4bfa9b8ede90fa43310fed0525a0&" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714164688/Screenshot_2024-04-26_at_15.50.48_rhbwjw.png" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 **Enlace del Trello:** [Sprint Backlog 1-codex] https://trello.com/b/bflyW0xa
