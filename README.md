@@ -1414,11 +1414,13 @@ Link prototype: https://www.figma.com/proto/fVIVvymYYINDCZhaVsfjmP/Styles-%26-UI
 #### 4.7.1. Class Diagrams.
 
 **Diagrama de clase de bounded context "Identity and Access Management"**
+
 Se elaboro el diagrama de clase sobre el IAM "Identity and Access Management en la cual podemos gestionar el registro de usuarios y clientes dentro de la plataforma de esta manera identificar y separa quienes pertenecen a clientes normales a empresas que realizan contratos continuos habilitando con el plan esas funciones.
 
 ![DC-IAM](https://res.cloudinary.com/dveil4prg/image/upload/v1714169342/IAM-MusicTime_hp0tx6.png)
 
 **Diagrama de clase de bounded context "Suscripcion and payment"**
+
 Se realizo el diagrama de clase del bounded context de suscripciones y pagos en donde se observa el proceso en la cual se relaciona estas clases dentro del proyecto, como el banco y la solicitud de pago dentro de la autorizacion de suscripcion y la politica de autorisar o activar esas funciones en la cuenta del usuario.
 
 ![DC-SP](https://res.cloudinary.com/dveil4prg/image/upload/v1714169341/Suscripcion-MusicTime_b4wvir.png)
@@ -1432,12 +1434,14 @@ Se realizo el diagrama de clase del bounded context de interacción social donde
 
 
 **Diagrama de clase de bounded context "Managment of musician profiles"**
+
 Se realizo el diagrama de clase del bounded context de el manejo de perfil, donde los usurios pueden editar la información de su perfil público.
 
 ![DC-MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/Serviciodemusico_ra78fg.png)
 
 
 **Diagrama de clase de bounded context "Contract Managment"**
+
 Se realizo el diagrama de clase del bounded context de el proceso de contrato de las partes del músico y los usuarios dentro de la aplicación.
 
 ![DC-CM](https://res.cloudinary.com/dveil4prg/image/upload/v1713064604/contrato_peld68.png)
