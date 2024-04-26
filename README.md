@@ -1025,7 +1025,7 @@ User persona 2: Banda o Músico independiente.
 |US025| Como músico, quiero poder crear ofertas y descuentos personalizados para promocionar mis servicios musicales en la plataforma. | 2 |
 |US026| Como músico, quiero integrar mis perfiles de streaming musical (por ejemplo, Spotify, Apple Music) con mi perfil en la plataforma de promoción.| 3 |
 **Total de story points:** 104
-4 sprints = 22 task por cada sprint.
+4 sprints = 26 task por cada sprint.
 
 
 El siguiente product backlog se basa en integrar todos los requisitos funcionales y no funcionales. En su contenido se refleja todo el trabajo que nuestro equipo de desarrollo tiene por hacer.<br>
