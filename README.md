@@ -1554,13 +1554,11 @@ Se realizo el diagrama de clase del bounded context de el proceso de contrato de
 | 77.  password | La contraseña asociada al registro.  |  
 -- permissions --
 | 78.  id |   Identificador único para cada permiso en el sistema. | 
-| 79.  password | La contraseña asociada al permiso.
-  |  
+| 79.  password | La contraseña asociada al permiso.|
 -- contracts --
 | 80.  id |  Identificador único para cada contrato en el sistema. | 
 | 81.  nameEvent |  El nombre del evento asociado al contrato.  |  
-| 82.  nameArtist | El nombre del artista asociado al contrato.
-  |  
+| 82.  nameArtist | El nombre del artista asociado al contrato.|  
 | 83.  nameLocation | El nombre de la ubicación asociada al contrato.  | 
 | 84.  mount | El monto financiero asociado al contrato.  |  
 -- features --
