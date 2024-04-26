@@ -547,7 +547,33 @@ En la siguiente tabla se demuestra el cuadro de analisis de competidores, el cua
 </center> 
 
 #### 2.1.2. Estrategias y tácticas frente a competidores.
-Nuestra estrategia para captar a los músicos y bandas primerizos es brindarles pruebas gratuitas con todas las funcionalidades por un tiempo limitado. También el optar por el caso de ofrecer descuentos para los usuarios que terminen su prueba gratuita. Para los dueños de establecimientos se les dara las mismas alternativas con la diferencia que ellos podran optar por membresias más largas.
+Campañas de marketing:
+
+Dirigimos nuestros esfuerzos de marketing hacia nuestros segmentos obejtivo clave: los asrtistas y los clientes. Utilizaremos estrategias de marketing digital y redes sociales para llegar de manera efectiva.
+
+Programas de fidelización:
+
+Implementamos programas de fidelización para retener a nuestros clientes y animarlos a utilizar nuestra plataforma de forma continua. Esto incluye descuentos para cleintes frecuentes o incentivos para artistas que obtienen calificaciones y comentarios positivos.
+
+Programas de Afiliados y Referidos:
+
+Implementamos un programa de afiliados o referidos que recompense a los artistas por recomendar la plataforma a otros colegas. Esto puede incluir descuentos en tarifas de servicio o créditos en la plataforma.
+
+Construcción de una Comunidad de Artistas:
+
+Organizamos eventos, talleres y sesiones de networking tanto en línea como fuera de línea para fomentar la colaboración y el aprendizaje entre los artistas.
+
+Enfoque en la Experiencia del Artista:
+
+Ofrecemos características y herramientas que simplifiquen el proceso de contratación y promoción, como perfiles personalizables, portafolios multimedia y opciones de comunicación directa con los clientes.
+
+Soporte al Cliente Personalizado:
+
+Ofrece un servicio de atención al cliente personalizado y receptivo para resolver rápidamente cualquier problema o inquietud que los artistas puedan tener. Esto puede ayudar a mejorar la satisfacción del cliente y fomentar la lealtad a largo plazo.
+
+Contenido de Valor Agregado:
+
+Crea y comparte regularmente contenido relevante y útil para los artistas, como entrevistas con profesionales de la industria, consejos de marketing y promoción, y análisis de tendencias en la industria del entretenimiento.
 ### 2.2. Entrevistas.
 Para el desarrollo de metodologias que permitan comprender el entorno del proyecto se desarrollo preguntas para realizar entrevistas a los segmentos que se a identificado dentro del proyecto, las preguntas se dividen entre todos los segmentos como los clientes regulares o usuales las cuales requieren nuestro servicios para conseguir un grupo o cantante musical, las bandas musicales y los solitas que se promocionan en la plataforma.
 #### 2.2.1. Diseño de entrevistas.
