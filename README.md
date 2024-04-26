@@ -1632,8 +1632,166 @@ En este segmento se implementó a la plataforma de inicio los servicios, planes 
 Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera versión 
 del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
 #### 5.2.1.3. Development Evidence for Sprint Review.
+Para el desarrollo de este primer sprint, codex, elaboró la primera versión del landing-page. Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
+
+![Trello-1](https://res.cloudinary.com/djia8bsvr/image/upload/v1714164688/Screenshot_2024-04-26_at_15.50.48_rhbwjw.png)
+
+
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1227176636328185917/1229112091697217689/Imagen_de_WhatsApp_2024-04-14_a_las_11.52.21_f29c949f.jpg?ex=662e7ed6&is=661c09d6&hm=3eb483f3b63578dca272820acc5a0c2982eb4bfa9b8ede90fa43310fed0525a0&" alt="Sprint Backlog 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+**Enlace del Trello:** [Sprint Backlog 1-codex] https://trello.com/b/bflyW0xa
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 1</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td rowspan="3">US01</td>
+    <td rowspan="3">Mostrar barra de navegación</td>
+    <td>T01</td>
+    <td>Insertar logo</td>
+    <td>Mostrar el logo de nuestro proyecto</td>
+    <td>0.3</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>T02</td>
+    <td>Mostrar secciones de la landing page</td>
+    <td>Crear etiquetas por cada sección de la landing page</td>
+    <td>0.5</td>
+    <td>Victor herrera</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>T03</td>
+    <td>Mostrar Ingresar y Registrar</td>
+    <td>Crear 2 botónes con el texto “Ingresar” y “Registrarse”</td>
+    <td>0.5</td>
+    <td>Victor herrera</td>
+    <td>Process</td>
+ </tr>
+
+ <tr>
+    <td rowspan="2">US02</td>
+    <td rowspan="2">Mostrar hero section</td>
+    <td>T04</td>
+    <td>Mostrar elementos atractivos y minimalistas</td>
+    <td>Mostrar imagen referencial, logo y descripción concisa</td>
+    <td>0.5</td>
+    <td>Piero Muñoz/td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>T05</td>
+    <td>Mostrar Call to action</td>
+    <td>Crear botón con el texto “ver más” que redireccione a nuestra aplicación web</td>
+    <td>1</td>
+    <td>Piero Muñoz</td>
+    <td>To-Review</td>
+ </tr>
+
+<tr>
+    <td>US03</td>
+    <td>Mostrar sobre nuestro producto</td>
+    <td>T06</td>
+    <td>Mostrar información sobre nuestra startup</td>
+    <td>Crear cuadros informativos sobre la startup y su principal objetivo</td>
+    <td>1</td>
+    <td>Piero Muñoz</td>
+    <td>To-Review</td>
+ </tr>
+
+<tr>
+    <td>US04</td>
+    <td>Mostrar la seccion unete</td>
+    <td>T07</td>
+    <td>Mostrar tarjetas de nuestro producto</td>
+    <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más infromación</td>
+    <td>2</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>US05</td>
+    <td>Mostrar opcion de cambio de idioma</td>
+    <td>T08</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Crear tarjetas donde se visualice la foto, nombre y reseña del usuario</td>
+    <td>2</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>US06</td>
+    <td>Mostrar sección de nuestros planes</td>
+    <td>T09</td>
+    <td>Mostrar tarjetas de nuestros planes</td>
+    <td>Crear tarjetas donde se visualice una lista de ventajas por cada plan</td>
+    <td>1</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>US07</td>
+    <td>Mostrar sección de "Contáctanos"</td>
+    <td>T10</td>
+    <td>Mostrar formulario de contactanos</td>
+    <td>Crear formulario donde solicite el nombre, email y el plan a escoger junto a un botón de enviar</td>
+    <td>1</td>
+    <td>Anthony Manco</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td rowspan="2">US08</td>
+    <td rowspan="2">Crear footer</td>
+    <td>T11</td>
+    <td>Ver enlaces de redes sociales</td>
+    <td>Mostrar los logos de nuestras redes sociales (Facebook, Twitter y Instagram) que permitan redirección a las mismas </td>
+    <td>0.5</td>
+    <td>Anthony Manco</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+   <td>T12</td>
+    <td>Mostrar dirección de nuestra sede</td>
+    <td>Mostrar detalladamente la dirección de nuestro grupo</td>
+    <td>0.3</td>
+    <td>Anthony Manco<</td>
+    <td>Done</td>
+ </tr>
+</table>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En el alcance del presente sprint, no se han utilizado servicios de web ya que se ha trabajado solamente el landing page estático. Por lo tanto, en esta presentación no se encuentra documentación de web services empleados.
