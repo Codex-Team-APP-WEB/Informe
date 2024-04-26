@@ -972,16 +972,16 @@ User persona 2: Banda o Músico independiente.
 ### 3.4. Product Backlog.
 | Codigo | Descripcion | Story points (1,2,3,5,8) |
 |-----------------|------------|-------------|
-|US01| Como organizador de eventos, quiero poder buscar músicos por género y disponibilidad para encontrar el adecuado para mi evento. | 3 |
-|US02| Como organizador de eventos, quiero poder ver el portfolio de cada músico, incluyendo videos y grabaciones de audio, para evaluar su calidad. | 5 |
-|US03| Como organizador de eventos, quiero poder enviar mensajes a músicos seleccionados para discutir detalles del evento y negociar términos. | 3 |
-|US04| Como organizador de eventos, quiero poder programar audiciones con músicos seleccionados para evaluar su talento en persona. | 5 |
-|US05| Como organizador de eventos, quiero poder ver reseñas y testimonios de otros clientes sobre músicos para tomar decisiones informadas | 3 |
-|US06| Como organizador de eventos, quiero poder gestionar y firmar contratos con músicos directamente desde la plataforma. | 8 |
-|US07| Como organizador de eventos, quiero poder dejar feedback sobre la actuación de los músicos después del evento para ayudar a otros organizadores a tomar decisiones informadas. | 5 |
-|US08| Como organizador de eventos, quiero recibir notificaciones automáticas sobre la disponibilidad de músicos que coincidan con mis criterios de búsqueda, para estar al tanto de nuevas oportunidades. | 3 |
-|US09| Como organizador de eventos, quiero poder gestionar los pagos a los músicos directamente desde la plataforma, para facilitar el proceso de compensación y asegurar la transparencia financiera. | 8 |
-|US010| Como organizador de eventos, quiero contar con un servicio de soporte técnico eficiente en la plataforma, para resolver rápidamente cualquier problema o duda durante el proceso de contratación de músicos. | 3 |
+|US01| Como cliente, quiero poder buscar músicos por género y disponibilidad para encontrar el adecuado para mi evento. | 3 |
+|US02| Como cliente, quiero poder ver el portfolio de cada músico, incluyendo videos y grabaciones de audio, para evaluar su calidad. | 3 |
+|US03| Como cliente, quiero poder enviar mensajes a músicos seleccionados para discutir detalles del evento y negociar términos. | 3 |
+|US04| Como cliente, quiero poder programar audiciones con músicos seleccionados para evaluar su talento en persona. | 5 |
+|US05| Como cliente, quiero poder ver reseñas y testimonios de otros clientes sobre músicos para tomar decisiones informadas | 2 |
+|US06| Como cliente, quiero poder gestionar y firmar contratos con músicos directamente desde la plataforma. | 8 |
+|US07| Como cliente, quiero poder dejar feedback sobre la actuación de los músicos después del evento para ayudar a otros organizadores a tomar decisiones informadas. | 3 |
+|US08| Como cliente, quiero recibir notificaciones automáticas sobre la disponibilidad de músicos que coincidan con mis criterios de búsqueda, para estar al tanto de nuevas oportunidades. | 3 |
+|US09| Como cliente, quiero poder gestionar los pagos a los músicos directamente desde la plataforma, para facilitar el proceso de compensación y asegurar la transparencia financiera. | 8 |
+|US010| Como cliente, quiero contar con un servicio de soporte técnico eficiente en la plataforma, para resolver rápidamente cualquier problema o duda durante el proceso de contratación de músicos. | 3 |
 |US011| Como musico, quiero poder acceder fácilmente a la barra de navegación para poder explorar diferentes secciones de la landing page. | 8 |
 |US012| Como musico, quiero acceder a información detallada sobre las características y funcionalidades del servicio sin necesidad de registrarme.| 2 |
 |US013| Como musico, necesito encontrar rápidamente cómo ponerme en contacto con el equipo de soporte sin tener que registrarme. | 3 |
@@ -993,12 +993,12 @@ User persona 2: Banda o Músico independiente.
 |US019| Como solista o banda, quiero poder recibir y responder mensajes de los organizadores de eventos interesados en mi música. | 3 |
 |US020| Como solista o banda, quiero poder programar audiciones o reuniones con organizadores de eventos interesados para discutir detalles del evento. | 5 |
 |US021| Como solista o banda, quiero poder gestionar y firmar contratos con organizadores de eventos directamente desde la plataforma. | 8 |
-|US022| Como solista o banda, quiero poder recibir feedback de los organizadores de eventos después de mis actuaciones para mejorar mi trabajo. | 3 |
-|US023| Como solista o banda, quiero poder promocionar mi música y eventos en la plataforma para llegar a más organizadores de eventos potenciales. | 5 |
+|US022| Como solista o banda, quiero poder recibir feedback de los organizadores de eventos después de mis actuaciones para mejorar mi trabajo. | 2 |
+|US023| Como solista o banda, quiero poder promocionar mi música y eventos en la plataforma para llegar a más organizadores de eventos potenciales. | 3 |
 |US024| Como músico, quiero poder visualizar estadísticas detalladas sobre el desempeño de mis publicaciones y eventos en la plataforma. | 5 |
-|US025| Como músico, quiero poder crear ofertas y descuentos personalizados para promocionar mis servicios musicales en la plataforma. | 3 |
-|US026| Como músico, quiero integrar mis perfiles de streaming musical (por ejemplo, Spotify, Apple Music) con mi perfil en la plataforma de promoción.| 5 |
-**Total de story points:** 87
+|US025| Como músico, quiero poder crear ofertas y descuentos personalizados para promocionar mis servicios musicales en la plataforma. | 2 |
+|US026| Como músico, quiero integrar mis perfiles de streaming musical (por ejemplo, Spotify, Apple Music) con mi perfil en la plataforma de promoción.| 3 |
+**Total de story points:** 104
 4 sprints = 22 task por cada sprint.
 
 
