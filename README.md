@@ -1803,7 +1803,7 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
 | https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 08/04/2024 |
 | https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from feature/add-chatting-section | feat: chatting section added | 08/04/2024 | 
 | https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 08/04/2024 |
-| https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 6faa910b91e7ce7326a878a3e3eb2f921ba081f9 | Merge pull request #2 from TempSound-UPC/feature/add-advertisement | feat: advertisement added | 09/04/2024 |
+| https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 6faa910b91e7ce7326a878a3e3eb2f921ba081f9 | Merge pull request #2 from /feature/add-advertisement | feat: advertisement added | 09/04/2024 |
 | https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 09/04/2024 |
 | https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 6faa910b91e7ce7326a878a3e3eb2f921ba081f9 | Merge pull request #3 from feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 10/04/2024 |
 | https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | tb-added | 11/04/2024 |
