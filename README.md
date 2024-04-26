@@ -132,6 +132,7 @@
     - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4 Empathy Mapping](#234-empathy-mapping)
     - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.3 Ubiquitous Language.](#24-ubiquitous-language)
 
 ## 3. Capítulo III: Requirements Specification
 
@@ -1686,9 +1687,19 @@ Des esta manera afrontamos diversos desafios para terminar el TF. aun siendo el 
 
 ## Bibliografía
 
-1. Design thinking activities and tools - Enterprise Design Thinking. (s/f-a). Ibm.com. Recuperado el 4 de mayo de 2023, de https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+1. Design thinking activities and tools - Enterprise Design Thinking. (s/f-a). Ibm.com. Recuperado el 22 de abril de 2024, de https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
 
-2. Design thinking activities and tools - Enterprise Design Thinking. (s/f-b). Ibm.com. Recuperado el 4 de mayo de 2023, de https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+2. Contrato de grupo musical o acuerdo interno: aspectos legales más importantes - Sympathy for the lawyer. (01/01/2023).Sympathyforthelawyer.com. Recuperado el 10 de abril de 2024, de https://sympathyforthelawyer.com/blog/contrato-de-grupo-musical-acuerdo-interno/
+
+3. Contrato de Banda Musical - Alexiomar Rodríguez. (09/12/2023). Flou.com. Recuperado el 15 de abril de 2024, de https://www.theflou.com/blog/contrato-de-banda-musical
+
+4. Estás considerando trabajar por contrato en la industria de la música. - Comunidad de LinkedIn. (s/f). Linkedin.com. Recuperado el 18 de abril de 2024, de https://www.linkedin.com/advice/0/youre-considering-contract-work-music-industry-what-tkm8f
+
+5. A Complete Guide to Music Contracts - CreatorsLegal. (9/11/2023). Linkedin.com. Recuperado el 4 de mayo de 2023, de https://www.linkedin.com/pulse/complete-guide-music-contracts-creatorslegal-8m7kc/
+
+6. Cómo puedo ser cantante - Equipo editorial Indeed. (21/04/2023). indeed.com. Recuperado el 19 de abril de 2024, de https://www.indeed.com/orientacion-profesional/como-encontrar-empleo/como-puedo-ser-cantante
+
+7. Glosario de términos de la industria musical - Musician. (26/07/2021). imusician.pro Recuperado el 20 de abril de 2024, de https://imusician.pro/es/recursos-practicos/guias-sobre-industria-musical/glosario-de-terminos-industria-musical
 
 <br>
 
@@ -1697,7 +1708,7 @@ Links videos del trabajo.
 
  |Exposiciones del trabajo|Link de video|
 |---------|---------|
-| TB1     | Link     | 
+| TB1     | https://upcedupe-my.sharepoint.com/personal/u20201b895_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201b895_upc_edu_pe%2FDocuments%2Frecording-2024-04-13-23-16-10%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview    | 
 | TP      | Link     |
 | TB2     | Link     | 
 | TF      | Link     |
@@ -1713,4 +1724,4 @@ Links videos del trabajo.
 | LandingPage    | Link     | 
 | Diagramas C4    | Link     |
 | Servicios   | Link     | 
-| Proyecto     | https://github.com/NaggitBallona/Codex/tree/main    |
+| Proyecto     | https://github.com/Codex-Team-APP-WEB    |
