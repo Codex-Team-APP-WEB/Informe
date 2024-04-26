@@ -1422,8 +1422,32 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
+![web 20]( )
 
 #### 4.4.2. Web Applications Mock-ups.
+
+![web 20](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-7932&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
+![web 20](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-7888&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
+![web 20](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-7972&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
+![web 20](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-8135&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
+![web 20](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-8080&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
+![web 20](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-9167&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
+
+
 #### 4.4.3. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
 
