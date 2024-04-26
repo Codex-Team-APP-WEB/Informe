@@ -1780,7 +1780,7 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
     <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
   </tr>
   <tr>
-    <td rowspan="3">US01</td>
+    <td rowspan="3">US11</td>
     <td rowspan="3">Mostrar barra de navegación</td>
     <td>T01</td>
     <td>Insertar logo</td>
@@ -1788,6 +1788,7 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
     <td>0.3</td>
     <td>Victor Herrera</td>
     <td>Done</td>
+    
  </tr>
 
  <tr>
@@ -1808,9 +1809,11 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
     <td>Process</td>
  </tr>
 
+
+
  <tr>
-    <td rowspan="2">US02</td>
-    <td rowspan="2">Mostrar hero section</td>
+    <td rowspan="2">US12</td>
+    <td rowspan="2">Mostrar inicio seccion</td>
     <td>T04</td>
     <td>Mostrar elementos atractivos y minimalistas</td>
     <td>Mostrar imagen referencial, logo y descripción concisa</td>
@@ -1822,36 +1825,36 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
  <tr>
     <td>T05</td>
     <td>Mostrar Call to action</td>
-    <td>Crear botón con el texto “ver más” que redireccione a nuestra aplicación web</td>
+    <td>Crear botón con el texto “Suscribe” que redireccione a nuestra aplicación web</td>
     <td>1</td>
     <td>Piero Muñoz</td>
-    <td>To-Review</td>
- </tr>
-
-<tr>
-    <td>US03</td>
-    <td>Mostrar sobre nuestro producto</td>
-    <td>T06</td>
-    <td>Mostrar información sobre nuestra startup</td>
-    <td>Crear cuadros informativos sobre la startup y su principal objetivo</td>
-    <td>1</td>
-    <td>Piero Muñoz</td>
-    <td>To-Review</td>
- </tr>
-
-<tr>
-    <td>US04</td>
-    <td>Mostrar la seccion unete</td>
-    <td>T07</td>
-    <td>Mostrar tarjetas de nuestro producto</td>
-    <td>Crear tarjetas que contengan una imagen referencial, el nombre de la funcionalidad, una breve descripción y un botón de más infromación</td>
-    <td>2</td>
-    <td>Jeferson Cabrera</td>
     <td>Done</td>
  </tr>
 
 <tr>
-    <td>US05</td>
+    <td>US13</td>
+    <td>Mostrar seccion de contacto</td>
+    <td>T06</td>
+    <td>Cuadro de correo contacto</td>
+    <td>Crear cuadros y botones para que pueda enviarnos su correo si tiene dudas</td>
+    <td>1</td>
+    <td>Piero Muñoz</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>US14</td>
+    <td>Tener implementado internacionalizacion</td>
+    <td>T07</td>
+    <td>Mostrar el landing en dos idiomas "Ingles y Spanish"</td>
+    <td>Crear un switch que pueda cambiar el idioma del landing page de manera rapida y sencilla.</td>
+    <td>2</td>
+    <td>Naggit Ballona</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>US15</td>
     <td>Mostrar opcion de cambio de idioma</td>
     <td>T08</td>
     <td>Mostrar reseñas de nuestros usuarios</td>
@@ -1862,44 +1865,13 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
  </tr>
 
  <tr>
-    <td>US06</td>
+    <td>US16</td>
     <td>Mostrar sección de nuestros planes</td>
     <td>T09</td>
     <td>Mostrar tarjetas de nuestros planes</td>
     <td>Crear tarjetas donde se visualice una lista de ventajas por cada plan</td>
     <td>1</td>
-    <td>Jeferson Cabrera</td>
-    <td>Done</td>
- </tr>
-
- <tr>
-    <td>US07</td>
-    <td>Mostrar sección de "Contáctanos"</td>
-    <td>T10</td>
-    <td>Mostrar formulario de contactanos</td>
-    <td>Crear formulario donde solicite el nombre, email y el plan a escoger junto a un botón de enviar</td>
-    <td>1</td>
-    <td>Anthony Manco</td>
-    <td>Done</td>
- </tr>
-
-<tr>
-    <td rowspan="2">US08</td>
-    <td rowspan="2">Crear footer</td>
-    <td>T11</td>
-    <td>Ver enlaces de redes sociales</td>
-    <td>Mostrar los logos de nuestras redes sociales (Facebook, Twitter y Instagram) que permitan redirección a las mismas </td>
-    <td>0.5</td>
-    <td>Anthony Manco</td>
-    <td>Done</td>
- </tr>
-
- <tr>
-   <td>T12</td>
-    <td>Mostrar dirección de nuestra sede</td>
-    <td>Mostrar detalladamente la dirección de nuestro grupo</td>
-    <td>0.3</td>
-    <td>Anthony Manco</td>
+    <td>Anthony Manco/td>
     <td>Done</td>
  </tr>
 </table>
