@@ -1,8 +1,8 @@
 ### Descripción del Proyecto de Desarrollo de Plataforma Web - MusicTime
 
-##Startup: CODEX
+**Startup:** CODEX
 
-##TF - Aplicaciones WEB.
+**TF** - Aplicaciones WEB.
 
 Este proyecto se enfoca en la creación de una plataforma web utilizando las tecnologías Vue y Vite. La combinación de estas dos tecnologías permite aprovechar las fortalezas de cada una para ofrecer una experiencia de usuario excepcional y un desarrollo eficiente.
 
