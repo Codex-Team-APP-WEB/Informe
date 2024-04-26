@@ -421,15 +421,10 @@ Con eso en mente se planteo la técnica de 5W y 2H para comprender mejor dicha p
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
 **Problem Statement 1:** <br>
-Nuestra startup se propuso simplificar y centralizar la gestión de contratos en la industria musical con MusicTime. Sin embargo, observamos que la plataforma no está logrando la adopción esperada por parte de los profesionales de la industria, lo que conlleva una falta de eficiencia en la gestión contractual y una pérdida de oportunidades de negocio. 
-¿Qué estrategias podemos implementar para que los usuarios adopten la plataforma como su herramienta principal, centrándonos en la facilidad de uso y la intuición de la interfaz de usuario?
+Cuando lanzamos nuestra plataforma para músicos y organizadores de eventos, el mercado estaba caracterizado por métodos tradicionales de gestión de contratos y acuerdos en la industria musical. En este contexto, la plataforma se destacó como una solución digital innovadora que ofrecía una forma más eficiente y centralizada de gestionar contratos en la industria musical. Sin embargo, con la rápida evolución del panorama tecnológico y la entrada de nuevas soluciones digitales en el mercado, nuestra posición diferenciada se ha diluido y el mercado se ha vuelto cada vez más competitivo. Esto ha resultado en un aumento de los costos de adquisición de clientes, una disminución de nuestra participación en el mercado y un aumento en los costos de soporte al cliente.
+<br>
+¿Cómo podríamos diseñar nuestra plataforma para músicos y organizadores de eventos de manera que nuestros usuarios perciban que estamos diseñados específicamente para satisfacer sus necesidades en la era digital de la industria musical, lo que a su vez reduciría nuestros costos de adquisición y aumentaría nuestra participación en el mercado?
 
-**Problem Statement 2:** <br>
-La misión de nuestra startup era aumentar la eficacia y proactividad en la gestión contractual a través de MusicTime. Sin embargo, hemos notado que la plataforma no está cumpliendo con proporcionar las características avanzadas necesarias, como notificaciones automatizadas y seguimiento de pagos, lo que resulta en una falta de seguimiento adecuado de los contratos y una disminución en la productividad. 
-¿Qué acciones podemos tomar para que los usuarios logren más éxito en la gestión contractual, mediante la implementación de características avanzadas y relevantes?
-
-**Problem Statement 3:** <br>
-Nuestro objetivo con esta startup era generar confianza entre los usuarios y fomentar la adopción continua de la plataforma con MusicTime. Sin embargo, hemos observado que la plataforma no está cumpliendo con garantizar la seguridad de los datos ni ofrecer una experiencia de usuario intuitiva, lo que genera una falta de confianza y reticencia por parte de los usuarios a utilizar la plataforma de manera continua.
 
 
 
