@@ -420,9 +420,10 @@ Con eso en mente se planteo la técnica de 5W y 2H para comprender mejor dicha p
 
 #### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements. 
-**Problem Statement 1:** <br>
+<br>
 Cuando lanzamos nuestra plataforma para músicos y organizadores de eventos, el mercado estaba caracterizado por métodos tradicionales de gestión de contratos y acuerdos en la industria musical. En este contexto, la plataforma se destacó como una solución digital innovadora que ofrecía una forma más eficiente y centralizada de gestionar contratos en la industria musical. Sin embargo, con la rápida evolución del panorama tecnológico y la entrada de nuevas soluciones digitales en el mercado, nuestra posición diferenciada se ha diluido y el mercado se ha vuelto cada vez más competitivo. Esto ha resultado en un aumento de los costos de adquisición de clientes, una disminución de nuestra participación en el mercado y un aumento en los costos de soporte al cliente.
 <br>
+
 ¿Cómo podríamos diseñar nuestra plataforma para músicos y organizadores de eventos de manera que nuestros usuarios perciban que estamos diseñados específicamente para satisfacer sus necesidades en la era digital de la industria musical, lo que a su vez reduciría nuestros costos de adquisición y aumentaría nuestra participación en el mercado?
 
 
