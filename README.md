@@ -1880,6 +1880,8 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
+En esta seccion se busca detallar el proceso por la cual se trabajo el **Sprint 1** indicando el repositorio en la cual se trabajo las ramas que se usaron dentro de dicho repositorio, el id con su mensaje y la fecha en la que se realizo de esta manera tener un registro del avance de los task planteados.
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
 | https://github.com/Codex-Team-APP-WEB/Landing-Page | main | 9d837436f54fa64a2b055fe8e4f7ec01337e2d35 | initial commit | initial commit | 08/04/2024 | 
@@ -1893,6 +1895,7 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
 | https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | tb-added | 11/04/2024 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+En esta seccion se detalla como evidencia el repositorio mas los commits que se realizaron para el proceso de testing en formato genkins verificando con las historias de usuario que teniamos planteado para el landing-page.
 
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
 |--------------------|------------|-----------------|-----------------------|----------------------|
