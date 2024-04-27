@@ -1424,21 +1424,7 @@ Aqui se mostrara la descripcion del evento en el que desea paticipar y un mensaj
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
-![web 20]( )
+ 
 
 ![diagram1](https://res.cloudinary.com/drkelnilg/image/upload/v1714172465/yrcwq9noxk4pplufl169.png)
 
