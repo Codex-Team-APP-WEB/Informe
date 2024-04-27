@@ -1475,21 +1475,31 @@ Link prototype: https://www.figma.com/proto/fVIVvymYYINDCZhaVsfjmP/Styles-%26-UI
 #### 4.6.3. Software Architecture Components Diagrams.
 **Component Diagram "Identity and Access Management"**
 
+Se realizo el Component Diagram en base al Bounded Context "Identity and Access Management" donde el cliente y el musico se registran dento de la plataforma.
+
 ![IM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_1_l9sl1l.png)
 
 **Component Diagram "Suscripcion and payment"**
+
+Se realizo el Component Diagram en base al Bounded Context "Suscripcion and payment" donde se puede observar el proceso de la suscripción y los pagos dentro de la plataforma.
 
 ![SP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_3_cei7ti.png)
 
 **Component Diagram "Social Interaction and Feedback"**
 
+Se realizo el Component Diagram en base al Bounded Context "Social Interaction and Feedback" se puede observar el método para las publicaciones de los artistas y la calificación de los clientes hacia los artistas.
+
 ![SIF](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_2_fgjq3w.png)
 
 **Component Diagram "Managment of musician profiles"**
 
+Se realizo el Component Diagram en base al Bounded Context "Managment of musician profiles" donde los usuarios editan su perfil público asi como la opcion de agregar grupos.
+
 ![MMP](https://res.cloudinary.com/dveil4prg/image/upload/v1714163808/structurizr-90691-Component_microservice_4_dlmzsv.png)
 
 **Component Diagram "Contract Managment"**
+
+Se realizo el Component Diagram en base al Bounded Context "Contract Managment" donde se puede ver el funcionamiento del contrato dentro de la aplicación.
 
 ![CM](https://res.cloudinary.com/dveil4prg/image/upload/v1714163809/structurizr-90691-Component_microservice_5_esmbki.png)
 
