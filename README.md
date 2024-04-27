@@ -996,6 +996,7 @@ User persona 2: Banda o Músico independiente.
 ![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_InpactMapping/jktmz1sfvz0vq0muqxsf.jpg)
 
 ### 3.4. Product Backlog.
+
 | Codigo | Descripcion | Story points (1,2,3,5,8) |
 |-----------------|------------|-------------|
 |US01| Como cliente, quiero poder buscar músicos por género y disponibilidad para encontrar el adecuado para mi evento. | 3 |
@@ -1024,6 +1025,7 @@ User persona 2: Banda o Músico independiente.
 |US024| Como músico, quiero poder visualizar estadísticas detalladas sobre el desempeño de mis publicaciones y eventos en la plataforma. | 5 |
 |US025| Como músico, quiero poder crear ofertas y descuentos personalizados para promocionar mis servicios musicales en la plataforma. | 2 |
 |US026| Como músico, quiero integrar mis perfiles de streaming musical (por ejemplo, Spotify, Apple Music) con mi perfil en la plataforma de promoción.| 3 |
+
 **Total de story points:** 104
 4 sprints = 26 task por cada sprint.
 
@@ -1953,12 +1955,12 @@ En esta seccion se detalla como evidencia el repositorio mas los commits que se 
 
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
 |--------------------|------------|-----------------|-----------------------|----------------------|
-| US01/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US01.feature | Cabrera.jeferson-feature-Sprint1-US01 | 62f5099  | add gherkin US01 | 12/04/2024 |
-| US02/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US02.feature | Cabrera.jeferson-feature-Sprint1-US02 | 62f5099 | add gherkin US02 | 12/04/2024 |
-| US03/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US03.feature| Cabrera.jeferson-feature-Sprint1-US03 | 62f5099 | add gherkin US03 | 12/04/2024 |
-| US04/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US04.feature | Cabrera.jeferson-feature-Sprint1-US04 | 62f5099 | add gherkin US04 | 13/04/2024 |
-| US05/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US05.feature| Cabrera.jeferson-feature-Sprint1-US05 | 62f5099 | add gherkin US05 | 13/04/2024 |
-| US06/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | 62f5099 | add gherkin US06 | 13/04/2024 |
+| US11/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US01.feature | Cabrera.jeferson-feature-Sprint1-US01 | 62f5099  | add gherkin US01 | 12/04/2024 |
+| US12/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US02.feature | Cabrera.jeferson-feature-Sprint1-US02 | 62f5099 | add gherkin US02 | 12/04/2024 |
+| US13/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US03.feature| Cabrera.jeferson-feature-Sprint1-US03 | 62f5099 | add gherkin US03 | 12/04/2024 |
+| US14/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US04.feature | Cabrera.jeferson-feature-Sprint1-US04 | 62f5099 | add gherkin US04 | 13/04/2024 |
+| US15/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US05.feature| Cabrera.jeferson-feature-Sprint1-US05 | 62f5099 | add gherkin US05 | 13/04/2024 |
+| US16/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | 62f5099 | add gherkin US06 | 13/04/2024 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
