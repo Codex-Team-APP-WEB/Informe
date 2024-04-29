@@ -1800,8 +1800,8 @@ En este segmento se implementó a la plataforma de inicio los servicios, planes 
 #### 5.2.1.2. Sprint Backlog 1.
 Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera versión 
 del landing page.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
-#### 5.2.1.3. Development Evidence for Sprint Review.
-Para el desarrollo de este primer sprint, codex, elaboró la primera versión del landing-page. Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este primer avance.
+
+Se presenta el avance y la asignacion de los task mediante la herramienta Trello en la cual se asigno la mesa de trabajo y se separo los trabajos de avance parala entrega del sprint 1.
 
 ![Trello-1](https://res.cloudinary.com/djia8bsvr/image/upload/v1714164688/Screenshot_2024-04-26_at_15.50.48_rhbwjw.png)
 
@@ -1866,7 +1866,7 @@ Para el desarrollo de este primer sprint, codex, elaboró la primera versión de
     <td>Mostrar elementos atractivos y minimalistas</td>
     <td>Mostrar imagen referencial, logo y descripción concisa</td>
     <td>0.5</td>
-    <td>Piero Muñoz/td>
+    <td>Piero Muñoz</td>
     <td>Done</td>
  </tr>
 
@@ -2001,6 +2001,208 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 <br>
 
+#### 5.2.2. Sprint 2
+
+
+#### 5.2.2.1. Sprint Planning 2
+
+#### 5.2.2.2. Sprint Backlog 2
+
+Para el desarrollo del segundo sprint, el grupo considero trabajar de acuerdo a los puntos asignados en el product backlog y nuestro segmento clave que son los artistas, para asi tener desarrollado una primera version de la plataforma web.
+
+Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramienta Trello, en la cual se asigno tareas asi avanzar para la entrega de dicho sprint.
+
+![Trello-2](https://res.cloudinary.com/djia8bsvr/image/upload/v1714164688/Screenshot_2024-04-26_at_15.50.48_rhbwjw.png)
+
+
+**Enlace del Trello:** [Sprint Backlog 2-codex] https://trello.com/b/bflyW0xa
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 2</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+<tr>
+    <td>US020.1</td>
+    <td>Informacion de eventos</td>
+    <td>T01</td>
+    <td>Registro de eventos</td>
+    <td>Crear opcion de registro de proximos eventos que se muestre</td>
+    <td>0.5</td>
+    <td>Anthony Manco</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US020.2</td>
+    <td>Informacion de eventos</td>
+    <td>T02</td>
+    <td>Modificacion de eventos</td>
+    <td>Implementar opcion de modificacion de eventos.</td>
+    <td>0.5</td>
+    <td>Anthony Manco</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US020.3</td>
+    <td>Informacion de eventos</td>
+    <td>T03</td>
+    <td>Eliminacion de eventos</td>
+    <td>Implementar opcion de eliminacion de eventos.</td>
+    <td>0.5</td>
+    <td>Anthony Manco</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US020.4</td>
+    <td >Informacion de eventos</td>
+    <td>T04</td>
+    <td>Interfaz de eventos</td>
+    <td>Implementar opcion de interfaz de eventos.</td>
+    <td>0.5</td>
+    <td>Anthony Manco</td>
+    <td>Done</td>
+ </tr>
+
+
+
+  <tr>
+    <td>US021.1</td>
+    <td>Seccion de contratos</td>
+    <td>T01</td>
+    <td>Vista de contratos</td>
+    <td>Desarrollar opcion de vista de contratos para el musico con opcion de confirmacion de contrato o rechazo.</td>
+    <td>1</td>
+    <td>Naggit Ballona</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>US021.2</td>
+    <td>Seccion de contratos</td>
+    <td>T02</td>
+    <td>Eliminacion de contratos</td>
+    <td>Implementar opcion de borrar contratos de la lista que tiene pendiente.
+    </td>
+    <td>0.5</td>
+    <td>Naggit Ballona</td>
+    <td>Done</td>
+ </tr>
+
+
+  <tr>
+    <td>US024.1</td>
+    <td>Informacion de artistas</td>
+    <td>T01</td>
+    <td>Agregar informacion</td>
+    <td>Crear opcion para agregar informacion del musico o su banda dentro de la base de datos.
+    </td>
+    <td>0.5</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US024.2</td>
+    <td>Informacion de artistas</td>
+    <td>T02</td>
+    <td>Modificacion de informacion</td>
+    <td>Implementar opcion de modificacion de datos del musico o su banda.
+    </td>
+    <td>0.5</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+  <tr>
+    <td>US024.3</td>
+    <td>Informacion de artistas</td>
+    <td>T03</td>
+    <td>Eliminacion de informacion</td>
+    <td>Implementar opcion de eliminacion de datos del musico.
+    </td>
+    <td>0.5</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+  <tr>
+    <td>US024.4</td>
+    <td>Informacion de artistas</td>
+    <td>T04</td>
+    <td>Interfaz para informacion de musicos</td>
+    <td>Desarrollar una interfaz de muestra de la informacion del musico para los clientes.
+    </td>
+    <td>1</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+
+
+
+  <tr>
+    <td>US026.1</td>
+    <td>Perfil de redes sociales</td>
+    <td>T01</td>
+    <td>Implementar informacion de redes sociales de musicos</td>
+    <td>Implementar opcion e interfaz de agregar datos sobre redes sociales al perfil del musico.
+    </td>
+    <td>0.5</td>
+    <td>Piero Muñoz</td>
+    <td>Done</td>
+ </tr>
+
+
+  <tr>
+    <td>US027.1</td>
+    <td>Suscripcion de la plataforma</td>
+    <td>T01</td>
+    <td>Primera version de suscripcion</td>
+    <td>Implementar primera version del sistema de suscripcion para acceso de las cuentas de musico.
+    </td>
+    <td>1</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
+ </tr>
+   <tr>
+    <td>US027.2</td>
+    <td>Suscripcion de la plataforma</td>
+    <td>T02</td>
+    <td>Interfaz de suscripcion</td>
+    <td>Desarrollo de la interfaz para primera version de suscripcion de la cuenta de musico.
+    </td>
+    <td>0.5</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
+ </tr>
+
+
+</table>
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+#### 5.2.2.4. Testing Suite Evidence for Srint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights During Sprint
+
 ## Conclusiones
 
 Consideramos que el proyecto que realizamos va dar un gran aporte a nuestro prefil profesional por el estilo en que ponemos nuestros conocimientos para hacer soluciones tecnologicas.
@@ -2015,6 +2217,8 @@ Des esta manera afrontamos diversos desafios para terminar el TF. aun siendo el 
 
 
 <br>
+
+
 
 ## Bibliografía
 
