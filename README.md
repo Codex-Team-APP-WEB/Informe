@@ -2012,10 +2012,10 @@ Para el desarrollo del segundo sprint, el grupo considero trabajar de acuerdo a 
 
 Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramienta Trello, en la cual se asigno tareas asi avanzar para la entrega de dicho sprint.
 
-![Trello-2](https://res.cloudinary.com/djia8bsvr/image/upload/v1714164688/Screenshot_2024-04-26_at_15.50.48_rhbwjw.png)
+![Trello-2](https://res.cloudinary.com/djia8bsvr/image/upload/v1714365902/Sprint_2_Trello_uqg574.png)
 
 
-**Enlace del Trello:** [Sprint Backlog 2-codex] https://trello.com/b/bflyW0xa
+**Enlace del Trello:** [Sprint Backlog 2-codex] https://trello.com/b/lwGoUNUN
 
 <table align="center" border="1" width="90%" style="text-align:center">
  <tr>
