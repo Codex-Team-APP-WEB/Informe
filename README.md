@@ -1518,13 +1518,72 @@ La musica del artista:
 
 ![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394827228184616/image.png?ex=66309344&is=662f41c4&hm=4582a23aa460c613ca764f6d6cc52669c6d1744258f6dc649f3be4b846f1163e& )
 
+La pagina de contactanos para usarios y artistas: 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234410427878866986/image.png?ex=6630a1cc&is=662f504c&hm=0056eca9faa37b66ce36a75de89854bb87320730187f5b905545613db035c477& )
+
+
 
 #### 4.4.3. Web Applications User Flow Diagrams.
+
+En esta sección se muestra los user flows diagrams de los Mock-ups previamente creados anteriormente. A continuación, se mostrarán los flujos de la aplicación para el mayor entendimiento de todos.
+
+**Segmento objetivo Cliente:**
+
+
+**User Goal:** Como cliente, quiero poder buscar músicos por género y disponibilidad para encontrar el adecuado para mi evento.   
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394217585971201/image.png?ex=663092b3&is=662f4133&hm=bd9cba4c2c1baff48a924d3dc86b1bc8877b26edbedc975b06f2f32d5d94a9fe&) 
+
+**User Goal:** Como cliente, quiero poder ver el portfolio de cada músico, incluyendo videos y grabaciones de audio, para evaluar su 
+calidad. 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394358812246106/image.png?ex=663092d5&is=662f4155&hm=56c366efa3dcca626b498fcb48ca617089baedf9f12e16b017074ac9298b9d14&) 
+
+**User Goal:** como cliente, quiero poder ver reseñas y testimonios de otros clientes sobre músicos para tomar decisiones informadas
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394443788845079/image.png?ex=663092e9&is=662f4169&hm=2bec2ff87616d5068b4e409c205b07c5f724876e4dc44b1f42362a6fa3be053e&) 
+
+**User Goal:** como cliente, quiero poder gestionar y firmar contratos con músicos directamente desde la plataforma. 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394497945698437/image.png?ex=663092f6&is=662f4176&hm=ef6fcfd67c861484ba1923d367713c24f85ae280d1c0deb997c583b5ff5789ea& )
+
+**User Goal:** Como cliente, quiero contar con un servicio de soporte técnico eficiente en la plataforma, para resolver rápidamente 
+cualquier problema o duda durante el proceso de contratación de músicos.  
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234410427878866986/image.png?ex=6630a1cc&is=662f504c&hm=0056eca9faa37b66ce36a75de89854bb87320730187f5b905545613db035c477& )
+
+
+
+**Segmento objetivo Artistas:**
+
+
+**User Goal:** Como musico, quiero poder registrarme en la plataforma utilizando mi dirección de correo electrónico y una contraseña segura.
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393842426318919/image.png?ex=66309259&is=662f40d9&hm=1247bd9fbe05b2d477c3858b3440a59ba56e30f32d326218f68deecc7647809a& ) 
+
+**User Goal:** Como musico, quiero poder acceder y visualizar los planes de suscripción disponibles para tener una idea clara de las opciones y beneficios.
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393952048775178/image.png?ex=66309274&is=662f40f4&hm=341a2e54ad4cffcdfec08da49b8a4916e037e4a3980dbbbda55f8dc56ce5d640& ) 
+
+**User Goal:** Como solista o banda, quiero crear un perfil en la plataforma para promocionar mi música y servicios. 
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394827228184616/image.png?ex=66309344&is=662f41c4&hm=4582a23aa460c613ca764f6d6cc52669c6d1744258f6dc649f3be4b846f1163e& )
+
+**User Goal:** Como solista o banda, quiero poder recibir y responder mensajes de los organizadores de eventos interesados en mi música. 
+
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394775457894512/image.png?ex=66309338&is=662f41b8&hm=98045646e1b8f191bf9de700f18d36563a35e5b868ca67e3e95992c78ad3b58f&) 
+
+**User Goal:** Como solista o banda, quiero poder recibir feedback de los organizadores de eventos después de mis actuaciones para mejorar mi trabajo.
+
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394497945698437/image.png?ex=663092f6&is=662f4176&hm=ef6fcfd67c861484ba1923d367713c24f85ae280d1c0deb997c583b5ff5789ea& ) 
+
 ### 4.5. Web Applications Prototyping.
 
 
 ![Imagen-Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1228908507974078605/image.png?ex=662dc13c&is=661b4c3c&hm=df3e98869ca9333e2f253a6e1458c6deef1f22bc1448c51751517a05e814dc01&)
-Link prototype: https://www.figma.com/proto/fVIVvymYYINDCZhaVsfjmP/Styles-%26-UI-(Copy)-(Copy)-(Copy)?type=design&node-id=45816-969&t=HXSzEJFodMR3vk47-0&scaling=min-zoom&page-id=45348%3A1263&starting-point-node-id=45816%3A969
+
+Link prototype:  
 
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
