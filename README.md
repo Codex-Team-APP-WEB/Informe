@@ -1454,12 +1454,38 @@ Al final, el artista podra aplicar para el evento y se le mostrara una pantalla 
 
 #### 4.4.2. Web Applications Mock-ups.
 
-![web 30](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-7932&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
-![web 31](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-7888&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
-![web 32](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-7972&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
-![web 33](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-8135&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
-![web 34](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-8080&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
-![web 35](https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-9167&t=fZfMf0uM3d3zM7mD-0&scaling=min-zoom&page-id=44096%3A7915)
+Aca se mostrara el inicio del login: 
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393776580198411/image.png?ex=6630924a&is=662f40ca&hm=ec729ce104a2bcc33139dbcb8b5cfe4675e980753f97bb14aba86de83fad1fd7& ) 
+Aca se registran los usuarios nuevos: 
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393842426318919/image.png?ex=66309259&is=662f40d9&hm=1247bd9fbe05b2d477c3858b3440a59ba56e30f32d326218f68deecc7647809a& ) 
+Perfil de Usuario: 
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234393897724018719/image.png?ex=66309267&is=662f40e7&hm=5a9b3490ed9fc299449f5d8bec79d843483dea3cade7135cf5fd550841722771&) 
+Los planes que tiene el usuario para Upgradearse: 
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234393952048775178/image.png?ex=66309274&is=662f40f4&hm=341a2e54ad4cffcdfec08da49b8a4916e037e4a3980dbbbda55f8dc56ce5d640& ) 
+La seccion de pagar con tarjeta:
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394027848368219/image.png?ex=66309286&is=662f4106&hm=69d6b678dce6663a200cd823b55ebf1f7e65818cc93b63d4ed2f3ca6bde43557& ) 
+El inicio del Usuario:
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394217485176832/image.png?ex=663092b3&is=662f4133&hm=f274894dedb9d4692a9de8469dc4600c4bf577ec902e3a81ffaf436c3332e71f& ) 
+El buscador de genero del usuario: 
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394217585971201/image.png?ex=663092b3&is=662f4133&hm=bd9cba4c2c1baff48a924d3dc86b1bc8877b26edbedc975b06f2f32d5d94a9fe&) 
+Los artistas mas frecuentes del Usuario: 
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394268697624667/image.png?ex=663092bf&is=662f413f&hm=14d92d0ec5578808fcfead6b09f6cd2fb60050917ff14974129882e1cacf86e8&)
+El perfil del cantante o banda: 
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394358812246106/image.png?ex=663092d5&is=662f4155&hm=56c366efa3dcca626b498fcb48ca617089baedf9f12e16b017074ac9298b9d14&) 
+La pagina para contratar al cantante o banda: 
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394443788845079/image.png?ex=663092e9&is=662f4169&hm=2bec2ff87616d5068b4e409c205b07c5f724876e4dc44b1f42362a6fa3be053e&) 
+LA confirmacion del contrato con el cantante o banda: 
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394497945698437/image.png?ex=663092f6&is=662f4176&hm=ef6fcfd67c861484ba1923d367713c24f85ae280d1c0deb997c583b5ff5789ea& ) 
+El Incio del artista: 
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394579617447947/image.png?ex=66309309&is=662f4189&hm=65c728ba60b44f181686870eb91e05d27c6999a85f027bf04966c3d78a2b1e1d&) 
+El evento a detalle del artista: 
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394644419317832/image.png?ex=66309319&is=662f4199&hm=7e03089b5ed7762cf5b6b5d080767c290a9c6e83244ad5b978f1f99af2afb34f& ) 
+Las solisitudes del Artista:
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394704389345310/image.png?ex=66309327&is=662f41a7&hm=3f639badf9231765bb97addf2d977088a26d2b7fcac2787e0a05f7f1b3704d86& ) 
+La pagina para aceptar o denegar solicitudes del artista: 
+![web 30]( https://cdn.discordapp.com/attachments/891176117204054068/1234394775457894512/image.png?ex=66309338&is=662f41b8&hm=98045646e1b8f191bf9de700f18d36563a35e5b868ca67e3e95992c78ad3b58f&) 
+La musica del artista: 
+![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234394827228184616/image.png?ex=66309344&is=662f41c4&hm=4582a23aa460c613ca764f6d6cc52669c6d1744258f6dc649f3be4b846f1163e& )
 
 
 #### 4.4.3. Web Applications User Flow Diagrams.
