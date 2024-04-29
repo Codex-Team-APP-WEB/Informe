@@ -1581,9 +1581,9 @@ cualquier problema o duda durante el proceso de contratación de músicos.
 ### 4.5. Web Applications Prototyping.
 
 
-![Imagen-Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1228908507974078605/image.png?ex=662dc13c&is=661b4c3c&hm=df3e98869ca9333e2f253a6e1458c6deef1f22bc1448c51751517a05e814dc01&)
+![Imagen-Prototype](https://cdn.discordapp.com/attachments/891176117204054068/1234420330383151146/image.png?ex=6630ab05&is=662f5985&hm=d9c4aca447b01e71ba409bff6611edef9e68c1eeee663f79f35a3e11f41d9706&)
 
-Link prototype:  
+Link prototype:  https://www.figma.com/proto/VxLKM5tX7NoxcbSe4AjVBh/appweb?type=design&node-id=45783-7932&t=Cjp2GIz4UTNsx7V0-1&scaling=min-zoom&page-id=44096%3A7915&starting-point-node-id=45783%3A7932&show-proto-sidebar=1&mode=design
 
 ### 4.6. Domain-Driven Software Architecture.
 #### 4.6.1. Software Architecture Context Diagram.
