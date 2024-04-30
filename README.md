@@ -995,9 +995,9 @@ User persona 2: Banda o Músico independiente.
 ![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_InpactMapping/jktmz1sfvz0vq0muqxsf.jpg)
 
 ### 3.4. Product Backlog.
-![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_pivotal/zgm9mqtifq2o0gmpiypy.jpg)
-![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_pivotal2/cy1tdv7mqds5bhczdik6.jpg)
-![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_pivo/suepmgz1negfw8wyrehl.jpg)
+![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_p1/dt8sijmjaiyhx5ogbtcz.jpg)
+![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_p2/n5x4zsqkywqq1rwf4tqv.jpg)
+
 
 **Total de story points:** 96
 <br>
