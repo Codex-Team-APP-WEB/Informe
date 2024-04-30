@@ -997,9 +997,10 @@ User persona 2: Banda o Músico independiente.
 ### 3.4. Product Backlog.
 ![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_pivotal/zgm9mqtifq2o0gmpiypy.jpg)
 ![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_pivotal2/cy1tdv7mqds5bhczdik6.jpg)
-![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_pivotal3/hjg0tou7ctckispwy7ia.jpg)
+![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_pivo/suepmgz1negfw8wyrehl.jpg)
 
 **Total de story points:** 96
+<br>
 4 sprints = 24 task por cada sprint.
 
 Link de Pivotal Tracker: https://www.pivotaltracker.com/projects/2702732
