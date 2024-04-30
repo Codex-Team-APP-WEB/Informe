@@ -1002,6 +1002,8 @@ User persona 2: Banda o Músico independiente.
 **Total de story points:** 96
 4 sprints = 24 task por cada sprint.
 
+Link de Pivotal Tracker: https://www.pivotaltracker.com/projects/2702732
+
 ## CAPÍTULO 4: PRODUCT DESIGN
 
 ### 4.1. Style Guidelines.
