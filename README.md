@@ -749,13 +749,12 @@ en el análisis de entrevistas y de la competencia.
 
 **Users**
 ---
-
-<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1228329280568688720/image.png?ex=662ba5c9&is=661930c9&hm=b093edc4496d00c1b2eb625a271c93e3c3ea0e3298066ad9d1fd3fc18f33b3ec&" border="0"></a>
+![User](https://cdn.discordapp.com/attachments/891176117204054068/1234970185526546432/Katherine_Melissa_Bautista_2.png?ex=6632ab1c&is=6631599c&hm=96924709e6b79e3f7bc5ded8321ad53ad2d29e899a6147940e1c54da3abb4e5c&)
 
 **Solista**
 ---
+![solista](https://cdn.discordapp.com/attachments/891176117204054068/1234980498556850226/Gabriel_Yheferson_Quispe_Saraza.png?ex=6632b4b7&is=66316337&hm=e2c4a89604f20d0fe9b88314141f1be38a374f2be8a8717dab10794cb87ac4e2&)
 
-<a href="https://imgbb.com/"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1228864309044445294/image.png?ex=662d9812&is=661b2312&hm=ce826099a3f7ba339808e4e251289e3b159418ba87c8c5fce8e6011b02665406&" border="0"></a>
 
 #### 2.3.2. User Task Matrix.
 
