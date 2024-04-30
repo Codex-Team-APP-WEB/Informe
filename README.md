@@ -764,39 +764,23 @@ poder entender las tareas y objetivos que cada User Persona desea lograr a la
 hora de utilizar nuestro producto. En esta sección, se presentarán las matrices de
 tareas para los User Personas previamente definidos.
 
-#### Users: 
----
-
-| Tarea / Aspecto | Frecuencia | Importancia |
-|-----------------|------------|-------------|
-| 1. Búsqueda de Solistas/Bandas musicales | Often | High |
-| 2. Registrarse en algun plan | Always | High |
-| 4. Soporte y Ayuda | Often | Medium |
-| 5. Experiencia en el Sitio Web | Always | High |
-| 6. Exploración artistas nuevos | Often | High |
-| 7. Interacción Social | Often | Low |
-| 8. Reservas de artistas | Rarely | High |
-| 9. Recopilación de Experiencias | Often | Low |
-| 10. Exploración de Promociones | Often | Low |
-| 11. Métodos de Pago | Rarely | High |
-| 12. Personalización de Notificaciones | Rarely | High | 
-
-#### Musicians:
-
-| Tarea / Aspecto | Frecuencia | Importancia |
-|-----------------|------------|-------------|
-| Estrategias de Promoción mediante descuentos | Always | High |
-| Uso de Digital Marketing | Often | High |
-| Subir clips de tu contenido | Sometimes | High | 
-| Subir tus datos de contacto| Sometimes | High | 
-| Promoción de Ofertas y Fechas Especiales | Often | High |
-| Gestión de Promociones | Often | High | 
-| Opinión sobre el Startup | - | - |
-| Registro y Promociones para Clientes Nuevos | Sometimes | High |  
-| Sugerencias para el Sitio Web | - | - |
-| Facilidad de Uso del Sistema de Gestión de Inventarios | - | - |
-| Accesibilidad Multiplataforma del Sitio Web | - | - |
-| Soporte y Resolución de Problemas | - | - |
+| Tarea / Aspecto                                         | Frecuencia | Importancia |
+|---------------------------------------------------------|------------|-------------|
+| 1. Registro en MusicTime                                 | Always     | High        |
+| 2. Búsqueda y selección de músicos/bandas                | Often      | High        |
+| 3. Creación y gestión de contratos                       | Often      | High        |
+| 4. Notificaciones automáticas sobre vencimientos         | Often      | Medium      |
+| 5. Interfaz intuitiva y fácil de usar                    | Always     | High        |
+| 6. Colaboración en tiempo real con otros usuarios       | Often      | Medium      |
+| 7. Exploración de nuevos músicos y bandas               | Often      | High        |
+| 8. Soporte y ayuda en línea                              | Often      | High        |
+| 9. Valoración y revisión de experiencias con músicos     | Often      | Low         |
+| 10. Acceso a promociones y ofertas especiales            | Often      | Low         |
+| 11. Proceso de reserva y confirmación de músicos        | Rarely     | High        |
+| 12. Integración de métodos de pago seguros               | Rarely     | High        |
+| 13. Personalización de preferencias y notificaciones    | Rarely     | Medium      |
+|14. Subir musica del artista|Rarely|medium|
+|15. Control de inventario para el artista|Rarely|medium|
 
 
 #### 2.3.3. User Journey Mapping.
