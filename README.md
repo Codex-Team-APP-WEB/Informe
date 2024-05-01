@@ -751,10 +751,13 @@ en el análisis de entrevistas y de la competencia.
 ---
 ![User](https://cdn.discordapp.com/attachments/891176117204054068/1234970185526546432/Katherine_Melissa_Bautista_2.png?ex=6632ab1c&is=6631599c&hm=96924709e6b79e3f7bc5ded8321ad53ad2d29e899a6147940e1c54da3abb4e5c&)
 
+Link del User Persona: https://uxpressia.com/w/fCf8Z/p/jRQrK?tagId=RkjW0
+
 **Solista**
 ---
 ![solista](https://cdn.discordapp.com/attachments/891176117204054068/1234980498556850226/Gabriel_Yheferson_Quispe_Saraza.png?ex=6632b4b7&is=66316337&hm=e2c4a89604f20d0fe9b88314141f1be38a374f2be8a8717dab10794cb87ac4e2&)
 
+Link del User Persona: https://uxpressia.com/w/fCf8Z/p/jRQrK?tagId=RkjW0
 
 #### 2.3.2. User Task Matrix.
 
