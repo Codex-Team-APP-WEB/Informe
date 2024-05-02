@@ -2050,7 +2050,6 @@ Para este primer sprint, se pudo desarrollar la primera versión de nuestra land
 <p align="center">
   <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
 </p>
-
 <p align="center">
   <img src="https://res.cloudinary.com/drkelnilg/image/upload/v1714683335/dauscizeb7mfvwszmqvr.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
 </p>
