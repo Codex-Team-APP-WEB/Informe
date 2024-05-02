@@ -1892,11 +1892,7 @@ En este segmento se implementó a la plataforma de inicio los servicios, planes 
 | Date | 2024-04-01 | 
 | Time |  20:00 PM |
 | Preparate by| Piero Jhoynner Munoz Salcedo | 
-|  Attendees (to planning meeting) | -Anthony Ramon Manco Cuellar
--Jeferson Smith Cabrera Camizan
--Naggit German Ballona Blas
--Piero Jhoynner Muñoz Salcedo
--Victor Raul Herrera Castillo| 
+|  Attendees (to planning meeting) | -Anthony Ramon Manco Cuellar -Jeferson Smith Cabrera Camizan -Naggit German Ballona Blas -Piero Jhoynner Muñoz Salcedo -Victor Raul Herrera Castillo| 
 | Sprint n-1 Review Summary | Desarrollamos la primera versión de nuestra landing Page para nuestro proyecto, aplicando las sugerencias que nuestro público objetivo entrevistado nos comentaba, desde los colores hasta las interacciones que tendrá en su proceso de interacción. Para este primer Sprint no hemos recibido “Feedbacks”, pero para el siguiente ”sprint” nos comunicaremos con el segmento objetivo para que nos continúen brindando sus sugerencias respecto al primer boceto y a partir de ello seguir mejorando para las siguientes entregas.  | 
 | Sprint Goal & User Stories | 
 | Sprint Goal | El objetivo para este Sprint se enfocó en el desarrollo visual del landing page para la vista del usuario invitado. Así como el cambio de idioma incorporado, tanto en inglés como en español.|  
