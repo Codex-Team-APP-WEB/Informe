@@ -522,11 +522,11 @@ Razón:Esta hipótesis parte de la premisa de que los recordatorios de vencimien
 * **Razón:**  La colaboración en tiempo real facilitará la comunicación entre clientes y músicos, lo que permitirá resolver rápidamente cualquier duda o problema que surja durante el proceso de contratación.<br>
 
 <br> **Hipótesis 5:** <br>
-* **Declaración de hipótesis:**Creemos que ampliaremos la base de usuarios y mejoraremos la accesibilidad de la plataforma si los clientes de diferentes regiones y culturas obtienen acceso en su idioma preferido con soporte multilingüe.<br>
+* **Declaración de hipótesis:** Creemos que ampliaremos la base de usuarios y mejoraremos la accesibilidad de la plataforma si los clientes de diferentes regiones y culturas obtienen acceso en su idioma preferido con soporte multilingüe.<br>
 * **Razón:** El soporte multilingüe garantizará que los clientes de diferentes regiones y culturas puedan acceder a la plataforma en su idioma preferido, lo que eliminará barreras lingüísticas y promoverá la inclusión.<br>
 
 <br> **Hipótesis 6:** <br>
-* **Declaración de hipótesis:**Creemos que mejoraremos la experiencia del usuario y aumentaremos la retención si los clientes obtienen asistencia instantánea con un asistente virtual y soporte integrado, lo que les permitirá resolver problemas y recibir orientación durante su experiencia en la plataforma<br>
+* **Declaración de hipótesis:** Creemos que mejoraremos la experiencia del usuario y aumentaremos la retención si los clientes obtienen asistencia instantánea con un asistente virtual y soporte integrado, lo que les permitirá resolver problemas y recibir orientación durante su experiencia en la plataforma<br>
 * **Razón:** Un asistente virtual y soporte integrado proporcionará a los clientes ayuda instantánea durante su experiencia en la plataforma, lo que resolverá rápidamente cualquier problema o pregunta que puedan tener<br>
 
 #### 1.2.2.4. Lean UX Canvas.
