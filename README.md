@@ -1885,8 +1885,25 @@ https://github.com/VictorHerrera10/FinanCar-LandingPage/tree/gh-pages
 En este segmento se implementó a la plataforma de inicio los servicios, planes y aplicaciones que ofrece “MusicTime”.
 #### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
-![pages2](https://res.cloudinary.com/dzcg3isnr/image/upload/t_sprint1/mku7psichkyaqmiwlmuj.jpg)
-![pages2](https://res.cloudinary.com/dzcg3isnr/image/upload/t_sprint/erpny5ru3pu3pc1ulqmt.jpg)
+
+| Sprint # | Sprint 1  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-04-01 | 
+| Time |  20:00 PM |
+| Preparate by| Piero Jhoynner Munoz Salcedo | 
+|  Attendees (to planning meeting) | -Anthony Ramon Manco Cuellar
+-Jeferson Smith Cabrera Camizan
+-Naggit German Ballona Blas
+-Piero Jhoynner Muñoz Salcedo
+-Victor Raul Herrera Castillo| 
+| Sprint n-1 Review Summary | Desarrollamos la primera versión de nuestra landing Page para nuestro proyecto, aplicando las sugerencias que nuestro público objetivo entrevistado nos comentaba, desde los colores hasta las interacciones que tendrá en su proceso de interacción. Para este primer Sprint no hemos recibido “Feedbacks”, pero para el siguiente ”sprint” nos comunicaremos con el segmento objetivo para que nos continúen brindando sus sugerencias respecto al primer boceto y a partir de ello seguir mejorando para las siguientes entregas.  | 
+| Sprint Goal & User Stories | 
+| Sprint Goal | El objetivo para este Sprint se enfocó en el desarrollo visual del landing page para la vista del usuario invitado. Así como el cambio de idioma incorporado, tanto en inglés como en español.|  
+| Sprint Velocity | Para este Sprint, el equipo llegó a un acuerdo en asignar un enfoque de 3 “Story points” para el Sprint 1. | 
+| Sum of Story Points | Para esta oportunidad, solo hemos abarcado el “US01” el cual equivale a 3 puntos. | 
+
+
 
 #### 5.2.1.2. Sprint Backlog 1.
 Para el desarrollo de este primer sprint, el Scrum Team, elaboró la primera versión 
