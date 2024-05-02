@@ -495,7 +495,7 @@ Nustro producto debe tener una apariencia moderna e intuitiva, con una interfaz 
 
 * Colaboración en tiempo real que permiten a los usuarios interactuar y trabajar de manera colaborativa y en tiempo real
 
-* Almacenamiento centralizado de contratos que proporciona a los usuarios un repositorio seguro y centralizado para almacenar y organizar todos sus contratos musicales. 
+* Soporte multilingüe para que los usuarios puedan acceder a la plataforma en su idioma preferido, mejorando así la accesibilidad y la experiencia del usuario. 
 
 * Asistente Virtual y Soporte Integrado para brindar ayuda y orientación a los usuarios en el uso de la plataforma
 
@@ -503,23 +503,31 @@ Nustro producto debe tener una apariencia moderna e intuitiva, con una interfaz 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 **Hipótesis 1:** <br>
-Declaración de hipótesis: Creemos que al ofrecer una plataforma web intuitiva y fácil de usar para la gestión de contratos de música, los profesionales de la industria musical adoptarán MusicTime como su herramienta principal.<br>
-Razón: Basamos esta hipótesis en la necesidad evidente de simplificar y centralizar la gestión de contratos en la industria musical, lo que debería motivar a los usuarios a buscar soluciones tecnológicas más eficientes.
+* **Declaración de hipótesis:** Creemos que al diseñar una interfaz fácil de usar y segura, aumentaremos la adopción de la plataforma para acontratar artistas, lo que se traducirá en una mayor eficiencia en la navegación y utilización de las funcionalidades, demostrando así una mejora en la satisfacción del usuario.<br>
+* **Razón:** Basamos esta hipótesis en la premisa de que una interfaz intuitiva y segura reduce la barrera de entrada para los usuarios, permitiéndoles acceder y utilizar la plataforma de manera eficiente y sin preocupaciones de seguridad, lo que a su vez mejora su experiencia general.
 <br>
-Declaración de hipótesis: Creemos que al ofrecer una versión móvil de MusicTime con funcionalidades optimizadas para dispositivos móviles, aumentaremos la adopción de la plataforma, ya que los usuarios podrán gestionar contratos de manera eficiente desde cualquier lugar.<br>
-Razón: Basamos esta hipótesis en la tendencia actual de uso de dispositivos móviles para tareas laborales y en la conveniencia que representa para los usuarios poder acceder y utilizar la plataforma desde sus dispositivos móviles.
+
 <br> **Hipótesis 2:** <br>
-Declaración de hipótesis: Creemos que al proporcionar características avanzadas como notificaciones automatizadas, recordatorios de vencimiento y seguimiento de pagos, MusicTime aumentará la eficacia y la proactividad en la gestión contractual de los usuarios.<br>
-Razón: Esta hipótesis se basa en la idea de que las herramientas automatizadas y de recordatorio son elementos clave para mejorar la productividad y el seguimiento en la gestión de contratos.
+* **Declaración de hipótesis:** Creemos que al implementar notificaciones automatizadas, mejoraremos la eficiencia en la gestión de contratos al mantener a los usuarios informados sobre eventos importantes de manera oportuna, lo que resultará en una toma de decisiones más rápida y precisa,.<br>
+* **Razón:** Esta hipótesis se basa en la idea de que al mantener a los usuarios actualizados con notificaciones automáticas, se reducirán los retrasos en la toma de decisiones, lo que conducirá a una gestión más eficiente de los contratos
 <br>
-Declaración de hipótesis: Creemos que al integrar un sistema de inteligencia artificial en MusicTime para analizar patrones de uso y ofrecer recomendaciones personalizadas, mejoraremos la eficacia en la gestión contractual al brindar a los usuarios herramientas predictivas y proactivas.<br>
-Razón: Esta hipótesis se basa en la idea de que la inteligencia artificial puede mejorar la experiencia del usuario al anticipar sus necesidades y proporcionar soluciones anticipadas.
+
 <br> **Hipótesis 3:** <br>
-Declaración de hipótesis: Creemos que al garantizar la seguridad de los datos y ofrecer una experiencia de usuario intuitiva, MusicTime generará confianza entre los usuarios y fomentará la adopción continua de la plataforma.<br>
-Razón: Esta hipótesis se fundamenta en la importancia crítica de la seguridad de los datos y la facilidad de uso para la retención de usuarios y la satisfacción del cliente.añade uno mas mas problem.  
+* **Declaración de hipótesis:** Creemos que optimizaremos la gestión de contratos entre clientes y músicos si los clientes obtienen recordatorios precisos y oportunos sobre plazos y vencimientos relacionados con los contratos de contratación de músicos,<br>
+Razón:Esta hipótesis parte de la premisa de que los recordatorios de vencimiento ayudarán a los usuarios a mantenerse al tanto de las fechas límite, lo que les permitirá cumplir con los plazos de manera más consistente 
 <br>
-Declaración de hipótesis:Declaración de hipótesis: Creemos que al ofrecer un programa de capacitación y soporte personalizado para los usuarios de MusicTime, aumentaremos la confianza y la adopción continua de la plataforma al proporcionarles las habilidades y conocimientos necesarios para utilizarla de manera efectiva.<br>
-Razón: Esta hipótesis se basa en la idea de que la capacitación y el soporte personalizado pueden mejorar la experiencia del usuario y aumentar su confianza en la plataforma.
+
+<br> **Hipótesis 4:** <br>
+* **Declaración de hipótesis:** Creemos que mejoraremos la comunicación y la toma de decisiones entre clientes y músicos si éstos obtienen la capacidad de interactuar en tiempo real, lo que les permitirá trabajar de manera más eficiente y concertar acuerdos de manera más rápida y precisa.<br>
+* **Razón:**  La colaboración en tiempo real facilitará la comunicación entre clientes y músicos, lo que permitirá resolver rápidamente cualquier duda o problema que surja durante el proceso de contratación.<br>
+
+<br> **Hipótesis 5:** <br>
+* **Declaración de hipótesis:**Creemos que ampliaremos la base de usuarios y mejoraremos la accesibilidad de la plataforma si los clientes de diferentes regiones y culturas obtienen acceso en su idioma preferido con soporte multilingüe.<br>
+* **Razón:** El soporte multilingüe garantizará que los clientes de diferentes regiones y culturas puedan acceder a la plataforma en su idioma preferido, lo que eliminará barreras lingüísticas y promoverá la inclusión.<br>
+
+<br> **Hipótesis 6:** <br>
+* **Declaración de hipótesis:**Creemos que mejoraremos la experiencia del usuario y aumentaremos la retención si los clientes obtienen asistencia instantánea con un asistente virtual y soporte integrado, lo que les permitirá resolver problemas y recibir orientación durante su experiencia en la plataforma<br>
+* **Razón:** Un asistente virtual y soporte integrado proporcionará a los clientes ayuda instantánea durante su experiencia en la plataforma, lo que resolverá rápidamente cualquier problema o pregunta que puedan tener<br>
 
 #### 1.2.2.4. Lean UX Canvas.
 ![AS-IS Cliente 1](https://res.cloudinary.com/dzcg3isnr/image/upload/t_leanux/ymzi4kye5hryjiyxngnv.jpg)
