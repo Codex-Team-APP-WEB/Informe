@@ -1576,7 +1576,7 @@ La seccion de pagar con tarjeta:
 
 El inicio del Usuario:
 
-![web 30](https://cdn.discordapp.com/attachments/891176117204054068/1234496761922326588/image.png?ex=66339533&is=663243b3&hm=10f4ecb7dd864f762ad844c9a6e43ada56ae0f252b8e6bcf4a76209a5e83ab48&) 
+![web 30]([https://cdn.discordapp.com/attachments/891176117204054068/1234496761922326588/image.png?ex=66339533&is=663243b3&hm=10f4ecb7dd864f762ad844c9a6e43ada56ae0f252b8e6bcf4a76209a5e83ab48&](https://cdn.discordapp.com/attachments/891176117204054068/1234394217485176832/image.png?ex=66368173&is=66352ff3&hm=617ab288ce142f70441a07bb616ebbe0e84c7fbd0d4419663afc567d5b131dbf&)) 
 
 El buscador de genero del usuario: 
 
