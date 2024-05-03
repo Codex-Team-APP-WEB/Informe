@@ -2294,7 +2294,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Crear opcion de registro de proximos eventos que se muestre</td>
     <td>0.5</td>
     <td>Anthony Manco</td>
-    <td>Done</td>
+    <td>To-do</td>
  </tr>
    <tr>
     <td>US020.2</td>
@@ -2304,7 +2304,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Implementar opcion de modificacion de eventos.</td>
     <td>0.5</td>
     <td>Anthony Manco</td>
-    <td>Done</td>
+    <td>To-do</td>
  </tr>
    <tr>
     <td>US020.3</td>
@@ -2314,7 +2314,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Implementar opcion de eliminacion de eventos.</td>
     <td>0.5</td>
     <td>Anthony Manco</td>
-    <td>Done</td>
+    <td>To-do</td>
  </tr>
    <tr>
     <td>US020.4</td>
@@ -2324,7 +2324,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Implementar opcion de interfaz de eventos.</td>
     <td>0.5</td>
     <td>Anthony Manco</td>
-    <td>Done</td>
+    <td>To-do</td>
  </tr>
 
 
@@ -2337,7 +2337,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     <td>Desarrollar opcion de vista de contratos para el musico con opcion de confirmacion de contrato o rechazo.</td>
     <td>1</td>
     <td>Naggit Ballona</td>
-    <td>Done</td>
+    <td>To-do</td>
  </tr>
  <tr>
     <td>US021.2</td>
@@ -2348,7 +2348,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     </td>
     <td>0.5</td>
     <td>Naggit Ballona</td>
-    <td>Done</td>
+    <td>To-do</td>
  </tr>
 
 
@@ -2409,7 +2409,7 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
     </td>
     <td>0.5</td>
     <td>Piero Muñoz</td>
-    <td>Done</td>
+    <td>To-do</td>
  </tr>
 
 
