@@ -2233,8 +2233,23 @@ Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno 
 
 #### 5.2.2. Sprint 2
 
-
 #### 5.2.2.1. Sprint Planning 2
+
+| Sprint # | Sprint 2  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-04-20 | 
+| Time |  20:00 PM |
+| Location |  Se realizó una reunión virtual para dialogar y distribuir los deberes que cada integrante debe desarrollar,  La reunión se llevó a cabo en la plataforma de videoconferencia “Google Meet”. |
+| Preparate by| Piero Jhoynner Munoz Salcedo | 
+|  Attendees (to planning meeting) | -Anthony Ramon Manco Cuellar -Jeferson Smith Cabrera Camizan -Naggit German Ballona Blas -Piero Jhoynner Muñoz Salcedo -Victor Raul Herrera Castillo| 
+| Sprint n-1 Review Summary | Logramos el despliegue del landing page, y hemos dejao el apartado para los videos del about team y about product | 
+| Sprint n-1 Retrospective Summary| Anthony Ramon Manco Cuellar: "Me di cuenta que debo organizar mejor tiempo para cumplir con las tareas", Jeferson Smith Cabrera Camizan: "Debo revisar el Final Project Statement para utilizar las herramientas adecuadas". 
+Naggit German Ballona Blas: "Logré implementar las mejoras indicadas por el profesor", Piero Jhoynner Muñoz Salcedo: "Percibi un gran apoyo por parte de mis compañeros para realizar las tareas", Victor Raul Herrera Castillo: "Pude ayudar a mis compañeros en sus actividades." |
+| Sprint Goal & User Stories | 
+| Sprint Goal | El objetivo para este Sprint se enfocó en el desarrollo del front-end siguieno los bounded context ya planteados, reflejados en los diagramas de clases.|  
+| Sprint Velocity | Para este Sprint, el equipo llegó a un acuerdo en asignar un enfoque de 3 “Story points” para el Sprint 1. | 
+| Sum of Story Points | Para esta oportunidad, solo hemos abarcado el “US01” el cual equivale a 3 puntos. | 
 
 #### 5.2.2.2. Sprint Backlog 2
 
@@ -2430,6 +2445,14 @@ Para presentar el trabajo de la sprint 2 se asigno los task mediante la herramie
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo del Front-end de CODEX se ha utilizado los siguientes lenguajes:
+
+C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA e ISO.
+
+Java Script: JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.
+
+Vue.js: Vue.js es un framework de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones de una sola página.
 
 #### 5.2.2.8. Team Collaboration Insights During Sprint
 
