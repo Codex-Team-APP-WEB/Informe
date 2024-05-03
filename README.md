@@ -2365,6 +2365,6 @@ Links videos del trabajo.
  |Segmento del trabajo|Link de repositorio|
 |---------|---------|
 | LandingPage    | https://github.com/Codex-Team-APP-WEB/Landing-Page | 
-| Diagramas C4    | Link     |
+| Diagramas C4    | https://structurizr.com/share/90691/66e60441-a0d7-4598-8c9d-a2e27f5abba6 |
 | Servicios   | Link     | 
-| Proyecto     | https://github.com/Codex-Team-APP-WEB    |
+| Proyecto     | https://github.com/Codex-Team-APP-WEB |
