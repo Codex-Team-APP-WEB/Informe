@@ -992,13 +992,12 @@ User persona 2: Banda o Músico independiente.
 ![AS-IS Solista 7](https://res.cloudinary.com/dvvm2chfg/image/upload/t_InpactMapping/jktmz1sfvz0vq0muqxsf.jpg)
 
 ### 3.4. Product Backlog.
-![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_p1/dt8sijmjaiyhx5ogbtcz.jpg)
-![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_p2/n5x4zsqkywqq1rwf4tqv.jpg)
+![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_S/ztmtzeonbpb0jt6gxmwf.jpg)
+![AS-IS Solista 7](https://res.cloudinary.com/dzcg3isnr/image/upload/t_D/n1uxwcmcbihwqn42qqg2.jpg)
 
 
-**Total de story points:** 96
+**Total de story points:** 87
 <br>
-4 sprints = 24 task por cada sprint.
 
 Link de Pivotal Tracker: https://www.pivotaltracker.com/projects/2702732
 
