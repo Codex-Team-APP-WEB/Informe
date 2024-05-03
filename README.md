@@ -550,7 +550,129 @@ Por otro lado, en este segmento se encuentran empresarios y organizadores de eve
 <center>
 En la siguiente tabla se demuestra el cuadro de analisis de competidores, el cual nos permite conocer a las marcas ya posisionadas en el mercado y de este modo diferenciarnos de ellas.
  
-![Competidores](https://res.cloudinary.com/dveil4prg/image/upload/v1713064030/image_1_qdyckt.png)
+<center>
+<table>
+    <tr>
+      <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+    </tr>
+    <tr>
+      <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+      <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+    </tr>
+    <tr>
+      <td colspan="5">Este análisis se lleva a cabo para entender la situación del mercado actual, ya que de esta manera sabremos como fortalecer nuestro proyecto para diferenciarlo de otras marcas.</td>
+    </tr>
+    <tr>
+      <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+          Bandcamp For Artist 
+          <br>
+          <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://res.cloudinary.com/dveil4prg/image/upload/v1714742513/images_m0wd80.png" alt="ReverbNation" width="100px">
+          </div>
+      </td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        SoundCloud For Artist 
+      <div style="text-align: center;">
+                  <img src="https://res.cloudinary.com/dveil4prg/image/upload/v1714742512/soundcloud-logo-1_cunbq3.jpg" alt="Bandcamp" width="100px">
+          </div>
+      </td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        Spotify For Artist
+        <div style="text-align: center; margin-top: 20px;">
+                  <img src="https://res.cloudinary.com/dveil4prg/image/upload/v1714742502/S4ALogo_oqnbuj.png" alt="SoundCloud" width="100px">
+              </div>
+        </td>
+      <td colspan="1" valign="top" style="font-weight: bold;" >
+        MusicTime 
+        <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://res.cloudinary.com/dveil4prg/image/upload/v1714742906/imagen_2024-05-03_082823827_i1jeip.png" alt="MusicTime" width="100px">
+              </div>
+      </td> 
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil</p></td>
+      <td colspan="2">Overview</td>
+      <td colspan="1" valign="top">Bandcamp es una tienda de discos y una comunidad musical en línea donde fans apasionados descubren artistas que adoran, se conectan con ellos y los apoyan directamente.</td>
+      <td colspan="1" valign="top">Es una plataforma que le permite enviar sus pistas para su transmisión nacional a través de SoundCloud Radio en SiriusXM.</td>
+      <td colspan="1" valign="top">Permite gestionar el perfil del artista y conocer a sus fans.  Presenta su música a el equipo editorial de listas de reproducción. Consulta el recuento de reproducciones y otras estadísticas del público.</td>
+      <td colspan="1" valign="top">Busca ofrecer una experiencia fluida y eficiente para la gestión de contratos de música. Los usuarios de esta plataforma podrán crear, almacenar, organizar y dar seguimiento a contratos de manera centralizada, eliminando la necesidad de procesos manuales y dispersos.  </td>
+    </tr>
+    <tr>
+      <td colspan="2">Ventaja competitiva</td>
+      <td colspan="1" valign="top">Vender la musica del artista directo al fan. Control sobre su trabajo. Ofrece que el artista personalice su perfil.</td>
+      <td colspan="1" valign="top">Los artistas pueden cargar y compartir su música de forma gratuita. Ofrece herramientas para que el artista interactúa con sus fans. Le permite al artista colaborar con otros.</td>
+      <td colspan="1" valign="top">Brinda estadísticas detallada sobre la reproducción sobre la música del artista. Ofrece herramientas para personalizar el perfil, promocionar música y gestionar la presencia en la plataforma.</td>
+      <td colspan="1" valign="top">Ofrece una experiencia fluida y eficiente para la gestión de contratos de música. MusicTime ofrece características avanzadas como notificaciones automatizadas, recordatorios de vencimiento, seguimiento de pagos y colaboración en tiempo real.</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+      <td colspan="2">Mercado objetivo</td>
+      <td colspan="1" valign="top">Artistas independientes y emergentes. </td>
+      <td colspan="1" valign="top">Artistas emergentes. Músicos. Productores y Djs.</td>
+      <td colspan="1" valign="top">Artistas de todos los niveles. Sellos discográficos y gerentes de artistas. Profesionales de la industria musical.</td>
+      <td colspan="1" valign="top">Bandas musicales. Músicos Independientes. Empresarios Dueño de local.</td>
+    </tr>
+    <tr>  
+      <td colspan="2">Estrategia de marketing</td>
+      <td colspan="1" valign="top">Enfoque en la comunidad. Promoción de la personalización</td>
+      <td colspan="1" valign="top">Fomento del descubrimiento de música nueva. Apoyo a la colaboración creativa.</td>
+      <td colspan="1" valign="top">Brinda datos y análisis. Promoción de lanzamientos y eventos.</td>
+      <td colspan="1" valign="top">Fomenta la facilidad de contratación de las bandas.  </td>
+    </tr>
+     <tr>
+        <td colspan="1"rowspan="4"><p>Perfil de Producto</p></th>
+    </tr>
+    <tr>
+        <td colspan="2">Productos & Servicios</td>
+        <td colspan="1" valign="top">Producto: Bandcamp ofrece a los artistas una plataforma para vender su música en línea, así como merchandising y otros productos relacionados con la música. Servicio: Bandcamp proporciona a los artistas herramientas para crear perfiles personalizados, vender música en descarga digital y física, interactuar con los fans y acceder a estadísticas de ventas y reproducción.</td>
+        <td colspan="1" valign="top">Producto: SoundCloud es una plataforma de música en línea donde los artistas pueden cargar y compartir su música de forma gratuita.Servicio: SoundCloud ofrece a los artistas la posibilidad de promocionar su música, recibir comentarios de los oyentes, colaborar con otros artistas y acceder a herramientas de análisis de audiencia.</td>
+        <td colspan="1" valign="top">Producto: Spotify for Artists es una plataforma que proporciona a los artistas acceso a datos y análisis detallados sobre el rendimiento de su música en Spotify.Servicio: Spotify for Artists ofrece a los artistas herramientas para personalizar sus perfiles, promocionar música nueva, gestionar su presencia en la plataforma y comprender mejor a su audiencia y su alcance.</td>
+        <td colspan="1" valign="top">Proucto: MusicTime ofrece una plataforma donde el artista puede gestionar sus contratos. Servicio: MusicTime ofreceherramientos para la gestion de contratción.</td>
+    </tr>
+    <tr>
+        <td colspan="2">Precios & Costos</td>
+        <td colspan="1" valign="top">Precio: Gratis para crear perfiles, pero tarifas por transacción por ventas. Costos: Tarifas por transacción, alrededor del 10-15% del precio de venta.</td>
+        <td colspan="1" valign="top">Precio: Gratis para usar, con opciones premium disponibles. Costos: Opciones premium con tarifas mensuales, generalmente entre $6 y $15.</td>
+        <td colspan="1" valign="top">Precio: Gratis para todos los artistas con música en Spotify. Costos: Sin costos asociados, es completamente gratuito.</td>
+        <td colspan="1" valign="top">Precio: gratis para los usurios, planes de pago para el músico y el empresario. Costo: Precio de la suscripcion para el cantante puede ser de 100 a 200.</td>
+    </tr>
+    <tr>
+        <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+        <td colspan="1" valign="top">sitio Web. Aplicación movil: Bandcamp for artists and Labels</td>
+        <td colspan="1" valign="top">sitio web. Aplicación movil: SoundCloud for artists.</td>
+        <td colspan="1" valign="top">Sitio web. Aplicación movil: Spotify for Artists..</td>
+        <td colspan="1" valign="top">Sitio web</td>
+    </tr>
+<tr>
+      <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+      <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Fortalezas</td>
+      <td colspan="1" valign="top">Control sobre la distribución y monetización de la música. Personalización de perfiles de artistas. Conexión directa con los fans.</td>
+      <td colspan="1" valign="top">Plataforma de música independiente popular para artistas emergentes. Enfoque en el descubrimiento de música nueva. Comunidad activa de músicos y oyentes.</td>
+      <td colspan="1" valign="top">Acceso a una amplia audiencia global de oyentes de Spotify. Datos y análisis detallados sobre el rendimiento de la música. Herramientas de promoción y personalización de perfiles.</td>
+      <td colspan="1" valign="top">Plataforma web para gestionar los contratos de los artistas. Fomentar el alcance de los artistas.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Debilidades</td>
+      <td colspan="1" valign="top">Menos tráfico y alcance en comparación con plataformas de streaming más grandes. Tarifas por transacción pueden reducir los ingresos de los artistas.</td>
+      <td colspan="1" valign="top">Competencia con otras plataformas de streaming más grandes. Limitaciones en funciones avanzadas para usuarios gratuitos. Menos enfoque en la monetización para los artistas.</td>
+      <td colspan="1" valign="top">Competencia intensa en la plataforma de Spotify. Dificultad para destacar en un mar de música. Enfoque en el streaming puede reducir los ingresos por reproducciones.</td>
+      <td colspan="1" valign="top">Falta de alcance en otras partes del mundo. Competencia entre los artistas. Falta de interacción con fans.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Amenazas</td>
+      <td colspan="1" valign="top">Preferencia de los artistas por vender música directamente en Bandcamp en lugar de utilizar la aplicación de contratación. Uso de Bandcamp por parte de los artistas para promover sus propias colaboraciones, reduciendo la necesidad de la aplicación de contratación.</td>
+      <td colspan="1" valign="top">Los artistas pueden optar por compartir su música y colaborar directamente en SoundCloud, sin necesidad de la aplicación de contratación. Competencia con SoundCloud en la promoción de colaboraciones, disminuyendo la exclusividad de la plataforma de contratación.</td>
+      <td colspan="1" valign="top">Preferencia de los artistas por enfocarse en la promoción de su música en Spotify en lugar de buscar oportunidades de contratación a través de la aplicaE12:G14ción. Competencia con Spotify for Artists en la promoción de colaboraciones musicales y gestión de la presencia en línea de los artistas, reduciendo la necesidad percibida de utilizar la aplicación de contratación.</td>
+      <td colspan="1" valign="top">Promover la interacción de los artistas con sus admiradores. Generar mayor cantidad de ingresos para los artistas con shows personalizados.</td>
+    </tr>
+  </table>
+
+
+</center>
 
 </center> 
 
