@@ -2446,14 +2446,14 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el **Sprint 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| https://github.com/Codex-Team-APP-WEB/Landing-Page | main | 9d837436f54fa64a2b055fe8e4f7ec01337e2d35 | initial commit | initial commit | 08/04/2024 | 
-| https://github.com/Codex-Team-APP-WEB/Landing-Page | main | 8fbfdacde1fa81052a3255070edb33dbd41ca1e3 | create readme | initial commit from develop | 08/04/2024 | 
-| https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 08/04/2024 |
-| https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from feature/add-chatting-section | feat: chatting section added | 08/04/2024 | 
-| https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 08/04/2024 |
-| https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 6faa910b91e7ce7326a878a3e3eb2f921ba081f9 | Merge pull request #2 from /feature/add-advertisement | feat: advertisement added | 09/04/2024 |
-| https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 09/04/2024 |
-| https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 6faa910b91e7ce7326a878a3e3eb2f921ba081f9 | Merge pull request #3 from feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 10/04/2024 |
+| https://github.com/Codex-Team-APP-WEB/Project | main | 9d837436f54fa64a2b055fe8e4f7ec01337e2d35 | initial commit | initial commit | 08/04/2024 | 
+| https://github.com/Codex-Team-APP-WEB/Project | main | 8fbfdacde1fa81052a3255070edb33dbd41ca1e3 | create readme | initial commit from develop | 08/04/2024 | 
+| https://github.com/Codex-Team-APP-WEB/Project | develop | 43ee1809881d454209a8b23fd9026af9fb6f1084 | feat: chatting section added | chatting section added | 08/04/2024 |
+| https://github.com/Codex-Team-APP-WEB/Project | develop | 8d73b3cb5383f9448cdd321f7229ea115d7cf54f | Merge pull request #1 from feature/add-chatting-section | feat: chatting section added | 08/04/2024 | 
+| https://github.com/Codex-Team-APP-WEB/Project | develop | a7b6362fbca548eedf48ea8f563984a917b81fd6 | feat: advertisement added | advertisement added | 08/04/2024 |
+| https://github.com/Codex-Team-APP-WEB/Project | develop | 6faa910b91e7ce7326a878a3e3eb2f921ba081f9 | Merge pull request #2 from /feature/add-advertisement | feat: advertisement added | 09/04/2024 |
+| https://github.com/Codex-Team-APP-WEB/Project | develop | 34e9b28bc17b9b88572933f3e49a2cb607feafc0 | feat: statistical advertising data added | statistical advertising data added | 09/04/2024 |
+| https://github.com/Codex-Team-APP-WEB/Project | develop | 6faa910b91e7ce7326a878a3e3eb2f921ba081f9 | Merge pull request #3 from feature/US21-obtain-statistical-advertising-data | feat: statistical advertising data added | 10/04/2024 |
 | https://github.com/Codex-Team-APP-WEB/Landing-Page | develop | 39e051b89d903515257c8fe280098f4cdb410635 | feat: faq added | tb-added | 11/04/2024 |
 
 
@@ -2470,6 +2470,29 @@ En esta seccion se detalla como evidencia el repositorio mas los commits que se 
 | US16/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%201/US06.feature | Cabrera.jeferson-feature-Sprint1-US06 | 62f5099 | add gherkin US06 | 13/04/2024 |
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Para este sprint se desarrollo la parte de points dentro del product backlog mas relevantes
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714765130/Captura_de_pantalla_2024-05-03_143744_uejtus.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714765130/Captura_de_pantalla_2024-05-03_143816_qkk0cw.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714765130/Captura_de_pantalla_2024-05-03_143802_v9naab.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714765131/Captura_de_pantalla_2024-05-03_143754_a4ohfm.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714765138/Captura_de_pantalla_2024-05-03_143810_wndok4.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+En el alcance se logro realizar el avance de las siguientes dunciones cabe mencionar que aun no se determina el desarrollo tal.
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
@@ -2483,7 +2506,16 @@ Java Script: JavaScript es un lenguaje de programación interpretado, dialecto d
 Vue.js: Vue.js es un framework de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones de una sola página.
 
 #### 5.2.2.8. Team Collaboration Insights During Sprint
+**Contributors**
 
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714765207/Captura_de_pantalla_2024-05-03_143933_xsb2st.png )
+
+**Network graph**
+
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714765206/Captura_de_pantalla_2024-05-03_143950_eeljmg.png )
+
+
+<br>
 ## Conclusiones
 
 Consideramos que el proyecto que realizamos va dar un gran aporte a nuestro prefil profesional por el estilo en que ponemos nuestros conocimientos para hacer soluciones tecnologicas.
