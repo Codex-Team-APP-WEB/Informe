@@ -914,10 +914,14 @@ tareas para los User Personas previamente definidos.
 |14. Subir musica del artista|Rarely|medium|
 |15. Control de inventario para el artista|Rarely|medium|
 
-
 #### 2.3.3. User Journey Mapping.
 
-<img src="https://res.cloudinary.com/drkelnilg/image/upload/v1712963393/ztmya4i9i54zhdft9wzc.png" border="0"></a>
+**Segmento 1: Usuarios Individuales (Bandas y Solistas Musicales)**
+<img src="https://cdn.discordapp.com/attachments/891082394310946867/1236025203981553684/Customer_journey_map_1.png?ex=663681ac&is=6635302c&hm=b664a418db13efb333c7aa9f4cf4620878ec32f10bd95dd4296b95d288cfcd97&" border="0"></a>
+
+**Segmento 2: Empresas y Negocios Relacionados con la Industria Musical**
+
+<img src="https://res.cloudinary.com/dv8a4ngw4/image/upload/v1713085875/Customer_journey_map_1_2_lupyne.png" border="0"></a>
 
 #### 2.3.4. Empathy Mapping.
 
