@@ -1901,7 +1901,7 @@ Se realizo el diagrama de clase del bounded context de el proceso de contrato de
 
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
-![DC-SP](https://res.cloudinary.com/dveil4prg/image/upload/v1713064030/MusicTime-2024-04-13_21-27_twem3q.png)
+![DC-SP](https://res.cloudinary.com/dveil4prg/image/upload/v1714765586/MusicTime-2024-05-03_14-45_xmcpvl.png)
 <br>
 
 ## CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
