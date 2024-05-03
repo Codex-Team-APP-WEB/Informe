@@ -1893,8 +1893,8 @@ En este segmento se implementó a la plataforma de inicio los servicios, planes 
 | Location |  Se realizó una reunión virtual para dialogar y distribuir los deberes que cada integrante debe desarrollar,  La reunión se llevó a cabo en la plataforma de videoconferencia “Google Meet”. |
 | Preparate by| Piero Jhoynner Munoz Salcedo | 
 |  Attendees (to planning meeting) | -Anthony Ramon Manco Cuellar -Jeferson Smith Cabrera Camizan -Naggit German Ballona Blas -Piero Jhoynner Muñoz Salcedo -Victor Raul Herrera Castillo| 
-| Sprint n-1 Review Summary | Desarrollamos la primera versión de nuestra landing Page para nuestro proyecto, aplicando las sugerencias que nuestro público objetivo entrevistado nos comentaba, desde los colores hasta las interacciones que tendrá en su proceso de interacción. Para este primer Sprint no hemos recibido “Feedbacks”, pero para el siguiente ”sprint” nos comunicaremos con el segmento objetivo para que nos continúen brindando sus sugerencias respecto al primer boceto y a partir de ello seguir mejorando para las siguientes entregas.  | 
-| Sprint n-1 Retrospective Summary|  En cuanto a las opiniones que tuvimos cada uno de los integrantes del startup, sentimos que el primer boceto de la landing page cumple con las expectativas de diseño aplicado, Tenemos en cuenta que aun nos falta colocar alguno iconos y añadir algunas funcionalidades, pero aún seguimos en constante comunicación para una mejorar en ello.|
+| Sprint n-1 Review Summary |   | 
+| Sprint n-1 Retrospective Summary|  |
 | Sprint Goal & User Stories | 
 | Sprint Goal | El objetivo para este Sprint se enfocó en el desarrollo visual del landing page para la vista del usuario invitado. Así como el cambio de idioma incorporado, tanto en inglés como en español.|  
 | Sprint Velocity | Para este Sprint, el equipo llegó a un acuerdo en asignar un enfoque de 3 “Story points” para el Sprint 1. | 
