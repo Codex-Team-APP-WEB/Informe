@@ -2560,7 +2560,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Victor Herrera</td>
     <td>To-Do</td>
  </tr>
-<tr>
+  <tr>
     <td>US01.2</td>
     <td>Buscar músicos por género</td>
     <td>T02</td>
@@ -3014,6 +3014,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>To-Do</td>
  </tr>
 
+
+</table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
