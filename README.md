@@ -2515,6 +2515,33 @@ Vue.js: Vue.js es un framework de JavaScript de código abierto para la construc
 ![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714765206/Captura_de_pantalla_2024-05-03_143950_eeljmg.png )
 
 
+#### 5.2.3. Sprint 3.
+
+#### 5.2.3.1. Sprint Planning.
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+5.2.4. Sprint 4
+5.2.4.1. Sprint Planning.
+5.2.4.2. Sprint Backlog 4.
+5.2.4.3 Development Evidence for Sprint Review.
+5.2.4.4.Testing Suite Evidence for Sprint Review.
+5.2.4.5. Execution Evidence for Sprint Review.
+5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
 <br>
 ## Conclusiones
 
@@ -2557,13 +2584,23 @@ Links videos del trabajo.
  |Exposiciones del trabajo|Link de video|
 |---------|---------|
 | TB1     | https://upcedupe-my.sharepoint.com/personal/u20201b895_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201b895_upc_edu_pe%2FDocuments%2Frecording-2024-04-13-23-16-10%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview    | 
-| TP      | Link     |
 | TB2     | Link     | 
-| TF      | Link     |
 
 <center>
 
-**REPOSITORIOS GIT HUB**
+**DESPLIEGUES**
+
+</center>
+
+ |Segmento del trabajo|Link del despliegue|
+|---------|---------|
+| LandingPage    | https://codex-team-app-web.github.io/Landing-Page/index.html | 
+| ServerJson   | Link     | 
+| Proyecto     | https://music-time-web.web.app/ |
+
+<center>
+
+**REPOSITORIOS DE GIT-HUB**
 
 </center>
 
@@ -2571,5 +2608,5 @@ Links videos del trabajo.
 |---------|---------|
 | LandingPage    | https://github.com/Codex-Team-APP-WEB/Landing-Page | 
 | Diagramas C4    | https://structurizr.com/share/90691/66e60441-a0d7-4598-8c9d-a2e27f5abba6 |
-| Servicios   | Link     | 
 | Proyecto     | https://github.com/Codex-Team-APP-WEB |
+| ServerJson   | https://github.com/Codex-Team-APP-WEB/db.json |
