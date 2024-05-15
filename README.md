@@ -2983,36 +2983,96 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>To-Do</td>
  </tr>
 
-<tr>
-    <td>US20.1</td>
-    <td>Buscar músicos</td>
+ <tr>
+    <td>US22.1</td>
+    <td>Recibir feedback de organizadores</td>
     <td>T01</td>
-    <td>Desarrollar filtros de búsqueda</td>
-    <td>Desarrollar filtros de búsqueda avanzada para encontrar músicos por género, ubicación, etc.</td>
-    <td>3</td>
+    <td>Crear formulario de feedback</td>
+    <td>Crear un formulario para que los organizadores de eventos puedan dejar feedback.</td>
+    <td>2</td>
     <td>Victor Herrera</td>
     <td>To-Do</td>
- </tr>
-<tr>
-    <td>US20.2</td>
-    <td>Buscar músicos</td>
+  </tr>
+  <tr>
+    <td>US22.2</td>
+    <td>Recibir feedback de organizadores</td>
     <td>T02</td>
-    <td>Diseñar interfaz de búsqueda</td>
-    <td>Diseñar la interfaz de usuario para la búsqueda de músicos.</td>
+    <td>Implementar almacenamiento de feedback</td>
+    <td>Implementar la funcionalidad para almacenar el feedback recibido.</td>
     <td>3</td>
     <td>Victor Herrera</td>
     <td>To-Do</td>
- </tr>
-<tr>
-    <td>US20.3</td>
-    <td>Buscar músicos</td>
+  </tr>
+  <tr>
+    <td>US22.3</td>
+    <td>Recibir feedback de organizadores</td>
     <td>T03</td>
-    <td>Implementar funcionalidad de búsqueda</td>
-    <td>Implementar la funcionalidad de búsqueda y visualización de resultados.</td>
+    <td>Diseñar interfaz de visualización de feedback</td>
+    <td>Diseñar una interfaz para que los artistas puedan visualizar el feedback recibido.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US23.1</td>
+    <td>Promocionar música y eventos</td>
+    <td>T01</td>
+    <td>Desarrollar sección de promoción</td>
+    <td>Desarrollar una sección en la plataforma para que los artistas puedan promocionar su música y eventos.</td>
     <td>3</td>
     <td>Victor Herrera</td>
     <td>To-Do</td>
- </tr>
+  </tr>
+  <tr>
+    <td>US23.2</td>
+    <td>Promocionar música y eventos</td>
+    <td>T02</td>
+    <td>Implementar herramientas de promoción</td>
+    <td>Implementar herramientas que permitan a los artistas crear campañas de promoción para su música y eventos.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US23.3</td>
+    <td>Promocionar música y eventos</td>
+    <td>T03</td>
+    <td>Configurar notificaciones de promoción</td>
+    <td>Configurar notificaciones para informar a los usuarios sobre nuevas promociones y eventos de los artistas.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25.1</td>
+    <td>Crear ofertas y descuentos personalizados</td>
+    <td>T01</td>
+    <td>Desarrollar funcionalidad de creación de ofertas</td>
+    <td>Desarrollar la funcionalidad que permita a los artistas crear ofertas y descuentos personalizados.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25.2</td>
+    <td>Crear ofertas y descuentos personalizados</td>
+    <td>T02</td>
+    <td>Diseñar interfaz de ofertas y descuentos</td>
+    <td>Diseñar la interfaz de usuario para la creación y gestión de ofertas y descuentos.</td>
+    <td>2</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>US25.3</td>
+    <td>Crear ofertas y descuentos personalizados</td>
+    <td>T03</td>
+    <td>Implementar visualización de ofertas</td>
+    <td>Implementar la funcionalidad para la visualización de ofertas y descuentos por parte de los clientes.</td>
+    <td>3</td>
+    <td>Victor Herrera</td>
+    <td>To-Do</td>
+  </tr>
 
 
 </table>
