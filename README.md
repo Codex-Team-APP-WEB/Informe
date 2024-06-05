@@ -2528,7 +2528,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 ![Trello-3](https://res.cloudinary.com/djia8bsvr/image/upload/v1714365902/Sprint_2_Trello_uqg574.png)
 
 
-**Enlace del Trello:** [Sprint Backlog 3-codex] https://trello.com/b/lwGoUNUN
+**Enlace del Trello:** [Sprint Backlog 3-codex] https://trello.com/b/ZLNFlhWp
 
 <table align="center" border="1" width="90%" style="text-align:center">
  <tr>
