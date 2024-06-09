@@ -351,14 +351,6 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
     <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
     <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
   </tr> 
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <a href="https://ibb.co/55MPLJC"><img src="https://cdn.discordapp.com/attachments/891176117204054068/1225512452834197604/Imagen1.jpg?ex=66216669&is=660ef169&hm=af10eaab7331e1c0e46d3dc4635536a9f3cc19785a9353062cd5bbdd18c86899&" alt="Foto-Naggit" border="0"></a>
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ballona Blas, Naggit German</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201b895</td>
-  </tr>
    <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1712333792/Name_pacjmt.jpg" alt="Foto-Victor" border="0"></a>
@@ -367,16 +359,6 @@ Los conocimientos aprendidos en el curso actual que es aplicaciones web, buscare
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy un estudiante de la carrera de ingeniería de software, apasionado por la tecnología y sus oportunidades en el ámbito de la ciencia, me gusta leer y enseñar a otras personas los conocimientos que aprendí durante el desarrollo de mi carrera.
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201e188</td>
-  </tr>
-     <tr>
-     <td style="border: 1px solid #dddddd; padding: 8px;">
-     <a href="https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/dzcg3isnr/image/upload/t_piero/gtvy5ay53vjfzyu40m5r.jpg" alt="Foto-Piero" border="0">
-     </a>
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Muñoz Salcedo Piero Jhoynner</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona entusiasta y muy creativa, predispuesta a trabajar en proyectos relacionados con la tecnología. Cuento con conocimiento basico en lenguajes de programación como python y java, además de un buen nivel en HTML y CSS. Me gusta trabajar en equipo y siempre trato de mejorar como persona cada día.
-    </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202224446</td>
   </tr>
    <td style="border: 1px solid #dddddd; padding: 8px;">
       <a href="[https://ibb.co/55MPLJC"><img src="https://res.cloudinary.com/dveil4prg/image/upload/AnthonyManco.jpg" alt="Foto-Anthony" border="0"></a>
