@@ -19,10 +19,8 @@
 
 |   Members     |   User    |
 |:-------------:|:---------:|
-|Ballona Blas, Naggit German        |u20201b895|
 |Herrera Castillo, Victor Raul      |u20201e188|
 |Cabrera Camizan, Jeferson Smith    |u20211c211|
-|Muñoz Salcedo, Piero Jhoynner      |u202224446|
 |Manco Cuellar Anthony Ramon        |u201810954|
 
 </p>
@@ -87,6 +85,102 @@
           <td> 04/04/2024 <br> 
       <td>Muñoz Salcedo, Piero Jhoynner 
       <td>Analisis de las entrevistas y las estrategias elaboradas frente a los competidores que se tiene a la solucion planteada.
+    </td>
+<tr>
+        <td><strong> 1.1 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Creación del documento y distribuir el link del trabajo a todos los integrantes del equipo.
+    </td>
+    <tr>
+        <td><strong> 1.2 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Gestion del repositorio del git hub y los commits que se hacen al proyecto.
+    </td>
+    <tr>
+        <td><strong> 1.3 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo de los task designados.
+    </td>
+    <tr>
+        <td><strong> 1.4 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Desarrollo del frontend designado.
+    </td>
+    <tr>
+        <td><strong> 1.5 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Herrera Castillo Victor Raul 
+      <td>Aporte a la culminacion del landing page en su totalidad.
+    </td>
+    <tr>
+        <td><strong> 1.6 </strong></td>
+          <td> 03/05/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Creacion de elementos necesarios para el repositorio.
+    </td>
+    <tr>
+        <td><strong> 1.7 </strong></td>
+          <td> 04/05/2024 <br> 
+      <td>Herrera Castillo Victor Raul  
+      <td>Analisis de las historias de usuario aplicadas en el trabajo.
+    </td>
+    <tr>
+        <td><strong> 1.8 </strong></td>
+          <td> 04/05/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Analisis de los commit enviados y desarrollo del informe.
+    </td>
+    <tr>
+        <td><strong> 2.1 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo y apertura del sprint 2.
+    </td>
+    <tr>
+        <td><strong> 2.2 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Gestion del repositorio del git hub y apertura del backend.
+    </td>
+    <tr>
+        <td><strong> 2.3 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.4 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>HCabrera Camizan, Jeferson Smith
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.5 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul 
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.6 </strong></td>
+          <td> 03/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Desarrollo de los task asignados para el sprint.
+    </td>
+    <tr>
+        <td><strong> 2.7 </strong></td>
+          <td> 04/06/2024 <br> 
+      <td>Herrera Castillo Victor Raul
+      <td>Desarrollo del informe para la entrega.
+    </td>
+    <tr>
+        <td><strong> 2.8 </strong></td>
+          <td> 04/06/2024 <br> 
+      <td>Cabrera Camizan, Jeferson Smith
+      <td>Desarrollo del informe para la entrega.
     </td>
     </tr>
     </tr>
@@ -272,9 +366,30 @@ software.</td>
       <b>Manco Cuellar Anthony Ramon </b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Manco Cuellar Anthony Ramon </b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Manco Cuellar Anthony Ramon </b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
     </td>
     <td>
       - Las desempeñaron un papel de gran relevancia en el proceso de construcción de los user personas. Además de ayudarnos a definir estos perfiles, estas conversaciones con los usuarios nos permitieron profundizar en su comprensión, identificando con precisión sus requerimientos y también sus perspectivas y opiniones en relación con producto de software, de la misma manera se busca pulir todas nuestras habilidades comunicativas de acuerdo a las actividades que hay dentro del proyecto y en esta oportunidad buscando expresarlo en la evaluación parcial.
+      - En el contexto del diseño de productos de software, las conversaciones con los usuarios desempeñan un papel de suma relevancia en la construcción de las personas de usuario. Estas interacciones no solo facilitan la definición de perfiles representativos de la audiencia objetivo, sino que también posibilitan una comprensión más profunda de las necesidades, perspectivas y opiniones de los usuarios. A través de estos diálogos, se logra una identificación precisa de los requisitos del usuario, lo que constituye un aspecto fundamental en el desarrollo de productos centrados en el usuario. Además, estas conversaciones proporcionan información valiosa sobre las preferencias, expectativas y experiencias de los usuarios, permitiendo a los diseñadores de software adaptar sus soluciones de manera más efectiva a las demandas del mercado.</br></br>
+	    -La profundización en la comprensión de los usuarios a través de conversaciones directas contribuye significativamente a la mejora de la experiencia del usuario y, en última instancia, a la calidad del producto de software. Al analizar detalladamente las interacciones con los usuarios, los equipos de desarrollo pueden identificar patrones, tendencias y áreas de oportunidad que de otro modo podrían pasar desapercibidos. Este enfoque orientado al usuario no solo impulsa la innovación, sino que también fomenta la empatía y la conexión entre los diseñadores y los usuarios finales del producto, lo que resulta en soluciones más efectivas y satisfactorias.</br></br>
+	    Asimismo, las conversaciones con los usuarios durante el proceso de construcción de los usuarios personas ofrecen una plataforma para la validación continua de las decisiones de diseño. Al involucrar a los usuarios en el desarrollo del producto desde las etapas iniciales, se establece un ciclo de retroalimentación que permite ajustes iterativos basados ​​en las necesidades reales del mercado. Esta iteración constante promueve la agilidad en el desarrollo de software y garantiza que el producto final esté alineado de manera óptima con las expectativas y requisitos del usuario, maximizando así su aceptación y utilidad.</br></br>
     </td>
   </tr>
 
@@ -329,9 +444,47 @@ software.</td>
       - Se realizó Software Architecture Context Diagram.</br>
       - Se realizó Software Architecture Container Diagrams.</br>
       - Se realizó Software Architecture Components Diagrams.</br>
+            <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TP:</b> </br>
+      - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TP:</b> </br>
+       - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Manco Cuellar Anthony Ramon</b> </br>
+      <b>TP:</b> </br>
+       - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Herrera Castillo, Victor Raul</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>Manco Cuellar Anthony Ramon</b> </br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
     </td>
     <td>
       - Con las secciones desarrolladas, podemos concluir que el trabajo en equipo, la división de trabajos y la verificación de las partes de cada integrante fueron crucial durante el proceso de documentación de nuestro proyecto, también buscando resolver y recopilar los datos necesarios para los segmentos objetivos del proyecto de esta manera solventar la necesidad identificada de manera satisfactoria.
+      - Este análisis también subraya la importancia de la comunicación efectiva dentro del equipo de trabajo y con las partes interesadas externas. La documentación del proyecto no solo sirve como un registro detallado de los esfuerzos y logros alcanzados, sino también como un medio para transmitir de manera clara y objetiva los resultados y las conclusiones a diversos públicos, incluidos aquellos con diferentes niveles de especialización y jerarquía. La capacidad para comunicar ideas y resultados de manera objetiva y comprensible es fundamental en el contexto del desarrollo de proyectos de ingeniería, ya que facilita la colaboración entre equipos multidisciplinarios y promueve una comprensión común de los objetivos y las estrategias adoptadas.</br></br>
+	    Además, este análisis refuerza la necesidad de una mentalidad orientada hacia la calidad y la mejora continua en el desarrollo de proyectos de ingeniería. La reflexión crítica sobre el proceso de documentación permite identificar áreas de oportunidad y buenas prácticas que pueden ser aplicadas en proyectos futuros. Esta actitud de aprendizaje y adaptación constante es esencial para impulsar la innovación y la excelencia en el campo de la ingeniería, asegurando que los resultados entregados cumplan con los más altos estándares de calidad y satisfagan las expectativas de todas las partes involucradas.</br> </br>
     </td>
   </tr>
 </table>
