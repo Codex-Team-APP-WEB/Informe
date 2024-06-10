@@ -3269,45 +3269,45 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| https://github.com/TempSound/MusicTime-Frontend | master | 255465160cc36a96130888a2b0dfa39974c06557 | Create: Proyect open source in music time TF. | Create: Proyect open source in music time TF. | 01/06/2024 | 
-| https://github.com/TempSound/MusicTime-Frontend | master | ed2d643b6a036317c304e968962587589f7215e6 | Update: Delete pages for new pages in public and add DB | Update: Delete pages for new pages in public and add DB | 01/06/2024 | 
-| https://github.com/TempSound/MusicTime-Frontend | master | da465d41fe2f47ed51f9f367e3809c8a52386871 | Update: Enviroments element for API. | Update: Enviroments element for API. | 01/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | 2450b851772ea6507e19fd5282d4af6ffeb97f21 | Create: Toolbar content component and pages "Home-About" | Create: Toolbar content component and pages "Home-About" | 02/06/2024| 
-| https://github.com/TempSound/MusicTime-Frontend | master | ad6bbfca900baa2321400f979a972884fb04a87e | Create: Roting component about home and about | Create: Roting component about home and about | 02/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | 2e28460c4b7ef5cb19e53847f84d81fe3c517ba8 | Create: Roting component about home and about | Create: Roting component about home and about | 02/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | 9c60a77d1827e2aa8badf3752161ce5dc27ec3e5 | Create: Musician view to elements | Create: Musician view to elements | 03/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | 2b07931046dd38a34c8b1a933a7019e69443e6b5 | Create: Musician view in toolbar. | Create: Musician view in toolbar. | 03/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | 5d5d559180213948492a9b88e6f2ef6d485cf24d |Create: Musicias card and grups see. | Create: Musicias card and grups see. | 03/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | f73675e3af4dfa419058463c9b71d8f5269009d8 | Create: Added style and functionality to subscription buttons and aircraft descriptions. | Create: Added style and functionality to subscription buttons and aircraft descriptions. | 03/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | f9e9124f985ead584a3252ff8dee682c8ee7f0e2 | Merge remote-tracking branch 'origin/master' | Merge remote-tracking branch 'origin/master' | 04/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | c1be37ee36af6e9ecc3af629c11bec733402e970 | Create: profile musician add. | Create: profile musician add. | 04/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | 76d8e7542b8f39c319b11186da7ba46a608707d7 | Update: all elements for the proyect. | Update: all elements for the proyect. | 04/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | eb0a95909f3b3673dde9d7cd64bd4d616b456141 | Update: create musician tu db. | Update: create musician tu db. | 04/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | cd7812d0db450d72c216d95a8455dcfa8c00992f | Update: all the proyect and update musician-content | Update: all the proyect and update musician-content | 05/06/2024 |
-| https://github.com/TempSound/MusicTime-Frontend | master | 3b5e880ad2d7e689504f8de682efbb7bebba488d | Create: new API to json server for the proyect | Create: new API to json server for the proyect | 05/06/2024|
-| https://github.com/TempSound/MusicTime-Frontend | master | d1cf77e87138190ac094ceba299b660de7374f6f | Chore: Title changes in Toolbar component | Chore: Title changes in Toolbar component | 05/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | 2aa5a5ddce53d50fdf909f26f1d3d06ad9d8106d | Update: payment gateway improvement | Update: payment gateway improvement | 01/06/2024 | 
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | 9a020d18f553a57509cb936dcf1009c8d391c4a2 | Update: db to enterprice. | Update: db to enterprice. | 01/06/2024 | 
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | 585b1c4dd5b61bea09ff5597cfaf41ca04a991a4 | Update: payment gateway update | Update: payment gateway update | 01/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | c3e59da6d345f0a127726e06eb24b432f017438d | Update: Comment views are updated with more options. | Update: Comment views are updated with more options. | 02/06/2024| 
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | 15fdaad3bed1d8639f69b04c05e28747c9605219 | Added: Added a feedback view for each musician, where you can also add and delete. | Added: Added a feedback view for each musician, where you can also add and delete. | 02/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | 2e28460c4b7ef5cb19e53847f84d81fe3c517ba8 | Update: All parts of proyect and add de view of costumer, enterprise and music edit profiles. | Update: All parts of proyect and add de view of costumer, enterprise and music edit profiles. | 02/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | 9c60a77d1827e2aa8badf3752161ce5dc27ec3e5 | Create: Correction of some parts of the code. Login and Register view to page. | Create: Correction of some parts of the code. Login and Register view to page. | 03/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | 2b07931046dd38a34c8b1a933a7019e69443e6b5 | Added: A view of the musician's contracts. | Added: A view of the musician's contracts. | 03/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | 5d5d559180213948492a9b88e6f2ef6d485cf24d |Added: added a payment gateway that is part of the subscription management component. | Added: added a payment gateway that is part of the subscription management component. | 03/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | f73675e3af4dfa419058463c9b71d8f5269009d8 | chore: Data was added to subscription plans | chore: Data was added to subscription plans | 03/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | f9e9124f985ead584a3252ff8dee682c8ee7f0e2 | Create: Button for download PDF the contract. | Create: Button for download PDF the contract. | 04/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | c1be37ee36af6e9ecc3af629c11bec733402e970 | Create: Contract component for the musician. | Create: Contract component for the musician. | 04/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | 76d8e7542b8f39c319b11186da7ba46a608707d7 | Added: Profile view for musician and menu for the platform. | Added: Profile view for musician and menu for the platform. | 04/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | eb0a95909f3b3673dde9d7cd64bd4d616b456141 | Added: modification of the subscription component| Added: modification of the subscription component | 04/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime| master | cd7812d0db450d72c216d95a8455dcfa8c00992f | Added: musician-view.component.vue to the proyect. | Added: musician-view.component.vue to the proyect. | 05/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime| master | 3b5e880ad2d7e689504f8de682efbb7bebba488d | Update subscription-management.component.vue | Update subscription-management.component.vue | 05/06/2024|
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime | master | d1cf77e87138190ac094ceba299b660de7374f6f | Update toolbar.component.vue | Update toolbar.component.vue | 05/06/2024 |
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
 |--------------------|------------|-----------------|-----------------------|----------------------|
-| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US01.feature | herrera.victor-feature-Sprint3-US01 | a3e234 | add festures US01 | 07/06/2024 |
-| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US02.feature | herrera.victor-feature-Sprint3-US02 | a3e234 | add festures US02 | 07/06/2024 |
-| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US03.feature | herrera.victor-feature-Sprint3-US03 | a3e234 | add festures US03 | 07/06/2024 |
-| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US04.feature | herrera.victor-feature-Sprint3-US04 | a3e234 | add festures US04 | 07/06/2024 |
-| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US05.feature | herrera.victor-feature-Sprint3-US05 | a3e234 | add festures US05 | 07/06/2024 |
-| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US06.feature | herrera.victor-feature-Sprint3-US06 | a3e234 | add festures US06 | 07/06/2024 |
-| US07/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US07.feature | herrera.victor-feature-Sprint3-US07 | a3e234 | add festures US07 | 07/06/2024 |
-| US08/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US08.feature | herrera.victor-feature-Sprint3-US08 | a3e234 | add festures US08 | 07/06/2024 |
-| US09/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US09.feature | herrera.victor-feature-Sprint3-US09 | a3e234 | add festures US09 | 07/06/2024 |
-| US010/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US010.feature | herrera.victor-feature-Sprint3-US010 | a3e234 | add festures US010 | 07/06/2024 |
-| US017/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US017.feature | herrera.victor-feature-Sprint3-US017 | a3e234 | add festures US017 | 07/06/2024 |
-| US018/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US018.feature | herrera.victor-feature-Sprint3-US018 | a3e234 | add festures US018 | 07/06/2024 |
-| US019/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US019.feature | herrera.victor-feature-Sprint3-US019 | a3e234 | add festures US019 | 07/06/2024 |
-| US022/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US022.feature | herrera.victor-feature-Sprint3-US022 | a3e234 | add festures US022 | 07/06/2024 |
-| US023/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US023.feature | herrera.victor-feature-Sprint3-US023 | a3e234 | add festures US023 | 07/06/2024 |
-| US025/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US025.feature | herrera.victor-feature-Sprint3-US025 | a3e234 | add festures US025 | 07/06/2024 |
+| US01/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US01.feature | herrera.victor-feature-Sprint3-US01 | a3e234 | add festures US01 | 07/06/2024 |
+| US02/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US02.feature | herrera.victor-feature-Sprint3-US02 | a3e234 | add festures US02 | 07/06/2024 |
+| US03/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US03.feature | herrera.victor-feature-Sprint3-US03 | a3e234 | add festures US03 | 07/06/2024 |
+| US04/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US04.feature | herrera.victor-feature-Sprint3-US04 | a3e234 | add festures US04 | 07/06/2024 |
+| US05/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US05.feature | herrera.victor-feature-Sprint3-US05 | a3e234 | add festures US05 | 07/06/2024 |
+| US06/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US06.feature | herrera.victor-feature-Sprint3-US06 | 31ae057 | add festures US06 | 07/06/2024 |
+| US07/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US07.feature | herrera.victor-feature-Sprint3-US07 | 31ae057 | add festures US07 | 07/06/2024 |
+| US08/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US08.feature | herrera.victor-feature-Sprint3-US08 | 31ae057 | add festures US08 | 07/06/2024 |
+| US09/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US09.feature | herrera.victor-feature-Sprint3-US09 | 31ae057 | add festures US09 | 07/06/2024 |
+| US010/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US010.feature | herrera.victor-feature-Sprint3-US010 | 31ae057 | add festures US010 | 07/06/2024 |
+| US017/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US017.feature | herrera.victor-feature-Sprint3-US017 | 31ae057 | add festures US017 | 07/06/2024 |
+| US018/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US018.feature | herrera.victor-feature-Sprint3-US018 | 31ae057 | add festures US018 | 07/06/2024 |
+| US019/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US019.feature | herrera.victor-feature-Sprint3-US019 | 31ae057 | add festures US019 | 07/06/2024 |
+| US022/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US022.feature | herrera.victor-feature-Sprint3-US022 | 31ae057 | add festures US022 | 07/06/2024 |
+| US023/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US023.feature | herrera.victor-feature-Sprint3-US023 | 31ae057 | add festures US023 | 07/06/2024 |
+| US025/ https://github.com/Codex-Team-APP-WEB/Testing/blob/main/Sprint%203/US025.feature | herrera.victor-feature-Sprint3-US025 | 31ae057 | add festures US025 | 07/06/2024 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
