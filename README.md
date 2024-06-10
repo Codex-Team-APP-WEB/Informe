@@ -3526,7 +3526,7 @@ La siguiente tabla resume los resultados de la evaluación:
 
 ### 5.4. Video About-the-Product.
 
-
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e188_upc_edu_pe/EZ5fEr_mxPtMtwe7dKiuW5ABQLoDAve6gqh4m--qRiuMSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gpsdeY
 
 5.2.4. Sprint 4
 5.2.4.1. Sprint Planning.
