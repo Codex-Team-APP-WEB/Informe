@@ -2672,23 +2672,23 @@ Vue.js: Vue.js es un framework de JavaScript de código abierto para la construc
   </tr>
   <tr>
     <td>Location</td>
-    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+    <td>Servidor de Discord de "Desarrollo del TF aplicaciones web"</td>
   </tr>
   <tr>
     <td>Prepared By</td>
-    <td>Loarte Matos, Anthony Brahan</td>
+    <td>Herrera Castillo, Victor Raul</td>
   </tr>
   <tr>
     <td>Attendees (to planning meeting)</td>
-    <td>Cabrera Camizan, Jeferson Smith </br>Herrera Castillo, Victor Raul </br>Manco Cuellar Anthony Ramon </td>
-  </tr>
+     feature/chapter-5.2.3
+    <td>Cabrera Camizan, Jeferson Smith</br>Manco Cuellar Anthony Ramon </br>
   <tr>
     <td>Sprint 3 Review Summary</td>
-    <td>Se llevaron a cabo correcciones en los artefactos entregados anteriormente y se completaron las secciones faltantes de nuestro informe. Además, conseguimos desarrollar gran parte del backen para nuestra pagina web. </td>
+    <td>Se llevaron a cabo correcciones en los artefactos entregados anteriormente y se completaron las secciones faltantes de nuestro informe. Además, conseguimos desarrollar gran parte del backen para nuestra pagina web. Considerando que solo se tiene 3 participantes</td>
   </tr>
   <tr>
     <td>Sprint 3 Retrospective Summary</td>
-    <td>Se mejoró la gestión del tiempo desde el Sprint 2, se identificó la necesidad de optimizar las herramientas de gestión y establecer plazos más realistas. También es crucial mejorar la comunicación entre los integrantes del equipo para finalizr el frontend, así como la documentación del código. Cada miembro compartió sus experiencias, destacando la importancia de las revisiones de código y las reuniones de sincronización.</td>
+    <td>Se mejoró la gestión del tiempo desde el Sprint 3, se identificó la necesidad de optimizar las herramientas de gestión y establecer plazos más realistas. También es crucial mejorar la comunicación entre los integrantes del equipo para finalizar el frontend, así como la documentación del código. Cada miembro compartió sus experiencias, destacando la importancia de las revisiones de código y las reuniones de sincronización.</td>
   </tr>
   <tr>
       <td colspan="2"><b>Sprint Goal & User Stories</b></td>
@@ -2699,11 +2699,11 @@ Vue.js: Vue.js es un framework de JavaScript de código abierto para la construc
   </tr>
   <tr>
     <td>Sprint 3 Velocity</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
 </table>
 
@@ -2746,7 +2746,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear una base de datos para almacenar información sobre los géneros musicales.</td>
     <td>1</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
   <tr>
     <td>US01.2</td>
@@ -2756,7 +2756,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar el frontend del filtro de búsqueda por género.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US01.3</td>
@@ -2766,7 +2766,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad de búsqueda por género en el backend.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US01.4</td>
@@ -2775,8 +2775,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear calendario de disponibilidad</td>
     <td>Crear un calendario interactivo para la disponibilidad de músicos.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US01.5</td>
@@ -2786,7 +2786,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar el frontend del filtro de búsqueda por disponibilidad.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US01.6</td>
@@ -2796,7 +2796,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad de búsqueda por disponibilidad en el backend.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2807,7 +2807,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la subida de videos y grabaciones de audio.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US02.2</td>
@@ -2817,7 +2817,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar la interfaz de usuario para visualizar videos y grabaciones.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US02.3</td>
@@ -2827,7 +2827,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear un sistema de almacenamiento seguro para los archivos multimedia.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2837,8 +2837,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar interfaz de mensajería</td>
     <td>Diseñar la interfaz de usuario para el sistema de mensajería.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US03.2</td>
@@ -2847,8 +2847,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar envío y recepción de mensajes</td>
     <td>Implementar la funcionalidad de envío y recepción de mensajes en el backend.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US03.3</td>
@@ -2857,8 +2857,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Configurar notificaciones de mensajes</td>
     <td>Configurar notificaciones para nuevos mensajes.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2868,8 +2868,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear calendario de audiciones</td>
     <td>Crear un calendario interactivo para programar audiciones.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US04.2</td>
@@ -2878,8 +2878,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar solicitud y confirmación de audiciones</td>
     <td>Implementar la funcionalidad de solicitud y confirmación de audiciones.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US04.3</td>
@@ -2888,8 +2888,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar interfaz de audiciones</td>
     <td>Diseñar la interfaz de usuario para la programación de audiciones.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2899,8 +2899,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear base de datos de reseñas</td>
     <td>Crear una base de datos para almacenar reseñas y testimonios.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US05.2</td>
@@ -2909,8 +2909,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar interfaz de reseñas</td>
     <td>Diseñar la interfaz de usuario para la visualización de reseñas.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US05.3</td>
@@ -2919,8 +2919,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar escritura y publicación de reseñas</td>
     <td>Implementar la funcionalidad de escritura y publicación de reseñas.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2930,8 +2930,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear base de datos de contratos</td>
     <td>Crear una base de datos para almacenar contratos.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US06.2</td>
@@ -2940,8 +2940,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar interfaz de gestión de contratos</td>
     <td>Diseñar la interfaz de usuario para la gestión y firma de contratos.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US06.3</td>
@@ -2950,8 +2950,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar firma electrónica</td>
     <td>Implementar la funcionalidad de firma electrónica.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2961,8 +2961,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear interfaz de feedback</td>
     <td>Crear una interfaz para dejar feedback sobre actuaciones.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US07.2</td>
@@ -2971,8 +2971,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar almacenamiento y visualización de feedback</td>
     <td>Implementar la funcionalidad de almacenamiento y visualización de feedback.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US07.3</td>
@@ -2981,8 +2981,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Configurar notificaciones de feedback</td>
     <td>Configurar notificaciones para recordar a los clientes que dejen feedback.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -2993,7 +2993,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Configurar la lógica para enviar notificaciones basadas en la disponibilidad de músicos.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US08.2</td>
@@ -3003,7 +3003,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar la interfaz de usuario para la configuración de notificaciones.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US08.3</td>
@@ -3013,7 +3013,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad de envío de notificaciones.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -3023,8 +3023,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Integrar pasarela de pago</td>
     <td>Integrar una pasarela de pago segura.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US09.2</td>
@@ -3033,8 +3033,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar interfaz de gestión de pagos</td>
     <td>Diseñar la interfaz de usuario para la gestión de pagos.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US09.3</td>
@@ -3043,8 +3043,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar transacciones y recibos</td>
     <td>Implementar la funcionalidad de transacciones y recibos.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -3055,7 +3055,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear una sección de preguntas frecuentes (FAQ).</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US10.2</td>
@@ -3065,7 +3065,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar un sistema de tickets para soporte técnico.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US10.3</td>
@@ -3075,7 +3075,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Configurar un chat en vivo para soporte inmediato.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -3086,7 +3086,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear formularios para la creación de perfiles de músicos.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US17.2</td>
@@ -3096,7 +3096,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar la interfaz de usuario para el perfil de músico.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US17.3</td>
@@ -3106,7 +3106,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad de subida de fotos y biografía.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -3117,7 +3117,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear una interfaz para que los músicos actualicen su disponibilidad.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US18.2</td>
@@ -3127,7 +3127,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad de gestión de calendario.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US18.3</td>
@@ -3137,7 +3137,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Configurar notificaciones para recordar actualizaciones de disponibilidad.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
 <tr>
@@ -3148,7 +3148,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad de mensajes en el perfil de los músicos.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US19.2</td>
@@ -3158,7 +3158,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar la interfaz de usuario para la gestión de mensajes recibidos y enviados.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 <tr>
     <td>US19.3</td>
@@ -3168,7 +3168,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Configurar notificaciones para mensajes nuevos.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
  </tr>
 
  <tr>
@@ -3178,8 +3178,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Crear formulario de feedback</td>
     <td>Crear un formulario para que los organizadores de eventos puedan dejar feedback.</td>
     <td>2</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US22.2</td>
@@ -3188,8 +3188,8 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar almacenamiento de feedback</td>
     <td>Implementar la funcionalidad para almacenar el feedback recibido.</td>
     <td>3</td>
-    <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Jeferson Camizan</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US22.3</td>
@@ -3199,7 +3199,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar una interfaz para que los artistas puedan visualizar el feedback recibido.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US23.1</td>
@@ -3209,7 +3209,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Desarrollar una sección en la plataforma para que los artistas puedan promocionar su música y eventos.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US23.2</td>
@@ -3219,7 +3219,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar herramientas que permitan a los artistas crear campañas de promoción para su música y eventos.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US23.3</td>
@@ -3229,7 +3229,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Configurar notificaciones para informar a los usuarios sobre nuevas promociones y eventos de los artistas.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US25.1</td>
@@ -3239,7 +3239,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Desarrollar la funcionalidad que permita a los artistas crear ofertas y descuentos personalizados.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US25.2</td>
@@ -3249,7 +3249,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Diseñar la interfaz de usuario para la creación y gestión de ofertas y descuentos.</td>
     <td>2</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>US25.3</td>
@@ -3259,7 +3259,7 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
     <td>Implementar la funcionalidad para la visualización de ofertas y descuentos por parte de los clientes.</td>
     <td>3</td>
     <td>Victor Herrera</td>
-    <td>To-Do</td>
+    <td>Done</td>
   </tr>
 
 
@@ -3454,7 +3454,7 @@ En esta seccion se encuentra el desarrollo de las entrevistas realizadas dentro 
 - Nombre y apellidos: Godofredo Quispe
 - Edad:  21 años
 - Ubicación: lima
-- Duración de la entrevista: 06:02minutos
+- Duración de la entrevista: 06:02 minutos
 - Breve descripción: <br><br>
 	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
 
@@ -3468,15 +3468,13 @@ Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwM
 ## *UX Heuristics & Principles Evaluation*  
 # Usability – Inclusive Design – Information Architecture  
 *Carrera:* Ingeniería de Software  
-*Curso:* Desarrollo de Aplicaciones Open Source  
+*Curso:* App Web  
 *Sección:* WS52  
-*Profesor:* Elio Jefferrson Navarrete Vilca  
+*Profesor:* Angel Augusto Velasquez Nuñez  
 *Auditor:* TempSound  
-*Cliente(s):* Carlos Daniel Pingus Rodriguez,
-              Jefferson Smith Cabrera Camizan,
-              Bruce Andres Cipriano Chumbes,
-              Anthony Brahan Loarte Matos,
-              Victor Raul Herrera Castillo    
+*Cliente(s):* Jefferson Smith Cabrera Camizan,
+              Manco Cuellar Anthony Ramon,
+              Victor Raul Herrera Castillo.    
 
 
 ### SITE O APP A EVALUAR  
@@ -3534,11 +3532,10 @@ La siguiente tabla resume los resultados de la evaluación:
 5.2.4.3 Development Evidence for Sprint Review.
 5.2.4.4.Testing Suite Evidence for Sprint Review.
 5.2.4.5. Execution Evidence for Sprint Review.
-
 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
 
-<br>
+
 ## Conclusiones
 
 Consideramos que el proyecto que realizamos va dar un gran aporte a nuestro prefil profesional por el estilo en que ponemos nuestros conocimientos para hacer soluciones tecnologicas.
