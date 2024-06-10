@@ -2680,7 +2680,7 @@ Vue.js: Vue.js es un framework de JavaScript de código abierto para la construc
   </tr>
   <tr>
     <td>Attendees (to planning meeting)</td>
-    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Herrera Castillo, Victor Raul </br>Manco Cuellar Anthony Ramon </td>
   </tr>
   <tr>
     <td>Sprint 3 Review Summary</td>
