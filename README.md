@@ -2713,7 +2713,7 @@ Para el desarrollo del tercer sprint, el grupo considero trabajar de acuerdo a l
 
 Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramienta Trello.
 
-![Trello-3](https://res.cloudinary.com/djia8bsvr/image/upload/v1714365902/Sprint_2_Trello_uqg574.png)
+![Trello-3](https://res.cloudinary.com/djia8bsvr/image/upload/v1717990245/Screenshot_2024-06-09_223024_d6mzti.png)
 
 
 **Enlace del Trello:** [Sprint Backlog 3-codex] https://trello.com/b/ZLNFlhWp
