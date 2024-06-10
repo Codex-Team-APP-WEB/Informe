@@ -2680,8 +2680,8 @@ Vue.js: Vue.js es un framework de JavaScript de código abierto para la construc
   </tr>
   <tr>
     <td>Attendees (to planning meeting)</td>
+     feature/chapter-5.2.3
     <td>Cabrera Camizan, Jeferson Smith</br>Manco Cuellar Anthony Ramon </br>
-  </tr>
   <tr>
     <td>Sprint 3 Review Summary</td>
     <td>Se llevaron a cabo correcciones en los artefactos entregados anteriormente y se completaron las secciones faltantes de nuestro informe. Además, conseguimos desarrollar gran parte del backen para nuestra pagina web. Considerando que solo se tiene 3 participantes</td>
