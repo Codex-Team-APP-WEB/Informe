@@ -3314,38 +3314,33 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 Para este tercer sprint se realizo el avance de acuerdo a los features determinados para esta entrega donde se puede ver el avance en las siguientes imagenes:  
 
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952227/Screenshot_2024-06-09_115459_ujvseq.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717988011/Screenshot_2024-06-09_214908_gffemv.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
 </p>
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115403_rwwuy6.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717988012/Screenshot_2024-06-09_215048_d52fds.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115252_jiqfib.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717988012/Screenshot_2024-06-09_215146_rq0duu.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115339_enky0g.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717988013/Screenshot_2024-06-09_215155_h9gzh5.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115304_mwheya.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717988013/Screenshot_2024-06-09_215201_tgchml.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115321_wt8aum.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717988014/Screenshot_2024-06-09_215231_i2ahqu.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
 </p>
 
-<p align="center">
-  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115312_hz7mvj.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
-</p>
 
 Para el desarrollo del sprint 3 se plasmo como prueba el avance de la mayoria de historias planteadas y su funcionamiento aplciado considerando asi que se esta acabando el 100% de parte del front end y avance del front end.
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
-
-Documentación de Servicios y Evidencia para la Revisión del Sprint:
 
 Durante este sprint, nos hemos centrado en mejorar el backend y corregir aspectos del frontend de nuestra plataforma de música.
 
@@ -3385,14 +3380,21 @@ Para el desarrollo de la primera parte del programa y la mejora básica del Land
 
 Se puede observar mediante la imagen la contribucion del team sobre el respositorio creado para el proyecto de esta forma lograr el avance de esta sprint.
 
-**Contributors**
+**Contributors Frontend**
 
-![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1717986900/Screenshot_2024-06-09_213227_zlnvpe.png)
 
-**Network graph**
+**Network graph Frontend**
 
-![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1717986900/Screenshot_2024-06-09_213028_g1spgz.png)
 
+**Contributors Backend**
+
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1717986900/Screenshot_2024-06-09_213128_ndqmyy.png)
+
+**Network graph Backend**
+
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1717986900/Screenshot_2024-06-09_213237_nqvqba.png)
 
 ### 5.3. Validation Interviews.
 
