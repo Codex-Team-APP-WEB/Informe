@@ -2654,6 +2654,59 @@ Vue.js: Vue.js es un framework de JavaScript de código abierto para la construc
 
 #### 5.2.3.1. Sprint Planning.
 
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-05-26</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>18:00 </td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Servidor de Discord de "Desarrollo de Aplicaciones Open Source"</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Loarte Matos, Anthony Brahan</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Cipriano Chumbes, Bruce Andres </br>Herrera Castillo, Victor Raul </br>Loarte Matos, Anthony Brahan </br> Pingus Rodriguez, Carlos Daniel</td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Review Summary</td>
+    <td>Se llevaron a cabo correcciones en los artefactos entregados anteriormente y se completaron las secciones faltantes de nuestro informe. Además, conseguimos desarrollar gran parte del backen para nuestra pagina web. </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Retrospective Summary</td>
+    <td>Se mejoró la gestión del tiempo desde el Sprint 2, se identificó la necesidad de optimizar las herramientas de gestión y establecer plazos más realistas. También es crucial mejorar la comunicación entre los integrantes del equipo para finalizr el frontend, así como la documentación del código. Cada miembro compartió sus experiencias, destacando la importancia de las revisiones de código y las reuniones de sincronización.</td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Goal</td>
+    <td>Para el tercer sprint, el objetivo principal del equipo es desarrollar el backend, asegurándose de implementar todos los Bounded Context previamente identificados. Este proceso incluye la definición y refinamiento de requisitos para cada Bounded Context, garantizando una comprensión clara y precisa de las funcionalidades esperadas. </td>
+  </tr>
+  <tr>
+    <td>Sprint 3 Velocity</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>25</td>
+  </tr>
+</table>
+
 #### 5.2.3.2. Sprint Backlog 3.
 
 Para el desarrollo del tercer sprint, el grupo considero trabajar de acuerdo a los puntos asignados en el product backlog y las historias pendientes para asi tener el desarrollo del programa en una gran mayoria.
@@ -3214,26 +3267,265 @@ Para presentar el trabajo de la sprint 3 se asigno los task mediante la herramie
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/TempSound/MusicTime-Frontend | master | 255465160cc36a96130888a2b0dfa39974c06557 | Create: Proyect open source in music time TF. | Create: Proyect open source in music time TF. | 01/06/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | master | ed2d643b6a036317c304e968962587589f7215e6 | Update: Delete pages for new pages in public and add DB | Update: Delete pages for new pages in public and add DB | 01/06/2024 | 
+| https://github.com/TempSound/MusicTime-Frontend | master | da465d41fe2f47ed51f9f367e3809c8a52386871 | Update: Enviroments element for API. | Update: Enviroments element for API. | 01/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2450b851772ea6507e19fd5282d4af6ffeb97f21 | Create: Toolbar content component and pages "Home-About" | Create: Toolbar content component and pages "Home-About" | 02/06/2024| 
+| https://github.com/TempSound/MusicTime-Frontend | master | ad6bbfca900baa2321400f979a972884fb04a87e | Create: Roting component about home and about | Create: Roting component about home and about | 02/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2e28460c4b7ef5cb19e53847f84d81fe3c517ba8 | Create: Roting component about home and about | Create: Roting component about home and about | 02/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 9c60a77d1827e2aa8badf3752161ce5dc27ec3e5 | Create: Musician view to elements | Create: Musician view to elements | 03/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 2b07931046dd38a34c8b1a933a7019e69443e6b5 | Create: Musician view in toolbar. | Create: Musician view in toolbar. | 03/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 5d5d559180213948492a9b88e6f2ef6d485cf24d |Create: Musicias card and grups see. | Create: Musicias card and grups see. | 03/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | f73675e3af4dfa419058463c9b71d8f5269009d8 | Create: Added style and functionality to subscription buttons and aircraft descriptions. | Create: Added style and functionality to subscription buttons and aircraft descriptions. | 03/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | f9e9124f985ead584a3252ff8dee682c8ee7f0e2 | Merge remote-tracking branch 'origin/master' | Merge remote-tracking branch 'origin/master' | 04/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | c1be37ee36af6e9ecc3af629c11bec733402e970 | Create: profile musician add. | Create: profile musician add. | 04/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 76d8e7542b8f39c319b11186da7ba46a608707d7 | Update: all elements for the proyect. | Update: all elements for the proyect. | 04/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | eb0a95909f3b3673dde9d7cd64bd4d616b456141 | Update: create musician tu db. | Update: create musician tu db. | 04/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | cd7812d0db450d72c216d95a8455dcfa8c00992f | Update: all the proyect and update musician-content | Update: all the proyect and update musician-content | 05/06/2024 |
+| https://github.com/TempSound/MusicTime-Frontend | master | 3b5e880ad2d7e689504f8de682efbb7bebba488d | Create: new API to json server for the proyect | Create: new API to json server for the proyect | 05/06/2024|
+| https://github.com/TempSound/MusicTime-Frontend | master | d1cf77e87138190ac094ceba299b660de7374f6f | Chore: Title changes in Toolbar component | Chore: Title changes in Toolbar component | 05/06/2024 |
+
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+| US01/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US01.feature | herrera.victor-feature-Sprint3-US01 | a3e234 | add festures US01 | 07/06/2024 |
+| US02/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US02.feature | herrera.victor-feature-Sprint3-US02 | a3e234 | add festures US02 | 07/06/2024 |
+| US03/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US03.feature | herrera.victor-feature-Sprint3-US03 | a3e234 | add festures US03 | 07/06/2024 |
+| US04/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US04.feature | herrera.victor-feature-Sprint3-US04 | a3e234 | add festures US04 | 07/06/2024 |
+| US05/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US05.feature | herrera.victor-feature-Sprint3-US05 | a3e234 | add festures US05 | 07/06/2024 |
+| US06/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US06.feature | herrera.victor-feature-Sprint3-US06 | a3e234 | add festures US06 | 07/06/2024 |
+| US07/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US07.feature | herrera.victor-feature-Sprint3-US07 | a3e234 | add festures US07 | 07/06/2024 |
+| US08/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US08.feature | herrera.victor-feature-Sprint3-US08 | a3e234 | add festures US08 | 07/06/2024 |
+| US09/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US09.feature | herrera.victor-feature-Sprint3-US09 | a3e234 | add festures US09 | 07/06/2024 |
+| US010/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US010.feature | herrera.victor-feature-Sprint3-US010 | a3e234 | add festures US010 | 07/06/2024 |
+| US017/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US017.feature | herrera.victor-feature-Sprint3-US017 | a3e234 | add festures US017 | 07/06/2024 |
+| US018/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US018.feature | herrera.victor-feature-Sprint3-US018 | a3e234 | add festures US018 | 07/06/2024 |
+| US019/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US019.feature | herrera.victor-feature-Sprint3-US019 | a3e234 | add festures US019 | 07/06/2024 |
+| US022/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US022.feature | herrera.victor-feature-Sprint3-US022 | a3e234 | add festures US022 | 07/06/2024 |
+| US023/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US023.feature | herrera.victor-feature-Sprint3-US023 | a3e234 | add festures US023 | 07/06/2024 |
+| US025/ https://github.com/TempSound/Testing/blob/main/Sprint%203/US025.feature | herrera.victor-feature-Sprint3-US025 | a3e234 | add festures US025 | 07/06/2024 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
+Para este tercer sprint se realizo el avance de acuerdo a los features determinados para esta entrega donde se puede ver el avance en las siguientes imagenes:  
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952227/Screenshot_2024-06-09_115459_ujvseq.png" alt="landing 1" style="margin-bottom: 3px;" width="1080px">
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115403_rwwuy6.png" alt="landing 2" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115252_jiqfib.png" alt="landing 3" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115339_enky0g.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115304_mwheya.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115321_wt8aum.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1717952065/Screenshot_2024-06-09_115312_hz7mvj.png" alt="landing 4" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Para el desarrollo del sprint 3 se plasmo como prueba el avance de la mayoria de historias planteadas y su funcionamiento aplciado considerando asi que se esta acabando el 100% de parte del front end y avance del front end.
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Documentación de Servicios y Evidencia para la Revisión del Sprint:
+
+Durante este sprint, nos hemos centrado en mejorar el backend y corregir aspectos del frontend de nuestra plataforma de música.
+
+Para el Servicio de Búsqueda de Grupos, hemos fortalecido su funcionalidad, permitiendo a los usuarios buscar grupos según género, ubicación, precio y disponibilidad. Implementamos esta solución utilizando Java para la lógica del servidor y aprovechamos las capacidades de desarrollo avanzadas proporcionadas por IntelliJ. La evidencia de su correcto funcionamiento se encuentra en las pruebas unitarias y registros de consola disponibles en nuestro repositorio en GitHub.
+
+En cuanto al Servicio de Contratación de Grupos, hemos desarrollado una solución eficiente que simplifica el proceso de reserva de grupos para eventos. Java fue la elección para la lógica del backend, permitiéndonos aprovechar las herramientas de desarrollo integrales de IntelliJ. La evidencia de su correcto funcionamiento también se encuentra en las pruebas unitarias y registros de consola disponibles en nuestro repositorio en GitHub.
+
+Aunque este sprint se ha centrado principalmente en el backend, también hemos realizado ajustes menores en el frontend para mejorar su rendimiento y usabilidad. Estas mejoras se han documentado en nuestro repositorio en GitHub para su revisión y seguimiento.
+
+El desarrollo del backend se llevó a cabo utilizando IntelliJ, lo que nos permitió una mayor eficiencia y colaboración en el equipo. Todos los cambios, tanto en el backend como en el frontend, se han integrado en nuestro flujo de trabajo de Git Flow, con el código y la documentación correspondiente disponibles en GitHub.
+
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Para el desarrollo de la primera parte del programa y la mejora básica del Landing Page de CODEX en el Sprint 2, se han utilizado los siguientes lenguajes y herramientas:
+
+**Angular:** Un marco de trabajo para la construcción de aplicaciones web en HTML, CSS y TypeScript, que nos ayudó a desarrollar la lógica de la aplicación y a mejorar la interactividad del Landing Page.
+
+**Node.js:** Un entorno de ejecución para JavaScript construido en el motor de JavaScript V8 de Chrome, que nos permitió construir el servidor de la aplicación.
+
+**Java:** Lenguaje de programación de propósito general, concurrente, orientado a objetos, que se utilizó para desarrollar la lógica del servidor y la interacción con la base de datos.
+
+**TypeScript:** Un superconjunto de JavaScript que añade tipado estático y objetos basados en clases, que nos ayudó a desarrollar la lógica de la aplicación de manera más segura y eficiente.
+
+**WebStorm:** Un IDE de JetBrains para JavaScript moderno, que nos proporcionó un entorno de desarrollo eficiente y productivo.
+
+**Git:** Sistema de control de versiones que nos ayudó a trabajar en equipo durante la elaboración del código.
+
+**GitHub:** Plataforma de desarrollo colaborativo que nos ayudó a guardar nuestro proyecto con sus respectivas versiones.
+
+**Git Flow:** Modelo de flujo de trabajo que nos permitió ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
+**Intellij IDEA Ultimate:** Ide para desarrollar en lenguaje java el backend, generando asi los end points con las cuales se aplica al proyecto.
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Se puede observar mediante la imagen la contribucion del team sobre el respositorio creado para el proyecto de esta forma lograr el avance de esta sprint.
+
+**Contributors**
+
+![Page 8](https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133430_dpjvo3.png)
+
+**Network graph**
+
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1714761319/Captura_de_pantalla_2024-05-03_133503_f2hdkj.png)
 
 
 ### 5.3. Validation Interviews.
 
+En esta seccion se encuentra el desarrollo de las entrevistas realizadas dentro del proyecto y como se trabajan con este de acuerdo a la vista ya tenia del proyecto como tal.
+
 ### 5.3.1. Diseño de Entrevistas.
+
+#### Preguntas Generales:
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Dónde vives actualmente?
+4. ¿A qué te dedicas?
+
+#### Segmento: Cliente General
+
+**Preguntas Específicas:**
+
+1. **Después de explorar la aplicación Tempsound, ¿crees que te ayudará a encontrar y contratar artistas musicales de manera efectiva y personalizada?**
+
+2. **¿Encuentras que Tempsound facilita la organización de eventos musicales y la gestión de artistas?**
+
+3. **¿Crees que la aplicación te proporciona una variedad de opciones de artistas y grupos musicales adecuados para tus eventos?**
+
+4. **¿Qué opinas sobre el diseño y la facilidad de uso de la aplicación Tempsound?**
+
+5. **¿Con qué frecuencia utilizarías la aplicación para organizar tus eventos y contratar artistas?**
+
+6. **¿Qué aspectos te gustan más de Tempsound y hay alguna característica que sientas que falta en la aplicación desde tu perspectiva como organizador de eventos?**
+
+7. **¿Estarías dispuesto a recomendar Tempsound a otros organizadores de eventos a través de tus redes sociales?**
+
+
+#### Segmento: Bandas Musicales y Músicos Independientes
+
+**Preguntas Específicas:**
+
+1. **Después de conocer Tempsound y su enfoque en ayudar a los músicos a encontrar oportunidades de actuación, ¿crees que la aplicación puede ser una herramienta efectiva para promocionar tus servicios y actividades?**
+
+2. **¿Encuentras que Tempsound te ofrece una plataforma conveniente para presentar tus servicios y encontrar oportunidades de actuación?**
+
+3. **¿Crees que la aplicación puede aumentar la visibilidad de tu trabajo y atraer más clientes?**
+
+4. **¿Qué opinas sobre el diseño de la plataforma y su facilidad de uso desde la perspectiva del músico?**
+
+5. **¿Con qué frecuencia estarías dispuesto a utilizar Tempsound para promocionar tus servicios y buscar oportunidades de actuación?**
+
+6. **¿Qué aspectos te gustan más de Tempsound y hay alguna característica que sientas que falta en la aplicación desde tu perspectiva como músico?**
+
+7. **¿Estarías dispuesto a recomendar Tempsound a otros músicos y bandas a través de tus redes sociales?**
 
 ### 5.3.2. Registro de Entrevistas.
 
+---
+**Entrevista:**
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
+
+- Nombre y apellidos: Godofredo Quispe
+- Edad:  21 años
+- Ubicación: lima
+- Duración de la entrevista: 06:02minutos
+- Breve descripción: <br><br>
+	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
+
+
+Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+
+---
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
+## *UX Heuristics & Principles Evaluation*  
+# Usability – Inclusive Design – Information Architecture  
+*Carrera:* Ingeniería de Software  
+*Curso:* Desarrollo de Aplicaciones Open Source  
+*Sección:* WS52  
+*Profesor:* Elio Jefferrson Navarrete Vilca  
+*Auditor:* TempSound  
+*Cliente(s):* Carlos Daniel Pingus Rodriguez,
+              Jefferson Smith Cabrera Camizan,
+              Bruce Andres Cipriano Chumbes,
+              Anthony Brahan Loarte Matos,
+              Victor Raul Herrera Castillo    
+
+
+### SITE O APP A EVALUAR  
+MusicTime
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas en la plataforma Tempsound:
+
+1. *Iniciar sesión*
+2. *Registrarse*
+3. *Elegir preferencias musicales*
+4. *Ver perfiles de artistas*
+5. *Contactar artistas*
+6. *Ver preguntas frecuentes*
+7. *Ver notificaciones*
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. *Gestionar eventos*
+2. *Enviar ofertas de contratación*
+
+### ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                                                                                                                     |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                    |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                 |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                               |
+
+### TABLA DE RESUMEN
+
+La siguiente tabla resume los resultados de la evaluación:
+
+| #   | Problema                                                                          | Escala de Severidad | Heurística/Principio Violado(a)               |
+| --- | --------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
+| 1   | Falta de opciones de inicio de sesión con Google u otras plataformas              | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+| 2   | Registro de usuario no validado y datos no guardados                              | 3                   | Usability: Visibilidad del estado del sistema |
+| 3   | Imposibilidad de visualizar detalles completos de artistas y funciones de reserva | 4                   | Usability: Consistencia y estándares          |
+| 4   | Contactar artistas sin opción de chat en tiempo real                              | 3                   | Usability: Flexibilidad y eficiencia de uso   |
+| 5   | Visualización de preguntas frecuentes sin opción para enviar preguntas propias    | 2                   | Usability: Consistencia y estándares          |
+| 6   | Notificaciones estáticas sin información relevante                                | 2                   | Usability: Flexibilidad y eficiencia de uso   |
+
+
 ### 5.4. Video About-the-Product.
+
 
 
 5.2.4. Sprint 4
