@@ -22,6 +22,8 @@
 |Herrera Castillo, Victor Raul      |u20201e188|
 |Cabrera Camizan, Jeferson Smith    |u20211c211|
 |Manco Cuellar Anthony Ramon        |u201810954|
+|Pingus Rodriguez Carlos Daniel     |u202113280|
+|Velarde Luyo Piero Alberto         |u20211A620|
 
 </p>
  <h2 align="center">  2024 </h2>
