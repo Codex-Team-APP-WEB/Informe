@@ -3413,6 +3413,120 @@ Se puede observar mediante la imagen la contribucion del team sobre el resposito
 
 ![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1717986900/Screenshot_2024-06-09_213237_nqvqba.png)
 
+
+#### 5.2.4. Sprint 4.
+
+#### 5.2.4.1. Sprint Planning.
+
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>  REDACTED  </td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>  REDACTED   </td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>  REDACTED  </td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Herrera Castillo, Victor Raul</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+     feature/chapter-5.2.4
+    <td>Cabrera Camizan, Jeferson Smith</br>Manco Cuellar Anthony Ramon </br>
+  <tr>
+    <td>Sprint 4 Review Summary</td>
+    <td>     </td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Retrospective Summary</td>
+    <td>   </td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Goal</td>
+    <td>Para el cuarto sprint, el objetivo principal del equipo es finalizar el desarrollo del proyecto, para esto se requiere acabar el backend, asegurándose de implementar los Bounded Context faltantes, al igual que hacer la conexión del Backend con el Frontend del proyecto. Asimismo, en este sprint se busca corregir todos los errores previamente expuestos en lo que al informe refiere. </td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Velocity</td>
+    <td>     </td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>     </td>
+  </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 3</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
+
+
 ### 5.3. Validation Interviews.
 
 En esta seccion se encuentra el desarrollo de las entrevistas realizadas dentro del proyecto y como se trabajan con este de acuerdo a la vista ya tenia del proyecto como tal.
