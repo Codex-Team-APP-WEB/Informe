@@ -3478,7 +3478,7 @@ Se puede observar mediante la imagen la contribucion del team sobre el resposito
 <table align="center" border="1" width="90%" style="text-align:center">
  <tr>
     <td colspan="1"><b>Sprint #</b></td>
-    <td colspan="7"><b>Sprint 3</b></td>
+    <td colspan="7"><b>Sprint 4</b></td>
   </tr>
   <tr>
     <td colspan="2"><b>User Story</b></td>
