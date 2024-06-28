@@ -194,6 +194,111 @@
 
 # Project Report Collaboration Insights
 
+**LINK DEL REPOSITORIO:** https://github.com/Codex-Team-APP-WEB/Informe.git
+
+## TB1:
+
+**Actividades de Elaboración del Informe**
+Para la primera entrega del proyecto, el equipo se ha centrado en el desarrollo inicial de la landing page y en la redacción de partes del informe.
+
+**Desarrollo de la Landing Page**
+La landing page fue diseñada y desarrollada por el equipo de desarrollo frontend. Se realizaron reuniones de planificación para definir el diseño y la funcionalidad básica de la página. El código fuente de la landing page fue subido al repositorio y revisado por varios miembros del equipo.
+
+**Redacción de Partes del Informe**
+Se redactaron las secciones iniciales del informe, incluyendo la introducción y el marco teórico. Cada sección fue asignada a diferentes miembros del equipo para asegurar una distribución equitativa del trabajo. Se realizaron revisiones y ajustes basados en el feedback de todos los miembros del equipo.
+
+**Capturas de Colaboración**
+- **Analíticas de colaboración:**
+  ![Analíticas de colaboración](https://res.cloudinary.com/drkelnilg/image/upload/v1719588265/imagen_2024-06-28_102422747_mlzvze.png)
+
+- **Commits realizados:**
+  ![Commits realizados](https://res.cloudinary.com/drkelnilg/image/upload/v1719588353/imagen_2024-06-28_102551746_ixq8d4.png)
+
+**Evidencias:**
+la parte de inicio del landing page, con diferentes opciones en el toolbar y tambien con la opcion de cambio de idioma.
+  ![](https://res.cloudinary.com/drkelnilg/image/upload/v1714683321/kp0bgkdkntv5xrk5kkcx.png)
+
+  ## TP:
+  ## Actividades de Elaboración del Informe
+Para la segunda entrega del proyecto, el equipo se ha centrado en completar el desarrollo del frontend y en la integración de las partes previamente desarrolladas.
+
+### Desarrollo del Frontend
+El equipo ha trabajado intensamente para completar el desarrollo del frontend. Esto incluye la implementación de todas las funcionalidades planeadas, así como la integración con los servicios backend. Se llevaron a cabo varias reuniones de seguimiento para asegurar que el desarrollo se realizara conforme al plan y se cumplieran los plazos establecidos.
+
+### Redacción de Partes del Informe
+Además del desarrollo del frontend, se han actualizado y ampliado las secciones del informe para reflejar el progreso del proyecto. Esto incluye la documentación detallada de las nuevas funcionalidades implementadas y la revisión de las secciones anteriores.
+
+## Capturas de Colaboración
+- **Analíticas de colaboración:**
+  ![Analíticas de colaboración](https://res.cloudinary.com/drkelnilg/image/upload/v1719588889/imagen_2024-06-28_103447141_mditrn.png)
+
+- **Commits realizados:**
+  ![Commits realizados](https://res.cloudinary.com/drkelnilg/image/upload/v1719589432/imagen_2024-06-28_104350057_vubxfk.png)
+
+- **Evidencia:**
+
+Un avanze del frontend, una tabla donde almacenan todos los artistas que se vean creado con opciones de update y delete, ademas se puede evidenciar mas opciones en el toolbar.
+  ![Commits realizados](https://res.cloudinary.com/drkelnilg/image/upload/v1719589149/imagen_2024-06-28_103906845_p6grmz.png)
+
+  ## TB2:
+## Actividades de Elaboración del Informe
+Para la tercera entrega del proyecto, el equipo se ha enfocado en avanzar significativamente en el desarrollo del backend. A continuación, se detallan las actividades realizadas y los logros alcanzados durante esta fase.
+
+### Avance del Backend
+El equipo ha trabajado diligentemente para desarrollar y avanzar en la implementación de las funcionalidades clave del backend. Esto incluyó la configuración de la base de datos, la creación de APIs para interactuar con el frontend y la implementación de lógica de negocio esencial. Se realizaron pruebas unitarias para verificar la funcionalidad de cada componente y pruebas de integración para asegurar que todas las partes del sistema trabajen correctamente juntas.
+
+Durante esta fase, se realizaron varias reuniones de equipo para revisar el progreso y discutir cualquier problema o reto encontrado. Estas reuniones permitieron ajustar el plan de trabajo y asegurarse de que todos los miembros del equipo estuvieran alineados con los objetivos del proyecto.
+
+### Redacción de Partes del Informe
+Además del desarrollo técnico, el equipo ha actualizado el informe del proyecto para incluir los avances realizados en el backend. La documentación abarca una descripción detallada de la arquitectura del sistema, las tecnologías utilizadas y los métodos de prueba implementados.
+
+Se redactaron nuevas secciones del informe que explican la estructura de la base de datos, la lógica detrás de las APIs y cómo el backend se integra con el frontend. También se incluyó un análisis de los resultados de las pruebas, destacando la estabilidad y funcionalidad del sistema.
+
+## Capturas de Colaboración
+- **Analíticas de colaboración:**
+  ![Analíticas de colaboración](https://res.cloudinary.com/drkelnilg/image/upload/v1719589918/imagen_2024-06-28_105155912_fkh0af.png)
+  En esta captura se puede observar la actividad de los colaboradores durante esta fase del desarrollo.
+
+- **Commits realizados:**
+  ![Commits realizados](https://res.cloudinary.com/drkelnilg/image/upload/v1719589867/imagen_2024-06-28_105105529_wbm0ai.png)
+  Aquí se muestra un resumen de los commits más relevantes realizados por los miembros del equipo, reflejando el trabajo y las mejoras continuas en el backend.
+
+- **Evidencias:**
+Aqui se muestra el avance del backen que se realizo, se hizo la tabla artist para hacer un POST, GET Y UPDATE a un artistas identificado por un Id.
+  ![Commits realizados](https://res.cloudinary.com/drkelnilg/image/upload/v1719589999/imagen_2024-06-28_105317485_isuy45.png)
+
+  ## TF:
+ - ### Actividades de Elaboración del Informe
+Para la última entrega del proyecto, el equipo ha finalizado el desarrollo tanto del frontend como del backend y ha asegurado la comunicación fluida entre ambos. A continuación se describen las actividades realizadas y los logros alcanzados durante esta fase crucial.
+
+- ### Finalización del Backend
+Paralelamente, el backend fue completamente desarrollado. Esto incluyó la implementación de todas las APIs necesarias para soportar las funcionalidades del frontend, así como la optimización de la base de datos para manejar de manera eficiente las consultas y operaciones.Las pruebas de carga y rendimiento se llevaron a cabo para asegurar que el sistema puede manejar eficientemente las demandas esperadas bajo diferentes condiciones de uso. Estas pruebas confirmaron que el backend puede soportar altos volúmenes de tráfico sin degradar el rendimiento.
+
+### Comunicación entre Frontend y Backend
+Un aspecto crítico de esta fase fue asegurar la comunicación efectiva entre el frontend y el backend. Se realizaron integraciones completas, permitiendo que las solicitudes desde el frontend sean correctamente procesadas y respondidas por el backend. Esto incluyó la implementación de métodos de autenticación y autorización para proteger los datos y asegurar la integridad de las operaciones. Además, se utilizaron mecanismos de manejo de errores y validación de datos para garantizar la fiabilidad y seguridad de las interacciones entre ambas partes del sistema.
+
+- ### Redacción de Partes del Informe
+Se actualizaron y completaron las secciones del informe para reflejar la finalización del proyecto. Esto incluyó una descripción detallada del proceso de integración entre el frontend y el backend, así como los resultados de las pruebas finales. La documentación proporciona una visión completa del trabajo realizado, destacando los desafíos superados y las soluciones implementadas. También se incluyen análisis detallados de las pruebas de rendimiento y seguridad, así como recomendaciones para el mantenimiento futuro del sistema. La redacción cuidadosa de estas secciones asegura que el informe final sea una referencia útil y comprensible para todos los interesados en el proyecto.
+
+## Capturas de Colaboración
+- **Analíticas de colaboración:**
+  ![Analíticas de colaboración](https://res.cloudinary.com/drkelnilg/image/upload/v1719590581/imagen_2024-06-28_110258460_x0egnx.png)
+  En esta captura se puede observar la actividad de los colaboradores durante la fase final del proyecto.
+
+- **Commits realizados:**
+  ![Commits realizados](https://res.cloudinary.com/drkelnilg/image/upload/v1719590666/imagen_2024-06-28_110423956_a4fcq6.png)
+  Aquí se muestra un resumen de los commits más relevantes realizados por los miembros del equipo, reflejando el trabajo y las mejoras continuas en la fase final del desarrollo.
+
+- **Evidencia:**
+  ![Commits realizados](https://res.cloudinary.com/drkelnilg/image/upload/v1719590800/imagen_2024-06-28_110637507_aglqmm.png)
+Al explorar la red, es evidente la estrecha integración entre el front-end y el back-end. Esta conexión fluida entre las interfaces de usuario visibles y la complejidad funcional detrás de ellas demuestra cómo ambos componentes trabajan en conjunto para ofrecer una experiencia completa y eficiente. 
+
+
+
+
+
+
+
 
 <br><br>
 
@@ -356,36 +461,35 @@ software.</td>
       <b>Cabrera Camizan, Jeferson Smith</b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos.</br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.<br>
+      <b>TF:</b> </br>
+      - Se completo el desarrollo del backend.
       <b>Ballona Blas, Naggit German </b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos.</br>
       <b>Herrera Castillo, Victor Raul</b> </br>
       <b>TB1:</b> </br>
       - Se realizó dos de nuestros segmentos objetivos.</br>
+      <b>TP:</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.<br>
+      <b>TF:</b> </br>
       <b>Muñoz Salcedo, Piero Jhoynner </b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos.</br>
       <b>Manco Cuellar Anthony Ramon </b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos.</br>
-      <b>Cabrera Camizan, Jeferson Smith</b> </br>
       <b>TP:</b> </br>
-      - Se realizo la exposicion del trabajo de manera presencial.</br>
-      <b>Herrera Castillo, Victor Raul</b> </br>
-      <b>TP:</b> </br>
-      - Se realizo la exposicion del trabajo de manera presencial.</br>
-      <b>Manco Cuellar Anthony Ramon </b> </br>
-      <b>TP:</b> </br>
-      - Se realizo la exposicion del trabajo de manera presencial.</br>
-      <b>Cabrera Camizan, Jeferson Smith</b> </br>
+      - Se realizo la exposicion del trabajo de manera presencial.</br></br>
       <b>TB2:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
-      <b>Herrera Castillo, Victor Raul</b> </br>
-      <b>TB2:</b> </br>
-      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
-      <b>Manco Cuellar Anthony Ramon </b> </br>
-      <b>TB2:</b> </br>
-      - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
+      <b>Pingus Rodriguez Carlos Daniel </b> </br>
+      <b>TF:</B> </BR>
     </td>
     <td>
       - Las desempeñaron un papel de gran relevancia en el proceso de construcción de los user personas. Además de ayudarnos a definir estos perfiles, estas conversaciones con los usuarios nos permitieron profundizar en su comprensión, identificando con precisión sus requerimientos y también sus perspectivas y opiniones en relación con producto de software, de la misma manera se busca pulir todas nuestras habilidades comunicativas de acuerdo a las actividades que hay dentro del proyecto y en esta oportunidad buscando expresarlo en la evaluación parcial.
@@ -409,6 +513,19 @@ software.</td>
       - Se realizó Lean UX Assumptions.</br>
       - Se realizó Lean UX Hypothesis Statements.</br>
       - Se realizó Lean UX Canvas.</br>
+      <b>TP:</b> </br>
+      - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>TF:</b> </br>
+      - correcion de documentacion del informe
+      - conexion de de backen y frontend. </br>
       <b>Muñoz Salcedo, Piero Jhoynner </b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos</br>
@@ -428,6 +545,17 @@ software.</td>
       - Se realizó Web Applications Wireflow Diagrams.</br>
       - Se realizó Web Applications Mock-ups.</br>
       - Se realizó Web Applications User Flow Diagrams.</br>
+      <b>TP:</b> </br>
+       - Se realizo la exposision del trabajo<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>TB2:</b> </br>
+      - Se entrevistó a nuestros segmentos objetivos<br>
+      - Se realizó correcion del trabajo realizado</br>
+      - Se realizo los task asignados.</br>
+      - Se realizó documentacion en el informe.</br>
+      <b>TF:</b> </br>
       <b>Ballona Blas, Naggit German </b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos<br>
@@ -446,42 +574,18 @@ software.</td>
       - Se realizó Software Architecture Context Diagram.</br>
       - Se realizó Software Architecture Container Diagrams.</br>
       - Se realizó Software Architecture Components Diagrams.</br>
-            <b>Cabrera Camizan, Jeferson Smith</b> </br>
-      <b>TP:</b> </br>
-      - Se realizo la exposision del trabajo<br>
-      - Se realizó correcion del trabajo realizado</br>
-      - Se realizo los task asignados.</br>
-      - Se realizó documentacion en el informe.</br>
-      <b>Herrera Castillo, Victor Raul</b> </br>
       <b>TP:</b> </br>
        - Se realizo la exposision del trabajo<br>
       - Se realizó correcion del trabajo realizado</br>
       - Se realizo los task asignados.</br>
       - Se realizó documentacion en el informe.</br>
-      <b>Manco Cuellar Anthony Ramon</b> </br>
-      <b>TP:</b> </br>
-       - Se realizo la exposision del trabajo<br>
-      - Se realizó correcion del trabajo realizado</br>
-      - Se realizo los task asignados.</br>
-      - Se realizó documentacion en el informe.</br>
-      <b>Cabrera Camizan, Jeferson Smith</b> </br>
       <b>TB2:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos<br>
       - Se realizó correcion del trabajo realizado</br>
       - Se realizo los task asignados.</br>
       - Se realizó documentacion en el informe.</br>
-      <b>Herrera Castillo, Victor Raul</b> </br>
-      <b>TB2:</b> </br>
-      - Se entrevistó a nuestros segmentos objetivos<br>
-      - Se realizó correcion del trabajo realizado</br>
-      - Se realizo los task asignados.</br>
-      - Se realizó documentacion en el informe.</br>
-      <b>Manco Cuellar Anthony Ramon</b> </br>
-      <b>TB2:</b> </br>
-      - Se entrevistó a nuestros segmentos objetivos<br>
-      - Se realizó correcion del trabajo realizado</br>
-      - Se realizo los task asignados.</br>
-      - Se realizó documentacion en el informe.</br>
+      <b>Pingus Rodriguez Carlos Daniel </b> </br>
+      <b>TF:</B> </BR>
     </td>
     <td>
       - Con las secciones desarrolladas, podemos concluir que el trabajo en equipo, la división de trabajos y la verificación de las partes de cada integrante fueron crucial durante el proceso de documentación de nuestro proyecto, también buscando resolver y recopilar los datos necesarios para los segmentos objetivos del proyecto de esta manera solventar la necesidad identificada de manera satisfactoria.
