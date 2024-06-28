@@ -178,10 +178,16 @@
       <td>Herrera Castillo Victor Raul
       <td>Desarrollo del informe para la entrega.
     </td>
-    <tr>
-        <td><strong> 2.8 </strong></td>
+	<tr>
+        <td><strong> 2.7 </strong></td>
           <td> 04/06/2024 <br> 
       <td>Cabrera Camizan, Jeferson Smith
+      <td>Desarrollo del informe para la entrega.
+    </td>
+    <tr>
+        <td><strong> 3.0 </strong></td>
+          <td> 28/06/2024 <br> 
+      <td>Pingus Rodriguez, Carlos Daniel
       <td>Desarrollo del informe para la entrega.
     </td>
     </tr>
@@ -478,6 +484,7 @@ software.</td>
       <b>TB2:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.<br>
       <b>TF:</b> </br>
+      - Se implementó seguridad en el segmento FrontEnd.
       <b>Muñoz Salcedo, Piero Jhoynner </b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos.</br>
@@ -489,7 +496,8 @@ software.</td>
       <b>TB2:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos para validacion de resultados.</br>
       <b>Pingus Rodriguez Carlos Daniel </b> </br>
-      <b>TF:</B> </BR>
+      <b>TF:</b> </br>
+      - Se realizó el bounded context de Customers del API y su posterior integración al segmento frontend.</br>
     </td>
     <td>
       - Las desempeñaron un papel de gran relevancia en el proceso de construcción de los user personas. Además de ayudarnos a definir estos perfiles, estas conversaciones con los usuarios nos permitieron profundizar en su comprensión, identificando con precisión sus requerimientos y también sus perspectivas y opiniones en relación con producto de software, de la misma manera se busca pulir todas nuestras habilidades comunicativas de acuerdo a las actividades que hay dentro del proyecto y en esta oportunidad buscando expresarlo en la evaluación parcial.
@@ -556,6 +564,10 @@ software.</td>
       - Se realizo los task asignados.</br>
       - Se realizó documentacion en el informe.</br>
       <b>TF:</b> </br>
+      - Se implementó la seguridad de la aplicación FrontEnd(IAM).
+      - Se realizó la documentación del proyecto en el informe.
+      - Se desarrolló el manejo del bounded context Musician en el segmento FrontEnd.
+      - Se implementaron los endpoints del API en el segmento FrontEnd.
       <b>Ballona Blas, Naggit German </b> </br>
       <b>TB1:</b> </br>
       - Se entrevistó a nuestros segmentos objetivos<br>
@@ -585,7 +597,10 @@ software.</td>
       - Se realizo los task asignados.</br>
       - Se realizó documentacion en el informe.</br>
       <b>Pingus Rodriguez Carlos Daniel </b> </br>
-      <b>TF:</B> </BR>
+      <b>TF:</b> </br>
+      - Se realizó el desarrollo del bounded context Customers en el segmento backend de la aplicación con 3 tipos de endpoints(GET, POST y PUT).</br>
+      - Se implementó la seguridad de la API haciendo uso del IAM.</br>
+      - Se implementó la página correspondiente al bounded context haciendo uso del endpoint PUT.</br>
     </td>
     <td>
       - Con las secciones desarrolladas, podemos concluir que el trabajo en equipo, la división de trabajos y la verificación de las partes de cada integrante fueron crucial durante el proceso de documentación de nuestro proyecto, también buscando resolver y recopilar los datos necesarios para los segmentos objetivos del proyecto de esta manera solventar la necesidad identificada de manera satisfactoria.
