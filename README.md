@@ -22,6 +22,8 @@
 |Herrera Castillo, Victor Raul      |u20201e188|
 |Cabrera Camizan, Jeferson Smith    |u20211c211|
 |Manco Cuellar Anthony Ramon        |u201810954|
+|Pingus Rodriguez Carlos Daniel     |u202113280|
+|Velarde Luyo Piero Alberto         |u20211A620|
 
 </p>
  <h2 align="center">  2024 </h2>
@@ -1239,6 +1241,21 @@ EP02 | Como banda, queremos tener acceso a una plataforma de promoción musical 
 | US23 | Gestión de Finanzas y Pagos | Como artista, quiero gestionar mis finanzas y pagos de actuaciones directamente desde la plataforma para una mayor transparencia y eficiencia. | **Escenario 1:** Gestión de Finanzas Exitosa.<br> Dado que un artista desea administrar sus pagos, cuando realiza un contrato con un cliente en la plataforma, entonces el artista podrá acordar el precio con el cliente y se hará el pago a su cuenta .  <br> **Escenario 2:** Problemas con la Gestión de Pagos.<br> Dado que un artista desea administrar sus pagos, cuando realiza un contrato con un cliente y acuerdan el precio  entonces  ocurren errores al ejecutar el pago y este no se realiza correctamente. |
 | US24 | Soporte Técnico y Asistencia | Como artista, quiero contar con soporte técnico y asistencia en la plataforma para resolver cualquier problema o duda que pueda surgir durante su uso. | **Escenario 1:** Soporte Técnico Disponible. <br> Dado que un artista necesita ayuda para resolver problemas o dudas, Cuando busca soporte técnico en la plataforma, Entonces encuentra disponible un sistema de asistencia que responde de manera oportuna y efectiva, y puede resolver cualquier inconveniente. <br> **Escenario 2:** Problemas con el Soporte Técnico. <br> Dado que un artista requiere ayuda con un problema en la plataforma, Cuando el sistema de asistencia no está disponible o no responde adecuadamente, Entonces el artista enfrenta dificultades para resolver sus problemas. |
 | US25 | Participación en Redes de Colaboración | Como artista, quiero unirme a redes de colaboración en la plataforma para conectar con otros músicos y explorar nuevas oportunidades creativas. | **Escenario 1:** Participación en Redes de Colaboración Exitosa.<br> Dado que un artista desea colaborar con otros artistas, cuando escoge una banda con la que desea una colaboración, Entonces la plataforma le pedirá enviar una solicitud para unirse a esa banda  y esperara la confirmación. <br> **Escenario 2:** Problemas con la Participación en Redes.<br> Dado que un solista intenta unirse a redes de colaboración con una banda en la plataforma, cuando envía su solicitud de unirse a la banda Entonces esta no es procesada correctamente Y la banda no recibirá la solitud. |
+
+**Historias de usuarios Tecnicas**
+
+| ID  | TITULO | DESCRIPCION | CRITERIOS DE ACEPTACION |
+| --- | ------ | ----------- | ----------------------- |
+| TU01 | Implementación de Endpoint para Búsqueda de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes buscar artistas. | **Escenario 1** Búsqueda exitosa de artistas:<br> Dado que un cliente realiza una solicitud GET al endpoint /api/artists con parámetros de género y disponibilidad, cuando la API procesa la solicitud, entonces devuelve una lista precisa de artistas que cumplen con los criterios de búsqueda.  <br> **Escenario 2** Error en la búsqueda de artistas: <br> Dado que un cliente realiza una solicitud GET al endpoint /api/artists con parámetros de género y disponibilidad, cuando la API procesa la solicitud, si no hay resultados, devuelve una lista vacía o un mensaje de error adecuado. |
+| TU02 | Implementación de Endpoint para Acceso a Portafolios de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder al portafolio de cada artista para ver videos y grabaciones de audio. | **Escenario 1** Acceso exitoso al portafolio de artistas: <br>Dado que un cliente realiza una solicitud GET al endpoint /api/artists/{id}/portfolio, cuando la API procesa la solicitud, entonces devuelve el portafolio completo del artista solicitado. <br> **Escenario 2** Error en el acceso al portafolio de artistas: <br> Dado que un cliente realiza una solicitud GET al endpoint /api/artists/{id}/portfolio, cuando la API procesa la solicitud, si no hay portafolio disponible o hay un error, devuelve un mensaje de error adecuado. |
+| TU03 | Implementación de Endpoint para Comunicación con Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes enviar mensajes a los artistas seleccionados para discutir detalles del evento y negociar términos. | **Escenario 1** Comunicación efectiva con artistas: <br> Dado que un cliente realiza una solicitud POST al endpoint /api/artists/{id}/messages con los datos del mensaje, cuando la API procesa la solicitud, entonces envía el mensaje al artista correspondiente y confirma la entrega. <br> **Escenario 2** Error en la comunicación con artistas: <br> Dado que un cliente realiza una solicitud POST al endpoint /api/artists/{id}/messages con los datos del mensaje, cuando la API procesa la solicitud, si hay un error en la entrega del mensaje, devuelve un mensaje de error adecuado. |
+| TU04 | Implementación de Endpoint para crear un artista | Como desarrollador, necesito implementar un endpoint en la API RESTful que permita a los clientes crear un nuevo músico. | **Escenario 1** Creacion exitosa de un nuevo artista: <br> Dado que un cliente realiza una solicitud POST al endpoint /api/musicians con los datos del nuevo músico, cuando la API procesa la solicitud, entonces crea un nuevo músico en la base de datos y devuelve un mensaje de extito con los detalles del artista creado <br> **Escenario 2** Error en a creacion de artistas: <br> Dado que un cliente envía una solicitud POST al endpoint /api/musicians con datos incorrectos o incompletos del músico, cuando la API procesa la solicitud, entonces devuelve un mensaje de error adecuado indicando los campos requeridos o errores de validación. |
+| TU05 | Implementación de Endpoint para Acceso a Reseñas y Testimonios de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder a reseñas y testimonios de otros clientes sobre artistas para tomar decisiones informadas. | **Escenario 1** Acceso a reseñas y testimonios: <br>Dado que un cliente realiza una solicitud GET al endpoint /api/artists/{id}/reviews, cuando la API procesa la solicitud, entonces devuelve una lista de reseñas y testimonios sobre el artista solicitado. <br> **Escenario 2** Error en el acceso a reseñas y testimonios: <br> Dado que un cliente realiza una solicitud GET al endpoint /api/artists/{id}/reviews, cuando la API procesa la solicitud, si no hay reseñas disponibles, devuelve una lista vacía o un mensaje indicando que no hay reseñas. |
+| TU06 | Implementación de Endpoint para Actualización de Información de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes actualizar la información de los artistas. | **Escenario 1** Actualización exitosa de la información del artista: <br>Dado que un cliente realiza una solicitud PUT al endpoint /api/artists/{id} con los datos actualizados del artista, cuando la API procesa la solicitud, entonces actualiza la información del artista correctamente. <br> **Escenario 2** Error en la actualización de la información del artista: <br> Dado que un cliente realiza una solicitud PUT al endpoint /api/artists/{id} con datos incorrectos o incompletos, cuando la API procesa la solicitud, devuelve un mensaje de error adecuado. |
+| TU07 | Implementación de Endpoint para Eliminación de Artistas | Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes eliminar artistas de la plataforma. | **Escenario 1** Eliminación exitosa del artista: <br> Dado que un cliente realiza una solicitud DELETE al endpoint /api/artists/{id}, cuando la API procesa la solicitud, entonces elimina al artista de la plataforma correctamente. <br> **Escenario 2** Error en la eliminación del artista: <br> Dado que un cliente realiza una solicitud DELETE al endpoint /api/artists/{id}, cuando la API procesa la solicitud, si hay un error en la eliminación, devuelve un mensaje de error adecuado. |
+| TU08 | Implementación de Endpoint para Gestión de Sesiones de Usuario | Como desarrollador, quiero implementar endpoints en la API RESTful para gestionar sesiones de usuario, como inicio de sesión y cierre de sesión. | **Escenario 1** Inicio de sesión exitoso: <br>Dado que un cliente realiza una solicitud POST al endpoint /api/auth/login con credenciales válidas, cuando la API procesa la solicitud, entonces inicia sesión y devuelve un token de autenticación. <br> **Escenario 2** Cierre de sesión exitoso: <br> Dado que un cliente realiza una solicitud POST al endpoint /api/auth/logout con un token válido, cuando la API procesa la solicitud, entonces cierra la sesión del usuario correctamente. |
+| TU09 | Implementación de Seguridad de la API | Como desarrollador, quiero implementar medidas de seguridad en la API RESTful, como autenticación y autorización, para proteger los datos de los usuarios. | **Escenario 1** Autenticación de usuarios exitosa: <br> Dado que un cliente realiza una solicitud a un endpoint protegido, cuando la API recibe la solicitudcon un token de autenticación válido, entonces permite el acceso al recurso solicitado. Y la API devuelve una respuesta exitosa con los datos solicitados por el cliente. <br> **Escenario 2** Error de autorización de usuarios: <br> Dado que un cliente realiza una solicitud a un endpoint protegido, cuando la API recibe la solicitud sin un token de autenticación válido, entonces devuelve un mensaje de error indicando al cliente que la solicitud requiere autenticación. |
+| TU10 | Implementación de Logging en la API | Como desarrollador, quiero implementar logging en la API RESTful para registrar eventos importantes, como solicitudes HTTP y errores, para facilitar la depuración y el monitoreo. | **Escenario 1** Registro de solicitudes HTTP: <br>Dado que la API recibe una solicitud HTTP, cuando procesa la solicitud, entonces registra los detalles de la solicitud en un archivo de registro. <br> **Escenario 2** Registro de errores: <br> Dado que la API encuentra un error durante el procesamiento de una solicitud, cuando maneja el error, entonces registra los detalles del error en un archivo de registro. |
 
 
 
@@ -2680,8 +2697,8 @@ Vue.js: Vue.js es un framework de JavaScript de código abierto para la construc
   </tr>
   <tr>
     <td>Attendees (to planning meeting)</td>
+     feature/chapter-5.2.3
     <td>Cabrera Camizan, Jeferson Smith</br>Manco Cuellar Anthony Ramon </br>
-  </tr>
   <tr>
     <td>Sprint 3 Review Summary</td>
     <td>Se llevaron a cabo correcciones en los artefactos entregados anteriormente y se completaron las secciones faltantes de nuestro informe. Además, conseguimos desarrollar gran parte del backen para nuestra pagina web. Considerando que solo se tiene 3 participantes</td>
@@ -3395,6 +3412,120 @@ Se puede observar mediante la imagen la contribucion del team sobre el resposito
 **Network graph Backend**
 
 ![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1717986900/Screenshot_2024-06-09_213237_nqvqba.png)
+
+
+#### 5.2.4. Sprint 4.
+
+#### 5.2.4.1. Sprint Planning.
+
+<table align="center" border="1" width="90%" style="text-align:left">
+  <tr>
+    <td><b>Sprint #</b></td>
+    <td>Sprint 4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>  REDACTED  </td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>  REDACTED   </td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>  REDACTED  </td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Herrera Castillo, Victor Raul</td>
+  </tr>
+  <tr>
+    <td>Attendees (to planning meeting)</td>
+     feature/chapter-5.2.4
+    <td>Cabrera Camizan, Jeferson Smith</br>Manco Cuellar Anthony Ramon </br>
+  <tr>
+    <td>Sprint 4 Review Summary</td>
+    <td>     </td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Retrospective Summary</td>
+    <td>   </td>
+  </tr>
+  <tr>
+      <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Goal</td>
+    <td>Para el cuarto sprint, el objetivo principal del equipo es finalizar el desarrollo del proyecto, para esto se requiere acabar el backend, asegurándose de implementar los Bounded Context faltantes, al igual que hacer la conexión del Backend con el Frontend del proyecto. Asimismo, en este sprint se busca corregir todos los errores previamente expuestos en lo que al informe refiere. </td>
+  </tr>
+  <tr>
+    <td>Sprint 4 Velocity</td>
+    <td>     </td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>     </td>
+  </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="1"><b>Sprint #</b></td>
+    <td colspan="7"><b>Sprint 4</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+
+| Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
+|--------------------|------------|-----------------|-----------------------|----------------------|
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
+
 
 ### 5.3. Validation Interviews.
 
