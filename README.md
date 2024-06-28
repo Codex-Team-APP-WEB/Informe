@@ -3413,30 +3413,31 @@ Se puede observar mediante la imagen la contribucion del team sobre el resposito
 
 ![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1717986900/Screenshot_2024-06-09_213237_nqvqba.png)
 
+#### 5.2.4. Sprint 4
 
-#### 5.2.4. Sprint 4.
+#### 5.2.4.1. Sprint Planning 4.
 
-#### 5.2.4.1. Sprint Planning.
+Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comienzo de cada sprint y tiene como objetivo definir las actividades a realizar durante ese período específico.
 
 <table align="center" border="1" width="90%" style="text-align:left">
   <tr>
     <td><b>Sprint #</b></td>
-    <td>Sprint 4</td>
+    <td>Sprint 4 </td>
   </tr>
   <tr>
     <td colspan="2"><b>Sprint Planning Background</b></td>
   </tr>
   <tr>
     <td>Date</td>
-    <td>  REDACTED  </td>
+    <td>2024-06-22</td>
   </tr>
   <tr>
     <td>Time</td>
-    <td>  REDACTED   </td>
+    <td>15:00 PM</td>
   </tr>
   <tr>
     <td>Location</td>
-    <td>  REDACTED  </td>
+    <td>Canal de gather "Sala TF Aplicaciones web"</td>
   </tr>
   <tr>
     <td>Prepared By</td>
@@ -3444,35 +3445,44 @@ Se puede observar mediante la imagen la contribucion del team sobre el resposito
   </tr>
   <tr>
     <td>Attendees (to planning meeting)</td>
-     feature/chapter-5.2.4
-    <td>Cabrera Camizan, Jeferson Smith</br>Manco Cuellar Anthony Ramon </br>
-  <tr>
-    <td>Sprint 4 Review Summary</td>
-    <td>     </td>
+    <td>Cabrera Camizan, Jeferson Smith </br>Herrera Castillo, Victor Raul </br>Pingus Rodriguez, Carlos Daniel</td>
   </tr>
   <tr>
-    <td>Sprint 4 Retrospective Summary</td>
-    <td>   </td>
+    <td>Sprint n – 1 Review Summary</td>
+    <td>En el Sprint 3, se logró desarrollar e implementar el 
+    backend de la aplicación web, usando como base de datos MySQL y el framework de Spring Boot.
+    Además de eso se logró desarrollar y conectar el frontend de la aplicación web con el backend. Además pudimos implementar una primera versión de contratos con el cliente. </td>
+  </tr>
+  <tr>
+    <td>Sprint n – 1 Retrospective Summary</td>
+    <td>Para el Sprint 3, se tiene previsto completar la integración entre el frontend y el backend, así como la validación de los datos ingresados. Además, se implementarán medidas de seguridad en la aplicación web utilizando Spring Security, que ofrece funcionalidades como autenticación, autorización y protección contra ataques comunes. </td>
   </tr>
   <tr>
       <td colspan="2"><b>Sprint Goal & User Stories</b></td>
   </tr>
   <tr>
     <td>Sprint 4 Goal</td>
-    <td>Para el cuarto sprint, el objetivo principal del equipo es finalizar el desarrollo del proyecto, para esto se requiere acabar el backend, asegurándose de implementar los Bounded Context faltantes, al igual que hacer la conexión del Backend con el Frontend del proyecto. Asimismo, en este sprint se busca corregir todos los errores previamente expuestos en lo que al informe refiere. </td>
+    <td>Para el Sprint 4, se planea concluir la integración entre el frontend y el backend, además de implementar medidas de seguridad en la aplicación web utilizando Spring Security. Este framework ofrece funcionalidades como autenticación, autorización y protección contra amenazas comunes. También se incorporarán prácticas de Identity and Access Management (IAM) para gestionar de manera efectiva las identidades y los accesos dentro del sistema.</td>
   </tr>
   <tr>
     <td>Sprint 4 Velocity</td>
-    <td>     </td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Sum of Story Points</td>
-    <td>     </td>
+    <td>31</td>
   </tr>
 </table>
 
+
 #### 5.2.4.2. Sprint Backlog 4.
 
+Para el desarrollo de este cuarto sprint, el Scrum Team, elaboró la ultima versión 
+del proyecto.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este cuarto avance.
+
+<img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719476139/Screenshot_2024-06-27_031430_lq1qri.png">
+
+Enlace del Trello :[Sprint Backlog 4 - Codex](https://res.cloudinary.com/djia8bsvr/image/upload/v1719582936/Screenshot_2024-06-28_085520_zbwlfe.png)
 
 
 <table align="center" border="1" width="90%" style="text-align:center">
@@ -3495,34 +3505,222 @@ Se puede observar mediante la imagen la contribucion del team sobre el resposito
     <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
   </tr>
 
+ <tr>
+    <td>TU01</td>
+    <td>Implementación de Endpoint para Búsqueda de Artistas</td>
+    <td>TU01</td>
+    <td>Mostrar la seccion de busqueda de artista</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes buscar artistas.</td>
+    <td>8</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>TU02</td>
+    <td>Implementación de Endpoint para Acceso a Portafolios de Artistas</td>
+    <td>TU02</td>
+    <td>Mostrar informacion de artista detallado</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder al portafolio de cada artista para ver videos y grabaciones de audio.</td>
+    <td>8</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU03</td>
+    <td>Implementación de Endpoint para Comunicación con Artistas</td>
+    <td>TU03</td>
+    <td>Mostrar card para interactuar con artistas</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes enviar mensajes a los artistas seleccionados para discutir detalles del evento y negociar términos.</td>
+    <td>8</td>
+    <td>Victor Herrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU04</td>
+    <td>Implementación de Endpoint para crear un artista</td>
+    <td>TU04</td>
+    <td>Mostrar card para crear artista</td>
+    <td>Como desarrollador, necesito implementar un endpoint en la API RESTful que permita a los clientes crear un nuevo músico.</td>
+    <td>8</td>
+    <td>Carlos Pingus</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU05</td>
+    <td>Implementación de Endpoint para Acceso a Reseñas y Testimonios de Artistas</td>
+    <td>TU05</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes acceder a reseñas y testimonios de otros clientes sobre artistas para tomar decisiones informadas.</td>
+    <td>8</td>
+    <td>Carlos Pingus</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU06</td>
+    <td>Implementación de Endpoint para Actualización de Información de Artistas</td>
+    <td>TU06</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes actualizar la información de los artistas.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+<tr>
+    <td>TU07</td>
+    <td>Implementación de Endpoint para Eliminación de Artistas</td>
+    <td>TU07</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar un endpoint en la API RESTful que permita a los clientes eliminar artistas de la plataforma.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>TU08</td>
+    <td>Implementación de Endpoint para Gestión de Sesiones de Usuario</td>
+    <td>TU08</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar endpoints en la API RESTful para gestionar sesiones de usuario, como inicio de sesión y cierre de sesión.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+  <tr>
+    <td>TU09</td>
+    <td>Implementación de Seguridad de la API</td>
+    <td>TU09</td>
+    <td>Mostrar reseñas de nuestros usuarios</td>
+    <td>Como desarrollador, quiero implementar medidas de seguridad en la API RESTful, como autenticación y autorización, para proteger los datos de los usuarios.</td>
+    <td>8</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ <tr>
+    <td>TU10</td>
+    <td>Implementación de Logging en la API</td>
+    <td>TU10</td>
+    <td>Mostrar tarjetas de nuestros planes</td>
+    <td>Como desarrollador, quiero implementar logging en la API RESTful para registrar eventos importantes, como solicitudes HTTP y errores, para facilitar la depuración y el monitoreo.</td>
+    <td>6</td>
+    <td>Jeferson Cabrera</td>
+    <td>Done</td>
+ </tr>
+
+ 
+</table>
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
-
-
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime.git | main | 965777a | initial commit | initial commit | 09/06/2024 | 
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime.git | feature/TS-chapter-01 | 8be99b0 | feat: profile/musician bounded context added | Musician bounded context added to backend repository | 13/06/2024 | 
+| https://github.com/Codex-Team-APP-WEB/Frontend_MusicTime.git | feature/TS-chapter-02 | 8be99b0 | feat: initial commit for comments | initial version of comments bounded context | 14/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | feature/TS-chapter-03 | 8be99b0 | feat: comments added | feat: comment section added | 15/06/2024 | 
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | feature/TS-chapter-04 | 8be99b0 | feat: musician controller finished | endpoints for musicians added | 16/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | feature/TS-chapter-05 | 8be99b0 | feat: ratings and comments bounded context added | endpoints for ratings and comments added | 16/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | feature/TS-chapter-06 | 8be99b0 | feat: Musician Put | statistical advertising data added | 18/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | feature/TS-chapter-07 | 8be99b0 | feat: Musician Delete | feat: statistical advertising data added | 19/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | feature/TS-chapter-08 | 8be99b0 | feat: IAM added | iam added | 21/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | feature/TS-chapter-09 | 8be99b0 | feat: IAM Authentication included in all endpoints | iam fully implemented | 22/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | feature/TS-chapter-10 | 8be99b0 | Chore: Added auditing | added audit for aggregates | 24/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | hotfix | 8be99b0 | Chore: Checking errors | major bug fix | 26/06/2024 |
+| https://github.com/Codex-Team-APP-WEB/Backend_MusicTime.git | release | 8be99b0 | Chore: Checking errors 2 | final release | 27/06/2024 |
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
-
-
 | Repositorio/Branch | Commit Id  | Commit Message  | Commit Message Body  | Committed on (Date) |
 |--------------------|------------|-----------------|-----------------------|----------------------|
+| US01/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT01.feature | Herrera.Victor-feature-Sprint4-TU01 | 300d064 | add gherkin TU01 | 03/06/2024 |
+| US02/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT02.feature | Herrera.Victor-feature-Sprint4-TU02 | 300d064 | add gherkin TU02 | 03/06/2024 |
+| US03/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT03.feature | Herrera.Victor-feature-Sprint4-TU03 | 300d064 | add gherkin TU03 | 03/06/2024 |
+| US04/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT04.feature| Herrera.Victor-feature-Sprint4-TU04 | 300d064 | add gherkin TU04 | 03/06/2024 |
+| US05/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT05.feature | Herrera.Victor-feature-Sprint4-TU05 | 300d064 | add gherkin US05 | 03/06/2024 |
+| US06/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT06.feature | Herrera.Victor-feature-Sprint4-TU06 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US07/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT07.feature | Herrera.Victor-feature-Sprint4-TU07 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US08/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT08.feature | Herrera.Victor-feature-Sprint4-TU08 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US09/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT09.feature | Herrera.Victor-feature-Sprint4-TU09 | 300d064 | add gherkin TU06 | 03/06/2024 |
+| US010/ https://github.com/Codex/Testing/blob/main/Sprint%204/UT010.feature | Herrera.Victor-feature-Sprint4-TU010 | 300d064 | add gherkin TU06 | 03/06/2024 |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Para este último sprint, se pudo realizar las correciones pertinentes para su posterior despliegue e implementación en el segmento frontend. A continuación se mostrará capturas de las secciones de nuestra API:
+
+En esta primera imagen se aprecia el código backend en funcionamiento:
 
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504692/WhatsApp_Image_2024-06-27_at_11.04.24_AM_nnrxsy.jpg" alt="Run" style="margin-bottom: 3px;" width="1080px">
+</p>
 
+Aquí se aprecia el backend documentado en Swagger con todos nuestros endpoints:
 
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.04.24_AM_1_f0wapy.jpg" alt="swwagger" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Se crea un nuevo usuario en el endpoint "/users":
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.06.53_AM_c0laoc.jpg" alt="createuser" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Se logea el nuevo usuario creado en el sistema para otorgarle el token(IAM):
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504692/WhatsApp_Image_2024-06-27_at_11.07.45_AM_x5nlpf.jpg" alt="login" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Authorize implementado en la documentación, enviándole el token(Bearer):
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.08.50_AM_vs3op0.jpg" alt="bearer" style="margin-bottom: 3px;" width="1080px">
+</p>
+
+Autenticación exitosa y lista para usar los demás endpoints
+
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719504691/WhatsApp_Image_2024-06-27_at_11.09.11_AM_q19rs6.jpg" alt="authenticated" style="margin-bottom: 3px;" width="1080px">
+</p>
+En el alcance del presente sprint, se han realizado las correcciones otorgadas en la revisión del TB2, por lo tanto esta será la versión final del segmento backend lista para su respectivo despliegue.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
+Para el desarrollo del Landing Page de CODEX se ha utilizado los siguientes lenguajes:
 
+Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
+Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
+Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
+
+Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
+GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
+Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+**Contributors**
+
+![collaborate](https://github.com/TempSound/Informe/assets/107071662/00ea7897-c86f-4c31-803a-082915a48115)
+
+![collaborate 2](https://github.com/TempSound/Informe/assets/107071662/ad453c08-aa4d-4f78-b210-af76a52be401)
+
+**Network graph**
+
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
+
 
 
 
@@ -3584,15 +3782,95 @@ En esta seccion se encuentra el desarrollo de las entrevistas realizadas dentro 
 
 <a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1713022073/Entrevista_Gabriel_ej2kin.png"></a>
 
-- Nombre y apellidos: Godofredo Quispe
-- Edad:  21 años
-- Ubicación: lima
-- Duración de la entrevista: 06:02 minutos
+- Nombre y apellidos: Carlos Ramirez
+- Edad: 25 años
+- Ubicación: Arequipa
+- Timing de inicio en el video: 00:00 minutos
+- Duración de la entrevista: 03:50 minutos
 - Breve descripción: <br><br>
-	 Godofredo Quispe, es musico cantante y experto en instrumentos de cuerda y viento, pertenece a la banda Mayara de la ciudad de Puno siendo el autor y cantante principal del grupo de musica de genero latino americano, tras la entrevista nos comenta que la propuesta de negocio es interesante pero aun asi hay aspectos que analisar como el precio ya que no seria factible para grupos que inician y no tiene ingresos..<br><br>
+  Carlos Ramirez es guitarrista y compositor en la banda "Los Andes". Durante la entrevista, mencionó que la propuesta de negocio es prometedora, pero tiene preocupaciones sobre la accesibilidad de precios para bandas emergentes que no tienen ingresos suficientes. También sugirió que la plataforma podría ofrecer planes de pago flexibles o descuentos para bandas nuevas como una forma de atraer más usuarios.<br><br>
 
+Link de la entrevista: [https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e](https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e)
 
-Link de la entrevista: https://drive.google.com/file/d/12R-ZeeNam2rWowNLcwFOtxwMYrwH_u-X/view
+---
+
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/012e14da-40d0-4663-a002-08fd7936a555"></a>
+
+- Nombre y apellidos: Diego Lopez
+- Edad: 28 años
+- Ubicación: Cusco
+- Timing de inicio en el video: 03:50 minutos
+- Duración de la entrevista: 03:40 minutos
+- Breve descripción: <br><br>
+  Diego Lopez es un talentoso cantante y pianista que lidera la banda "Melodías Incas". En la entrevista, expresó que aunque el negocio tiene potencial, el precio podría ser un obstáculo para grupos que recién comienzan y no tienen ingresos estables. Diego recomendó agregar características que permitan a los usuarios promocionar sus eventos directamente a través de la plataforma para ayudar a generar ingresos.<br><br>
+
+Link de la entrevista: [https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e](https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e)
+
+---
+
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/91f29b44-eb00-449f-876d-ed5041d610bb"></a>
+
+- Nombre y apellidos: Luis Gomez
+- Edad: 22 años
+- Ubicación: Trujillo
+- Timing de inicio en el video: 07:30 minutos
+- Duración de la entrevista: 03:50 minutos
+- Breve descripción: <br><br>
+  Luis Gomez es un baterista y productor musical, parte de la banda "Sonidos del Sol". Comentó que el concepto del negocio es interesante, pero cree que el precio puede no ser viable para bandas que están comenzando y carecen de ingresos. Además, Luis sugirió que la plataforma podría ofrecer tutoriales o talleres en línea para ayudar a las bandas a mejorar su música y presencia en línea.<br><br>
+
+Link de la entrevista: [https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e](https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e)
+
+---
+
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/7e933301-fb34-4df0-8475-18560f70b3e3"></a>
+
+- Nombre y apellidos: Ana Torres
+- Edad: 24 años
+- Ubicación: Piura
+- Timing de inicio en el video: 11:20 minutos
+- Duración de la entrevista: 03:45 minutos
+- Breve descripción: <br><br>
+  Ana Torres es violinista y vocalista en la banda "Notas del Norte". Durante la entrevista, mencionó que la idea del negocio es atractiva, pero hay que considerar que el precio podría no ser accesible para grupos nuevos que aún no generan ingresos. Ana también comentó que la plataforma podría tener un sistema de crowdfunding integrado para ayudar a las bandas a recaudar fondos para sus proyectos.<br><br>
+
+Link de la entrevista: [https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e](https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e)
+
+---
+
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/f8abd726-c09a-4ed3-a868-3b493030487d"></a>
+
+- Nombre y apellidos: Laura Gutierrez
+- Edad: 24 años
+- Ubicación: Lima
+- Timing de inicio en el video: 15:05 minutos
+- Duración de la entrevista: 03:45 minutos
+- Breve descripción: <br><br>
+  Laura Gutierrez es cantante y experta en instrumentos de cuerda y viento, pertenece a la banda "Música del Alma" de la ciudad de Puno, siendo la autora y cantante principal del grupo de música de género latinoamericano. En la entrevista, mencionó que la propuesta de negocio es interesante, pero que el precio podría no ser viable para grupos que recién empiezan y no tienen ingresos. Laura sugirió que la plataforma podría incluir una sección para la venta de merchandising para ayudar a las bandas a generar ingresos adicionales.<br><br>
+
+Link de la entrevista: [https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e](https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e)
+
+---
+
+**Entrevista:**
+
+<a><img src="https://github.com/TempSound/Informe/assets/166888821/bd95039c-4882-4dcd-abe8-d4e1aa300895"></a>
+
+- Nombre y apellidos: Yoleny Huaman
+- Edad: 18 años
+- Ubicación: Lima
+- Timing de inicio en el video: 18:50 minutos
+- Duración de la entrevista: 03:55 minutos
+- Breve descripción: <br><br>
+  Yoleny Huaman es una estudiante de enfermería, trabaja en una discoteca y todos los fines de semana hacen eventos con artistas invitados, ella es la encargada de hacer estos trámites y siempre se encuentra con la dificultad de poder contactarlos. Yoleny sugirió que la plataforma podría facilitar el proceso de contratación y comunicación entre los artistas y las discotecas, mejorando la eficiencia y reduciendo las complicaciones.<br><br>
+
+Link de la entrevista: [https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e](https://upcedupe-my.sharepoint.com/personal/u20201e188_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e188%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E19af547a%2D8420%2D42b6%2D80df%2D4f7e4a8e950e)
 
 ---
 
@@ -3655,32 +3933,49 @@ La siguiente tabla resume los resultados de la evaluación:
 | 6   | Notificaciones estáticas sin información relevante                                | 2                   | Usability: Flexibilidad y eficiencia de uso   |
 
 
+
 ### 5.4. Video About-the-Product.
 
 
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719581033/Screenshot_2024-06-28_082334_xpqwd1.png"></a>
 
-5.2.4. Sprint 4
-5.2.4.1. Sprint Planning.
-5.2.4.2. Sprint Backlog 4.
-5.2.4.3 Development Evidence for Sprint Review.
-5.2.4.4.Testing Suite Evidence for Sprint Review.
-5.2.4.5. Execution Evidence for Sprint Review.
-5.2.4.6. Services Documentation Evidence for Sprint Review.
+En este video, te mostramos MusicTime, una plataforma diseñada para simplificar la contratación de músicos y la gestión de eventos musicales. Como parte del equipo de desarrollo, te presentamos una interfaz intuitiva donde los artistas pueden crear perfiles detallados, mostrando su información, fotos y videos. Los clientes pueden buscar y filtrar músicos según género musical, ubicación y disponibilidad, facilitando el proceso de contratación directamente desde la plataforma. Una vez seleccionado el artista, los usuarios pueden generar contratos de manera eficiente y descargar estos documentos en formato PDF, asegurando que todos los acuerdos estén bien documentados y accesibles en cualquier momento. MusicTime se enfoca en ofrecer una experiencia sencilla y efectiva para ambas partes, eliminando la complejidad del proceso de contratación y garantizando que la información crucial esté siempre a mano. 
 
+
+Link de la entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e188_upc_edu_pe/EZ5fEr_mxPtMtwe7dKiuW5ABQLoDAve6gqh4m--qRiuMSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FZX9Nk](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e188_upc_edu_pe/EZ5fEr_mxPtMtwe7dKiuW5ABQLoDAve6gqh4m--qRiuMSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FZX9Nk)
+
+
+
+
+## Conclusiones y recomendaciones
 
 
 ## Conclusiones
 
-Consideramos que el proyecto que realizamos va dar un gran aporte a nuestro prefil profesional por el estilo en que ponemos nuestros conocimientos para hacer soluciones tecnologicas.
+En el desarrollo de MusicTime, nos enfocamos en crear una plataforma que simplifica la contratación de músicos y la gestión de eventos musicales, ofreciendo funcionalidades clave como la visualización de información de artistas, la generación de contratos y la descarga de estos en formato PDF. Esta herramienta está diseñada para ser intuitiva y eficiente, facilitando la interacción entre artistas y clientes. 
 
-Desarrollar un proyecto de catálogo de música implica varios pasos importantes. Primero, debemos entender qué es lo que los usuarios necesitan y qué queremos lograr con el proyecto. Esto implica identificar las funcionalidades clave, como la búsqueda de canciones, artistas y álbumes, así como la reproducción de muestras de música.
+A lo largo del proyecto, hemos identificado que la demanda principal es la necesidad de una solución que agilice y organice el proceso de contratación, asegurando que toda la información necesaria esté fácilmente accesible y bien documentada. MusicTime cumple con estos requisitos, proporcionando una interfaz fácil de usar y funcionalidades específicas que abordan las necesidades de nuestros usuarios.
 
-Después de seleccionar nuestras herramientas, es importante diseñar la estructura de la base de datos. Esto implica decidir cómo vamos a organizar la información sobre canciones, artistas, álbumes y otros datos relacionados. 
+Este proyecto no solo ha demostrado nuestra capacidad para identificar y resolver problemas tecnológicos, sino que también ha sido una oportunidad para aplicar nuestros conocimientos en el desarrollo de soluciones prácticas y efectivas. Consideramos que MusicTime será una valiosa adición a nuestro portafolio profesional, reflejando nuestro compromiso con la creación de herramientas tecnológicas útiles y bien diseñadas.
 
-Des esta manera afrontamos diversos desafios para terminar el TF. aun siendo el primer entregable esperamos mejorar el trabajo hasta el maximo para que sea una solucion de entorno real.
+## Recomendaciones
 
 
+Para mejorar el desempeño de nuestro trabajo y asegurar el éxito continuo de MusicTime, consideramos las siguientes recomendaciones:
 
+1. **Feedback Continuo de los Usuarios**: Implementar un sistema para recopilar feedback de los usuarios de forma regular. Esto permitirá identificar áreas de mejora y nuevas funcionalidades que podrían ser agregadas en futuras versiones.
+
+2. **Optimización de la Interfaz de Usuario**: Continuar refinando la interfaz de usuario para hacerla aún más intuitiva y amigable. Realizar pruebas de usabilidad con usuarios reales puede proporcionar valiosos insights para mejorar la experiencia del usuario.
+
+3. **Seguridad y Privacidad**: Asegurar que todos los datos personales y transacciones sean manejados con los más altos estándares de seguridad. Implementar medidas adicionales de seguridad, como autenticación de dos factores y encriptación de datos, puede aumentar la confianza de los usuarios en la plataforma.
+
+4. **Escalabilidad y Rendimiento**: Planificar para la escalabilidad del sistema, asegurando que pueda manejar un aumento en el número de usuarios y transacciones sin comprometer el rendimiento. Realizar pruebas de carga y optimizar el código y la infraestructura serán cruciales.
+
+5. **Documentación y Soporte Técnico**: Proveer documentación completa y accesible para los usuarios y un soporte técnico eficiente. Esto incluirá guías de uso, FAQs, y un equipo de soporte disponible para resolver cualquier problema que los usuarios puedan enfrentar.
+
+6. **Innovación Continua**: Mantenernos actualizados con las últimas tendencias tecnológicas y estar abiertos a innovar continuamente. Explorar nuevas tecnologías y metodologías puede ayudarnos a mejorar y expandir las funcionalidades de MusicTime.
+
+En conclusión, creemos que MusicTime no solo aporta significativamente a nuestro perfil profesional, demostrando nuestra habilidad para desarrollar soluciones tecnológicas efectivas, sino que también tiene el potencial de convertirse en una herramienta esencial en la industria musical. Con un enfoque continuo en la mejora y la adaptación a las necesidades de los usuarios, estamos seguros de que MusicTime seguirá siendo relevante y valiosa.
 
 <br>
 
@@ -3710,7 +4005,7 @@ Links videos del trabajo.
  |Exposiciones del trabajo|Link de video|
 |---------|---------|
 | TB1     | https://upcedupe-my.sharepoint.com/personal/u20201b895_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201b895_upc_edu_pe%2FDocuments%2Frecording-2024-04-13-23-16-10%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview    | 
-| TB2     | Link     | 
+| TB2     | Se presento el video por Aula Virtual   | 
 
 <center>
 
@@ -3721,7 +4016,7 @@ Links videos del trabajo.
  |Segmento del trabajo|Link del despliegue|
 |---------|---------|
 | LandingPage    | https://codex-team-app-web.github.io/Landing-Page/index.html | 
-| ServerJson   | Link     | 
+| ServerJson   | https://my-json-server.typicode.com/VictorHerrera10/VictorHerrera10-db    | 
 | Proyecto     | https://music-time-web.web.app/ |
 
 <center>
