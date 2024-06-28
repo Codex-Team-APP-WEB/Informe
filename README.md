@@ -3698,31 +3698,76 @@ En el alcance del presente sprint, se han realizado las correcciones otorgadas e
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
-Para el desarrollo del Landing Page de CODEX se ha utilizado los siguientes lenguajes:
+Despliegue del Backend
 
-Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
-Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
-Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
+Para el backend de MusicTime, estamos utilizando **Azure**, que proporciona una plataforma en la nube confiable y escalable. El despliegue en Azure incluye los siguientes pasos:
 
-Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
-GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
-Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+**Configuración de la Base de Datos**: Utilizamos Azure SQL Database para almacenar toda la información relacionada con los usuarios, contratos y otros datos importantes. La base de datos se configura con las mejores prácticas de seguridad y rendimiento para garantizar la integridad y disponibilidad de los datos.
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719584017/Screenshot_2024-06-28_091040_lx8yje.png"></a>
+
+**Despliegue del Backend**: El código del backend, desarrollado en Node.js, se despliega en Azure App Service. Este servicio permite una fácil gestión y escalabilidad de nuestras aplicaciones web, asegurando que pueden manejar un alto tráfico y mantener un tiempo de actividad constante.
+
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719584018/Screenshot_2024-06-28_091022_frria5.png"></a>
+
+**Monitorización y Escalabilidad**: Implementamos herramientas de monitorización en Azure para supervisar el rendimiento y la salud del backend. También configuramos la escalabilidad automática para manejar aumentos en la carga de trabajo sin interrupciones.
+
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719584021/Screenshot_2024-06-28_091003_vakpdv.png"></a>
+
+Despliegue del Frontend
+
+Para el frontend de MusicTime, estamos utilizando **Firebase**, que ofrece una solución completa para aplicaciones web y móviles. El proceso de despliegue en Firebase incluye:
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719584017/Screenshot_2024-06-28_091221_eoah53.png"></a>
+
+**Configuración del Proyecto Firebase**: Creamos un proyecto en Firebase y configuramos el hosting, lo que nos permite desplegar aplicaciones web de manera rápida y sencilla.
+
+**Despliegue del Frontend**: Utilizando Firebase CLI, desplegamos el código del frontend, desarrollado en React, en Firebase Hosting. Este servicio proporciona una red de entrega de contenido (CDN) que garantiza que nuestra aplicación web se cargue rápidamente desde cualquier parte del mundo.
+
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719584018/Screenshot_2024-06-28_091211_f4uwvw.png"></a>
+
+**Implementación de Funcionalidades Adicionales**: Aprovechamos otras herramientas de Firebase, como Firebase Authentication y Firestore, para mejorar la funcionalidad y la experiencia del usuario en nuestra aplicación.
+
+Despliegue de la Landing Page
+
+La landing page de MusicTime se despliega utilizando **GitHub Pages**, una solución sencilla y gratuita para alojar sitios web estáticos. El proceso de despliegue incluye:
+
+<a><img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719584018/Screenshot_2024-06-28_091259_eyclh4.png"></a>
+
+**Configuración del Repositorio**: Creamos un repositorio en GitHub y subimos el código de la landing page, desarrollado en HTML, CSS y JavaScript.
+
+**Activación de GitHub Pages**: En la configuración del repositorio, activamos GitHub Pages seleccionando la rama que contiene el código de la landing page. GitHub Pages genera automáticamente una URL donde la página estará disponible.
+
+**Actualizaciones y Mantenimiento**: Para cualquier actualización, simplemente hacemos un commit y push al repositorio, y GitHub Pages se encarga de desplegar los cambios automáticamente.
+
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
-**Contributors**
+**Contributors backend y frontend**
 
-![collaborate](https://github.com/TempSound/Informe/assets/107071662/00ea7897-c86f-4c31-803a-082915a48115)
+![collaborate](https://res.cloudinary.com/djia8bsvr/image/upload/v1719584021/Screenshot_2024-06-28_090903_oqjgdc.png)
 
-![collaborate 2](https://github.com/TempSound/Informe/assets/107071662/ad453c08-aa4d-4f78-b210-af76a52be401)
+![collaborate 2](https://res.cloudinary.com/djia8bsvr/image/upload/v1719584021/Screenshot_2024-06-28_090917_ynhu9r.png)
+
+![collaborate 3](https://res.cloudinary.com/djia8bsvr/image/upload/v1719584018/Screenshot_2024-06-28_090829_uwsekm.png)
+
+![collaborate 4](https://res.cloudinary.com/djia8bsvr/image/upload/v1719584018/Screenshot_2024-06-28_090804_uzlkpk.png)
+
+![collaborate 5](https://res.cloudinary.com/djia8bsvr/image/upload/v1719584018/Screenshot_2024-06-28_090753_vi6aq5.png)
+
 
 **Network graph**
 
-![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_2_rmbwwq.png)
-![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1713109979/Grafic_1_vxnqpm.png)
+Backend Network:
+ 
+![Page 9]( https://res.cloudinary.com/djia8bsvr/image/upload/v1719584018/Screenshot_2024-06-28_090840_yzazjr.png)
 
+Frontend Network:
 
-
+![Page 9](https://res.cloudinary.com/djia8bsvr/image/upload/v1719584021/Screenshot_2024-06-28_090940_uatl5f.png)
 
 
 ### 5.3. Validation Interviews.
@@ -3950,7 +3995,7 @@ Link de la entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201
 ## Conclusiones y recomendaciones
 
 
-## Conclusiones
+### Conclusiones
 
 En el desarrollo de MusicTime, nos enfocamos en crear una plataforma que simplifica la contratación de músicos y la gestión de eventos musicales, ofreciendo funcionalidades clave como la visualización de información de artistas, la generación de contratos y la descarga de estos en formato PDF. Esta herramienta está diseñada para ser intuitiva y eficiente, facilitando la interacción entre artistas y clientes. 
 
@@ -3958,7 +4003,7 @@ A lo largo del proyecto, hemos identificado que la demanda principal es la neces
 
 Este proyecto no solo ha demostrado nuestra capacidad para identificar y resolver problemas tecnológicos, sino que también ha sido una oportunidad para aplicar nuestros conocimientos en el desarrollo de soluciones prácticas y efectivas. Consideramos que MusicTime será una valiosa adición a nuestro portafolio profesional, reflejando nuestro compromiso con la creación de herramientas tecnológicas útiles y bien diseñadas.
 
-## Recomendaciones
+### Recomendaciones
 
 
 Para mejorar el desempeño de nuestro trabajo y asegurar el éxito continuo de MusicTime, consideramos las siguientes recomendaciones:
