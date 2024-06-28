@@ -3480,7 +3480,7 @@ Esta sección detalla el Sprint Planning Meeting, una reunión que marca el comi
 Para el desarrollo de este cuarto sprint, el Scrum Team, elaboró la ultima versión 
 del proyecto.Además, para lograr gestionar las actividades que le corresponde desarrollar a cada integrantes, se elaboró un tablero Kanban, esto nos permitió conocer el avance del desarrollo del sprint, se elaboró sólo algunos aspectos y puntos prioritarios para al menos lograr presentar este cuarto avance.
 
-<img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719476139/Screenshot_2024-06-27_031430_lq1qri.png">
+<img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1719582936/Screenshot_2024-06-28_085520_zbwlfe.png">
 
 Enlace del Trello :[Sprint Backlog 4 - Codex](https://res.cloudinary.com/djia8bsvr/image/upload/v1719582936/Screenshot_2024-06-28_085520_zbwlfe.png)
 
@@ -3653,11 +3653,13 @@ Enlace del Trello :[Sprint Backlog 4 - Codex](https://res.cloudinary.com/djia8bs
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-Para este último sprint, se pudo realizar las correciones pertinentes para su posterior despliegue e implementación en el segmento frontend. A continuación se mostrará capturas de las secciones de nuestra API:
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714765131/Captura_de_pantalla_2024-05-03_143754_a4ohfm.png" alt="Run" style="margin-bottom: 3px;" width="1080px">
+</p>
 
-En esta primera imagen se aprecia el código backend en funcionamiento:
-
-
+<p align="center">
+  <img src="https://res.cloudinary.com/djia8bsvr/image/upload/v1714765130/Captura_de_pantalla_2024-05-03_143802_v9naab.png" alt="Run" style="margin-bottom: 3px;" width="1080px">
+</p>
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
